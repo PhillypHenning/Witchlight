@@ -1,7 +1,3 @@
-Reminders for writing:
-1. Di will be effected by the Grung poisons
-    - Start with a rash as he is working with Sue then have it hit him all at once, multiple checks with increased difficulty
-
 # Game Reminders
 1. Karag has the cursed shield on him and still doesn't know it yet
 2. Di is effected by the Grung poison
@@ -10,7 +6,13 @@ Reminders for writing:
 # Recap
 
 # Beats
-1. The Inn at the End of the Road
+1. Reminders before the game
+    - Karag
+        - Ever since the Grung camp you've had a nagging feeling in the back of your mind. Something between a headache and a forgotten memory. You can't shake the feeling that there is something within this place that you're missing. Though you're unsure what that something is.
+    - Baraka (If Tristan is here)
+        - Replay the entrance to the Inn, specifically with the Rusted Knight seeing him and reacting before being kicked out.
+
+2. The Inn at the End of the Road
     - Di
         - Mention to Di that his armpits are strangely itchy
             - If he sneaks a look he sees that most of his sides are red and bumpy
@@ -28,7 +30,10 @@ Reminders for writing:
         
         - Afterwards, Tsu will offer to teach Di how to "make metal laugh" in order to make it stronger claiming, a soul full of laughter is hard to shatter, that goes for metal too."
     
-2. Dinner is served
+    - At the end of their discussion outside they will hear flapping wings followed by deep laboured breaths. Looking to the sky they will see Hans the stork flying towards them.
+        - Hans asks if the Inn is open to which Tsu says it is and he is welcome to head inside
+    
+3. Dinner is served
     - Di
         - At some point during this mention to Di that the itchness has escalated quite drastically to heat.
 
@@ -41,8 +46,15 @@ Reminders for writing:
         4. As you go to put some salt on your food.. the cap falls off and an ungodly amount of salt quickly falls all over your plate.. What do you do?
         5. One of the table apps sits in front of you, feeling peckish you reach in just as the person across from you does the same.. your hands bump in the air and you look up to see them looking at you.. what do you do?
         6. With a phwamp Fwooosh a thick glob of butter sails through the air hitting you dead in the nose. The table erupts in laughter as it slowly slides down your face with little grace. Who do you think threw it?
+    
+    - Good chance to have Hans see the baby and inquire
+        - Upon realizing that this is the same child he is looking for he will ask for his ward back so he can make his properly delivery
+        - He is worried about being kicked out of The Nest, and the Blue Delivery Service, his job
+        - If not able to convince Nuff / Sevro to give the child back to his care, he will reason that he must steal the child from them
+    
+    - This will be a good place to have the party kick back, relax and potentially speak to each other. Encourage them to ask questions that may have been on their mind during dinner. 
 
-3. Di is poisoned
+4. Di is poisoned
     - DC 15 CON for each poison
     - Poisons
         - Blue, Di develops a strange case of the hiccups which aggressively turn into the sounds of different animals
@@ -52,7 +64,7 @@ Reminders for writing:
         - Purple, Di gets a really urgent need to submerge himself in water. His skin and eyes feel extremely dry
         - Red, Di is overtaken by hunger to eat flies and gains the ability to sniff them out
 
-4. Kettlesteam
+5. Kettlesteam
     - Still using Lightfoot's voice, Nuff will recognize it (int check to determine who it belonged to)
     - Kettlesteam is looking for his patron who should be ruling Prismeer
         - His patron is of course the ArchFey Zalbina
@@ -62,22 +74,84 @@ Reminders for writing:
     
     - If the party don't cheer him up, he may fall victim to Maraunu and Tempest who will offer to introduce him to the new matrons of Prismeer
 
-4. Sevro vs Darrow
+6. Sevro vs Darrow
     - Darrow will challenge Sevro for Fanny's attention much to her delight
     - Since they cannot fight they will need to come up with another method of competition, Darrow suggests they arm wrestle
+    - On her way up to her room this will all come to a head as Darrow will attempt to beat Sevro to the room
 
-5. A night with Fanny
+7. A night with Fanny
     - At the very end of the night Fanny will bring Sevro upstairs to her room
         - Sevro has a great night and is turned into a donkey.
-    - Fanny will have disappeared in the morning, Tsu will chuckle about her disappearance and make a comment about "How now even the Inn can control a Dryad" 
+    - Fanny will have disappeared in the morning, Tsu will chuckle about her disappearance and make a comment about "I'm not surprised. Even the Inn cannot control a Dryad"
 
-6. Departure
+8. Departure from the Inn
     - Cutscene
 
-7. Boots back on the ground
+9. Boots back on the ground
+    - Cutscene
 
-8. Ambush
+10. Ambush
+    - Cutscene
 
 
 # Cutscenes
-## Departure
+## Goodbye to new friends
+The soft, warm light of the perpetual twilight filters through the ornate windows, casting a glow upon the faces of the patrons as the party gathers their belongings. Kettlestream's gentle melody hums in the background, a farewell lullaby to the adventurers.
+
+**Camera pans across the warm, bustling room, then settles on Tsu the Chameleon Lizardfolk Innkeep.**
+
+**Tsu:**
+"Time to part ways, friends," Tsu says, her scales shifting to a tranquil morning hue. "Remember the Inn will always find those who need it."
+
+**Fleetwood, the Fat Blue Dragonborne Cook, waddles over with a large satchel.**
+
+**Fleetwood:**
+"Packed you some of my finest for the road. Swamps aren't known for their cuisine," he says with a chuckle, patting the satchel. 
+
+**The camera shifts to Marunu and her partner Tempest.**
+
+Marunu approaches, her eyes glowing softly with a fire, while Tempest stands in the shadows behind her, silent as ever.
+
+**Marunu:**
+"I hope we all meet again," a broad genuine smile across Marunu's face
+
+**Fleetwood:**
+"Safe travels! And remember, the Inn will always be here," Fleetwood calls out, a fond smile on his lips.
+
+**Tsu:**
+"Indeed. Farewell, and may the road treat you kindly," Tsu adds, her voice gentle and reassuring.
+
+The Inn's colossal legs begin to stir, raising it back to its feet.
+
+**The massive red building, perched atop its many human-like legs, moves with a rhythmic grace toward the edge of the forest.**
+
+**Thud. Thud. Thud.**
+
+The forest parts way for the lumbering Inn, and ever so slowly it disappears from view. The sounds of its foot falls slowly trailing away behind the view.
+
+**The camera focuses on the party as they prepare to disembark.**
+
+
+## A growing presence 
+Thick, gnarled trees stretch their limbs overhead, their twisted branches creating a canopy that filters the fading twilight into mottled patches of light and shadow on the ground.
+
+**The camera pans slowly, capturing the dense foliage, the glistening patches of still water, and the occasional croak of a distant frog.**
+
+In the distance, partially obscured by mist and creeping vines, stands the silhouette of a broken down church. Its steeple leans precariously, and shattered stained glass windows flicker as though catching the last glints of sunlight and reflecting memories of a once-sacred place.
+
+**The camera zooms in on the church, emphasizing its ancient, decaying structure amidst the swamp's eerie beauty.**
+
+A sense of age and neglect hangs heavy over the building; moss-covered stones and creeping ivy have claimed much of the outer walls. The large, weathered double doors hang slightly ajar, and beyond them, the interior is shrouded in darkness, hinting at secrets hidden within.
+
+**The camera then hard cuts to a close-up of Karag's face.**
+
+The paladin's eyes are wide with concern, his normally resolute expression betraying a hint of anxiety. Sweat beads on his forehead, and his fingers tighten around his weapon. 
+
+**Karag: A high-pitched ringing sound fills your ears, growing louder and more insistent.**
+
+**The camera then zooms out to show Karag standing motionless, his gaze fixed on the distant church.**
+
+**The camera holds on Karag for a moment, capturing his internal struggle, then pans back to the silhouette of the church.**
+
+**Karag: A few moments of stillness pass and the ringing sound fades, leaving only the eerie silence of the swamp filling your ears**
+
