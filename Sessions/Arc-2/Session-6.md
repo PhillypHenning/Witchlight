@@ -84,13 +84,17 @@
         - Sevro has a great night and is turned into a donkey.
     - Fanny will have disappeared in the morning, Tsu will chuckle about her disappearance and make a comment about "I'm not surprised. Even the Inn cannot control a Dryad"
 
-8. Departure from the Inn
+8. Sir Talifer
+    - Sir Talifer after hearing Kettlesteam will offer to tell the story of Zalbina from the Summer court perspective
+        - https://suno.com/song/c390103c-7533-4bab-999a-4798833fb5d8
+
+9. Departure from the Inn
     - Cutscene
 
-9. Boots back on the ground
+10. Boots back on the ground
     - Cutscene
 
-10. Ambush
+11. Ambush
     - Cutscene
 
 
@@ -155,3 +159,44 @@ The paladin's eyes are wide with concern, his normally resolute expression betra
 
 **Karag: A few moments of stillness pass and the ringing sound fades, leaving only the eerie silence of the swamp filling your ears**
 
+
+## Zalbina's rhythm
+In the glade where moonbeams play,
+Lies a tale of Zalbina’s day,
+Deep within the forest glen,
+Magic stirs and whispers then.
+
+Zalbina, Zalbina, with eyes so bright,
+Dance with shadows in the night,
+Weave your spells and cast your might,
+In the realm of fey delight.
+
+Once a maid of mortal world,
+In the fey, her fate unfurled,
+She learned secrets, dark and wild,
+With each spell, a cunning child.
+
+Zalbina, Zalbina, sly and keen,
+Charmed the crown of Autumn’s Queen,
+Trick and treat, and bending seen,
+By her wit, she built a dream.
+
+Spiders dance and goblins cheer,
+When her laughter they can hear,
+Through the woods, a whispered charm,
+Shields all fey from mortal harm.
+
+Zalbina, Zalbina, crafty one,
+Plays her games till night is done,
+In her eyes, a thousand suns,
+Trickster’s daughter, fey and fun.
+
+So beware, ye children small,
+When you hear her mystic call,
+For in dreams she’ll weave you tight,
+With her spell of soft moonlight.
+
+Zalbina, Zalbina, ever fair,
+Beware her cunning, if you dare,
+But with a heart and spirit bare,
+You might just see her magic share.
