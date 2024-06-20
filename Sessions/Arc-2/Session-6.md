@@ -4,6 +4,17 @@
 3. Darrow is racist
 
 # Recap
+- You left Rain's watery caverns and made your way back onto the path with Jewels in toe
+- While walking the path you tumbled upon a makeshift camp full of Grungs. The small creatures hungerily swarmed Di who got pretty flustered with the ordeal, meanwhile Karag heard the calling of the earth from a statue within the camp.
+- Of course. Jewels went missing. Again.
+- Finally a travelling inn found its way to you and offered you sanctuary
+    - Heading inside you found a large cast of characters
+    - Tsu the innkeep and Fleetwood the cook
+    - Marunu and Tempest the shadowy individuals
+    - Darrow and Fanny the cheerful bunch at the table
+- Di was requested to help out Tsu in payment for your lodgings
+- Sevro and Darrow immediately began a pissing contest, honestly it's hard to tell who is the bigger ass between them
+- Yanaba and Nuff questioned the shadowy figures for details of their lives
 
 # Beats
 1. Reminders before the game
