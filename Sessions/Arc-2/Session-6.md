@@ -211,3 +211,9 @@ Zalbina, Zalbina, ever fair,
 Beware her cunning, if you dare,
 But with a heart and spirit bare,
 You might just see her magic share.
+
+
+# GAME NOTES
+- Sevro has been turned into a donkey and at the very end of the adventure took an action that had him poofed out of the inn
+- Yanaba asked Hans if he had lost a baby before and whether it was in the mortal world to which he confessed to (missed opportunity to lie, this is my fault, I should have made it more interactive)
+- Di tripped from the Grung poison (failed every CON check.. lel) and Tsu looked after him for the night
