@@ -57,7 +57,7 @@
         4. As you go to put some salt on your food.. the cap falls off and an ungodly amount of salt quickly falls all over your plate.. What do you do?
         5. One of the table apps sits in front of you, feeling peckish you reach in just as the person across from you does the same.. your hands bump in the air and you look up to see them looking at you.. what do you do?
         6. With a phwamp Fwooosh a thick glob of butter sails through the air hitting you dead in the nose. The table erupts in laughter as it slowly slides down your face with little grace. Who do you think threw it?
-    
+
     - Good chance to have Hans see the baby and inquire
         - Upon realizing that this is the same child he is looking for he will ask for his ward back so he can make his properly delivery
         - He is worried about being kicked out of The Nest, and the Blue Delivery Service, his job
@@ -82,7 +82,7 @@
     - He's been here only a day longer then the rest of the party and has spent most of his time in the inn
     - He tried to leave Hither by flying through then over the dense fog that surrounds the swamp but each time he ended up back in the swamp somewhere else.
     - Kettlesteam is a bit discouraged at this point and is resting and regaining his composure before he continues his journey
-    
+
     - If the party don't cheer him up, he may fall victim to Maraunu and Tempest who will offer to introduce him to the new matrons of Prismeer
 
 6. Sevro vs Darrow
