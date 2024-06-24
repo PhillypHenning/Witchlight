@@ -109,7 +109,7 @@
     - Cutscene
 
 
-# Cutscenes
+# Cut scenes
 ## Goodbye to new friends
 The soft, warm light of the perpetual twilight filters through the ornate windows, casting a glow upon the faces of the patrons as the party gathers their belongings. Kettlestream's gentle melody hums in the background, a farewell lullaby to the adventurers.
 
