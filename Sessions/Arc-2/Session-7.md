@@ -58,6 +58,23 @@
         2. If the attack happens the Spanner will panic and begin bucking everyone off, laughing like a madman as he does
         3. Spanners like trinkets and baubles, any will do!    
 
+4. Session wrap up
+    - Sevro's cutscene
+
 # Cut scenes
+The scene opens with an ethereal glow emanating from a swirl of translucent, blue hues. The spellbind fades, revealing Sevro, in finely stitched leather armor, stepping gracefully into the dense, shadowy forest.
+
+The towering ancient tree canopies interlace, their branches forming a natural roof that conceals the sky. Crickets chirp melodiously, leaves rustle with unseen life, and the distant hoot of an owl punctuates the eerie calm. Small creatures dart between bushes, their eyes glinting in the scant twilight that filters through.
+
+Sevro takes a cautious step forward, his hand instinctively gripping the lute strapped to his back. His eyes, sharp and wary, scan the surroundings as he breathes in the damp, mossy air.
+
+Behind him, the entrance of a dark cave looms ominously, shrouded in shadow and foreboding. The cave seems to swallow the light around it, a black maw in the heart of the forest.
+
+Suddenly, two thickly muscled arms, veined and grotesque with claws the color of midnight, slowly extend from the cave’s abyss, slicing through the air with a chilling precision. The claws glint menacingly, their sharp tips thirsting for flesh.
+
+Unaware of the impending danger, Sevro continues to survey his surroundings, senses straining to pick up any sign of movement. A distant growl rustles the leaves, causing him to tense and reach for his lute, ready to strum a defensive spell.
+
+As his fingers hover over the strings, an unsettling whisper of wind reaches his pointed ears. His instincts flare. **Sevro turns, eyes wide with realization**, the monstrous arms lunge from the darkness.
+
 
 # GAME NOTES
