@@ -78,3 +78,7 @@ As his fingers hover over the strings, an unsettling whisper of wind reaches his
 
 
 # GAME NOTES
+- The burrows has a path that leads from the Great Stump directly to it.
+- Di used the feather to bend the cage holding Talifer out
+- Di gave his crown of feather fall to the baby up in the tree
+- Sir Talifer grabs the baby after the battle and follows the party
