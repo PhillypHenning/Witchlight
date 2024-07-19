@@ -58,7 +58,8 @@
         
         Round 1, the two will face two short sword Herrigon with their bare hands
         Round 2, the two will face the flail snail who will flee and hide in his shell after taking 10 damage
-        Round 3, the two will Grundy who jumps down from his elevated podium and engages the two with his spear 
+        Round 3, the two will Grundy who jumps down from his elevated podium and engages the two with his spear
+
 
 - Sevro
     - From begin two thick red skinned hands covered in matted black fur grab you, a gutteral "RAWGWGGGGW" erupting from behind you. (Let Travis react)
@@ -82,6 +83,7 @@
         - If asked what she is doing: "I'm going to pay a dirty, filthy liar a visit.. and blow his doors in for stealing from me!"
             - Though Aaragon did find it, he has since given it to away to the Herrigon currently carting Di and Karag to be delivered to Downfall
         - "Want to come with me? I could always use another.. hoof"
+
 
 
 - Di & Karag
@@ -117,3 +119,7 @@
                 - After leaving the church, Lorna in her beast form will attack
                     - Tempest will attempt distract Di
                     - Lorna will bite Karag and further curse him
+
+# Notes
+- Buff escaled from the pits
+- Baraka died from 3 crossbow shots, 2 to the legs, 1 to the neck
