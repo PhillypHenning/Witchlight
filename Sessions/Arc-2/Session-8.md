@@ -30,7 +30,7 @@
 
         - The doors are nameless and when asked pose a riddle to Yanaba. 
             - Escape is not easy, escape is not quick, to get through you'll have to use your wit. Which of us is a liar?
-            - The trick is that they both are liers
+            - The trick is that they both are liars
 
     - On her way out
         - You reappear where the stone hit you, on the ground beneath your feet is the stone and the rope that was used to bind you. Looking around you recognize the possesions of your friends stacked on various counters.
@@ -75,6 +75,7 @@
     - Jingle Jangle
         - Is curious to who Sevro is and how he got here
         - Is preparing for her attack and will ask him to come with her to her house so she can continue to work while they speak
+    
     - Jewels
         - Truly won't recognize Sevro
         - Will refuse to believe that "this donkey" could be his good friend Sevro
@@ -98,7 +99,7 @@
     - Into boiling water
         - A few hours seem to pass. (Have them roll perception checks) X as you're studying the ground you notice something.. the ground seems to be getting wet.. like very wet and very quickly. 
 
-        - It's not long after you realize this that the Herrigon seem to notice as well.. The Herrigon begin to run around rapidly chirping at eachother. One points in the cages direction before another seems to snap back. The group of Herrigon then scramble away leaving the cage behind. 
+        - It's not long after you realize this that the Herrigon seem to notice as well.. The Herrigon begin to run around rapidly chirping at eachother. One points in the cages direction before another seems to snap back. The group of Herrigon then scramble away leaving the cage behind.
         
 
         - Karag and Di need a way out and fast as the water begins to rise quickly towards where they are. 
@@ -121,5 +122,12 @@
                     - Lorna will bite Karag and further curse him
 
 # Notes
-- Buff escaled from the pits
-- Baraka died from 3 crossbow shots, 2 to the legs, 1 to the neck
+- Baraka and Nuff
+    - Buff escaled from the pits
+    - Baraka died from 3 crossbow shots, 2 to the legs, 1 to the neck
+
+- Yanaba
+
+- Di and Karag
+
+- Sevro
