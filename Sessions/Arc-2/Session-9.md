@@ -52,3 +52,29 @@
     - Baraka takes 2 of the shots and unfortunately plummets back to the ground
     - Nuff flies out of the pit, bolts flying around him, yelling a tearful apology, the small fairy takes off for the treelines and makes it
     - The session ends with Nuff quickly zipping through the forest as the cries of his pursuers slowly fading behind him
+
+# Session beats
+1. Yanaba's escape
+    - What's in the store room?
+        - All of the parties weapons + the hooded lantern of revealing
+        - Additionally there will be 34 bolts, 22 arrows, 3 vials of oil
+        - Finally the widdled toy of a young rabbit sits on the table
+
+2. Nuff catches a glimpse of Sevro with the Jingle Jangle's group
+    - As Nuff works his way through the forest he will catch a glimpse of Sevro
+    - Jingle Jangle will come back and snatch the bag of explosives from Sevro scolding him that "If he doesn't have the guts then he can leave"
+        - Jingle Jangle will then continue on with Jewels and Rummpgh to start her attack
+
+3. Di and Karag
+    - Nothing else will happen while they are there, but the group will begin hearing the explosions from Jingle Jangles attack
+
+4. As the party moves through the forest they will be attacked by small pockets of Herrigon, but eventually they will get away
+
+5. The party will need to find a place to rest
+    - Opportunity to RP
+    - Perhaps Jewels finds his way back to the party at this point
+    - The party levels up here
+
+6. Upon waking up the party will find themselves surrounded by thick overgrowth, thick vines and strange flowers of orange, yellow and red have encompassed the campsite
+    - 3 Mantraps https://5e.tools/bestiary.html#mantrap_toa
+    - 5 Thorn Slingers https://5e.tools/bestiary.html#thorn%20slinger_tftyp
