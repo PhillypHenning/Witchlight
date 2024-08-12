@@ -21,7 +21,7 @@
     - Jingle Jangle the strange goblin asked if Sevro was interested in coming with her and her rag-tag group as they were going to "blow someone up" and with excitement, Donkey Sevro agreed
     - The 4 of them travelled through the swamp for 2 days
         - During the travel Jewels showed a Donkey Sevro a piece of art he had been working on, Jewels was insecure about showing his friends the piece but with Donkeys Sevro kind and encouraging words, he managed to convince Jewels to show it to them next time he saw them
-    
+
 - Karag and Di
     - Karag and Di wake up in a wooden cage being pulled by 2 giant snails. A herrigon leads the snails from shellback, while a persession of herrigon walk beside their wooden cage cart.
     - A short distance behind them is the tip of the old church just poking up and out of the trees, clearly they hadn't yet gotten very far
@@ -78,3 +78,16 @@
 6. Upon waking up the party will find themselves surrounded by thick overgrowth, thick vines and strange flowers of orange, yellow and red have encompassed the campsite
     - 3 Mantraps https://5e.tools/bestiary.html#mantrap_toa
     - 5 Thorn Slingers https://5e.tools/bestiary.html#thorn%20slinger_tftyp
+
+
+
+
+# Notes
+- Di and Karag
+    - Di identified the tattoo being that at Grumbar and Grom
+    -
+
+- Yabana
+    - Took the weapons
+    - Poked around the food
+        - Knows that the brown mushrooms with the blue stem is etible
