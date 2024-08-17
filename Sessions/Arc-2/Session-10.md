@@ -30,9 +30,50 @@ The Tollway is swarming with Herrigon, most are in small parties (2-3) within an
     - The Herrigon will prioritizing sounding the alarm before engaging. Once the alarm is issued they will attempt to fall back and wait for more until to arrive.
 
 3. Combat
-    Roll a d6, high = 3 herrigon, low = 2 herrigon
+    Roll a 1d4+1 herrigon to start the combat
     Every minute (10 turns):
         d12:
             1-6: 1d6 Herrigon
             7-11: 1d3 Snail Riders show up
             12: Grundy, a snail rider and 1d3 Herrigon show up
+
+4. Tristan's character introduction
+
+
+# Area's they could visit
+## Burrows
+### People
+- Yanaba's family
+    - 3 Babies who are indistinguishable from eachother
+    - The oldest of the family is a teenager named Frisk, who wishes to join Aargons band crew
+    - Yanaba's parents
+        - Nook (Mom)
+        - Dash (Dad) 
+- Lost child parents
+    - Tally (Mom)
+    - Grain (Dad)
+- Old Man Whiskers
+    - Knows alot about the swamp
+        - Knows about the Giant Horned Frog of the swamp
+        - Appreciates Aaragon a great deal
+- The Beat Carrot
+    - A local bar run by a quirk female bartender
+
+### Events
+- Stopped at the gate
+    - Only Herrigon are allowed to enter
+    - Aaragon's crew run protection for the city
+        - A small band of 4 Swords, 2 Snail Riders and 2 Crossbows man the city and can defend its entrance
+        - If the parties arrives here early they will not know about the group being escapies. They will then send a dragonfly messenger after letting Yanaba in
+        - A short while later a dragonfly will return and the rest of the party will be let in
+        - Aaragon and his forces are on their way and want the party to be stuck
+
+## Watcher's Watch
+- The strange tower in the ocean holds a secret.. a captive creature with great powers of clarvoyance
+
+## Shronk's hut
+- A pair of ogres are working for Lorna The GreatHorned Frog. They used to raid the Herrigon of The Stump and the Burrows not so long ago and are still more than capable to. However Aaragon has so far been able to quell them with an agreement of him supplying live sacrifice. The two are still a dangerous threat and aren't afraid to nab a Herrigon here and there with no recourse.
+
+# Question's left unanswered
+- Sir Talifer took Noaba and fled during the battle. Having watched his friends die he was unsure of what to do next. The small pseudo-dragon has done his best to take care of the small child but it entirely unsure how to do that. Luckily Hans the Stork happened upon them, and though at first he did try to convince Talifer to give him the baby so that he could complete his delivery, he soon realized that Sir Talifer was not going to give the baby up. Hans has stuck around and Sir Talifer isn't completly trusting, however Hans has been helping Sir Talifer out with taking care of the baby. They are still planning on what to do next.
+
