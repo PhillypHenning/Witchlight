@@ -1,6 +1,7 @@
 # Session Beats
 1. Campsite
     - Open with a chance for RP
+    - Nuff leaves to go find Noaba
 
 2. Fight with the local.. flora?
     - 1 Mantraps https://5e.tools/bestiary.html#mantrap_toa
@@ -11,7 +12,7 @@
 
     - If they do manage to cleave their way through the Tollway than they will arrive on the bridgeway leading to the fighting pit. Baraka's body lays dead on the ground between the treeline and the fighting pits.
 
-4. A new introduction 
+4. A new introduction
 
 
 
