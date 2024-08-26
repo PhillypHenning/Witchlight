@@ -2,9 +2,9 @@
 
 ### Overview:
 The player is whisked away to the Feywild under mysterious circumstances and finds themselves deep within a mountain. Guided by an enigmatic fey spirit, they must ascend to the mountain's peak, overcoming fey trickery, magical creatures, and environmental obstacles. At the summit, they must complete a final, poignant challenge that tests not just their strength, but their wisdom and empathy.
-
+ 
 ### Initial Hook:
-The character awakens groggily in a subterranean cavern, the last echoes of a powerful enchantment fading from their memory. A delicate fey spirit named Elowen appears, explaining that the mountain holds a secret key to returning to their world, but first, they must prove their worth by reaching the top.
+The character awakens groggily in a subterranean cavern, the last echoes of a powerful enchantment fading from their memory.
 
 ### Key Objectives:
 1. **Navigate the Labyrinthine Caverns (Skill Challenge):**
@@ -13,7 +13,7 @@ The character awakens groggily in a subterranean cavern, the last echoes of a po
     - **Checks**:
         - Perception, DC12 - An unstable rock cluster falls and hits you 1d4+1 damage
         - Investigation, DC12 - You fail to see a thin tripwire, you hear 2 low *thwomp*, +2 - 1d4 poison damage per hit
-        - Survival, DC12 - You get lost in the twisting tunnels, having to double back on yourself has left you Tired (Exhaused but fixed by a short rest)
+        - Survival, DC12 -You get lost in the twisting tunnels, having to double back on yourself has left you Tired (Exhaused but fixed by a short rest)
 
 2. **Defeat the Fey Guardian (Combat Encounter):**
     - **Encounter:** A grotto guarded by a fierce Fey Guardian—an enchanted beast or a sentient plant.

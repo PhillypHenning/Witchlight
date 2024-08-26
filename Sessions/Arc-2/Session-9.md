@@ -80,8 +80,6 @@
     - 5 Thorn Slingers https://5e.tools/bestiary.html#thorn%20slinger_tftyp
 
 
-
-
 # Notes
 - Di and Karag
     - Di identified the tattoo being that at Grumbar and Grom

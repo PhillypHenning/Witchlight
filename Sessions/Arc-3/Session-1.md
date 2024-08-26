@@ -78,3 +78,12 @@ The Tollway is swarming with Herrigon, most are in small parties (2-3) within an
 # Question's left unanswered
 - Sir Talifer took Noaba and fled during the battle. Having watched his friends die he was unsure of what to do next. The small pseudo-dragon has done his best to take care of the small child but it entirely unsure how to do that. Luckily Hans the Stork happened upon them, and though at first he did try to convince Talifer to give him the baby so that he could complete his delivery, he soon realized that Sir Talifer was not going to give the baby up. Hans has stuck around and Sir Talifer isn't completly trusting, however Hans has been helping Sir Talifer out with taking care of the baby. They are still planning on what to do next.
 
+# Notes
+- The party recovered and buried the body of Baraka
+- Sevro was extremely distraught about Nuff leaving, he asked constantly about Nuff and the Baby
+- They fought off a ManTrap (Plant)
+- They all decided that they wanted to check out the tower in the body of water. They spent a day walking through the Swamp to get to the other side.
+- Terran was introduced to smashing success
+- Karag had a brief moment where he raged
+- Party got to ding dong peek and fought off the devils that had made it their residence
+- The session ends as they head into the cave
