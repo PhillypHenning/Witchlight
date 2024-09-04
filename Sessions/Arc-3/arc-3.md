@@ -17,10 +17,27 @@
 
 - The Burrows
     - The Old Mayor
+        - See's Aagron as a neutral force. He has certainly provided help and hope but at the cost of lives. Though in this swamp, can one ask for more?
     - The Inn Keep
+        - Likes Aagron, see's him as a positive
     - The Frontgate Guards
+        - 2 young guards of Aagron gang
     - The Family
         - Father
+            - Doesn't particularly like Aagron
         - Mother
+            - Hates Aagron, her oldest boy ran away to join him last year and died within a month of joining
         - Young son and daughter
+            - To young to understand
+
+
+
+- Random creature encounters
+    - A stone path seems to cut off the path, into the trunk of a large tree and down into the ground. A strange smell of iron and rust seems to vent upward in hot gusts from below
+        - Basilisk layer
     
+    - The party is stalked from behind by two large, sleek black creatures. They will need to make a series of survival checks to see who is and isn't caught by surprise as the creatures launch their attack
+        - 2x Displacer Beast (Reduced threat)
+    
+    - A bone chilling scream cuts across the sky, above a strange creature is circling around the party, moments later it dives.
+        - Peryton
