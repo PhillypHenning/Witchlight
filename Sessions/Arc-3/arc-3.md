@@ -16,3 +16,11 @@
     - One of Tempest's responsibilities is to ensure the continued descent of those effected by his mother and at present that includes Karag. He has a few darts on him that will send Karag into a rage if even knicked. He will use them when Karag least expects in attempt to sow discord between he and the party
 
 - The Burrows
+    - The Old Mayor
+    - The Inn Keep
+    - The Frontgate Guards
+    - The Family
+        - Father
+        - Mother
+        - Young son and daughter
+    
