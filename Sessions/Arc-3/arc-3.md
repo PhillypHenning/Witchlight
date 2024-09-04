@@ -32,12 +32,21 @@
 
 
 
-- Random creature encounters
+- Random encounters
     - A stone path seems to cut off the path, into the trunk of a large tree and down into the ground. A strange smell of iron and rust seems to vent upward in hot gusts from below
-        - Basilisk layer
+        - [NORMAL] Basilisk layer
     
     - The party is stalked from behind by two large, sleek black creatures. They will need to make a series of survival checks to see who is and isn't caught by surprise as the creatures launch their attack
-        - 2x Displacer Beast (Reduced threat)
+        - [NORMAL] 2x Displacer Beast (Reduced threat)
     
     - A bone chilling scream cuts across the sky, above a strange creature is circling around the party, moments later it dives.
-        - Peryton
+        - [NORMAL] Peryton
+
+    - [NORMAL] Phase Spider nest
+    - [NORMAL] Manticore
+    - [NORMAL] Minotaur
+    - [NORMAL] Owlbear
+    - [NORMAL] Blue Scarf Patrol (4-8 Herrigon)
+    - [HARD] Yuan-Ti Priest (and a few goons)
+    - [HARD] Grundy and his tough riders (Grundy + 3 Snail Riders + 4 herrigon crossbowers)
+    - [VERY_HARD] SSurran Defiler
