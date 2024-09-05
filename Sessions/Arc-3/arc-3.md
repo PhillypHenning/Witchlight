@@ -19,22 +19,27 @@
 
 
 - The Burrows
-    - The Old Mayor
+    - The Old Mayor, Nizzot
         - See's Aagron as a neutral force. He has certainly provided help and hope but at the cost of lives. Though in this swamp, can one ask for more?
         - "I may have joined him had I been a yonger rabbit. I likely would have wanted him forgotten about as a father. Today I understand his position is a complex one."
-    - The Inn Keep
+    - The Inn Keep, Limnal
         - Likes Aagron, see's him as a positive
-    - Apothocary
-    - A local bar - The Bunny Hops
-    - The Frontgate Guards
+    - The Frontgate Guards, Urde and Egot
         - 2 young guards of Aagron gang
     - The Family
-        - Father
+        - Father, Ral
             - Doesn't particularly like Aagron
-        - Mother
+        - Mother, Areh
             - Hates Aagron, her oldest boy ran away to join him last year and died within a month of joining
-        - Young son and daughter
+        - Young son Elaven and daughter Areh
             - To young to understand
+
+    - Events
+        - Upon making it to the gates of The Burrows the two guards will be knocked out and stuffed into a nearby create and barrel. Screams ring out from within..
+            - The Minotaur brothers, Crusher and Bruiser, are in the process of raiding The Burrows as the party shows up.
+            - Seeing the party and two brothers will immediately want to fight. Neither of the brothers want to die and go until the two of them are both dealt a strong blow. At which point they will make their escape.
+
+
 
 
 
@@ -50,7 +55,6 @@
 
     - [NORMAL] Phase Spider nest
     - [NORMAL] Manticore
-    - [NORMAL] Minotaur
     - [NORMAL] Owlbear
     - [NORMAL] Blue Scarf Patrol (4-8 Herrigon)
     - [HARD] Yuan-Ti Priest (and a few goons)
