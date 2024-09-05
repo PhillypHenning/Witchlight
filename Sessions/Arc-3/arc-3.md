@@ -15,11 +15,17 @@
 - Tempest and Maraunu
     - One of Tempest's responsibilities is to ensure the continued descent of those effected by his mother and at present that includes Karag. He has a few darts on him that will send Karag into a rage if even knicked. He will use them when Karag least expects in attempt to sow discord between he and the party
 
+
+
+
 - The Burrows
     - The Old Mayor
         - See's Aagron as a neutral force. He has certainly provided help and hope but at the cost of lives. Though in this swamp, can one ask for more?
+        - "I may have joined him had I been a yonger rabbit. I likely would have wanted him forgotten about as a father. Today I understand his position is a complex one."
     - The Inn Keep
         - Likes Aagron, see's him as a positive
+    - Apothocary
+    - A local bar - The Bunny Hops
     - The Frontgate Guards
         - 2 young guards of Aagron gang
     - The Family
