@@ -19,3 +19,50 @@
 As they travel through the swamp 2 displacer beasts will pick up on their scent and begin tracking them. Three party members make a survival check they need: 12, 13, 14. If any of them make the check they are not caught surprised in the ambush.
 
 # Notes
+
+- Di climbs up The Watcher
+
+- The Watcher
+    - Di was the first ask where Zalbina is
+    - Yanaba asked about where the unicorns wife is
+    - Sevro asked for a weapon and instead got a warning
+    - Karag asked for Burly
+
+
+
+
+In shadows deep and witches' weave,
+Zalbina's fate, a tale to grieve.
+Bound in dimension, lost to time,
+Three witches' curse, a darkened crime.
+
+In dreams entwined, the unicorn's plea,
+Her mate transformed tragically.
+A rocking chair, a wooden guise,
+By Skabatha's craft, hidden from eyes.
+
+Burly's form, now mortal guise,In Thither's land, confusion lies.A twisted mind by Skabatha's art,Forgotten past, a fractured heart.
+
+In verdant swamps where shadows creep,
+Deep sorrow lies, a secret deep.
+Bavlorna reigns, with eyes of spite,
+In guise of frog, she claims the night.
+
+Your parents' breath, in darkness stilled,
+By nature's cruel, their fate was sealed.
+Her horned form, a terror vast,
+In death's embrace, their lives did pass.
+
+
+
+
+
+Sevro has entered into an agreement where Chopain has transformed him into Darrow. In return Chopain gets to ask Sevro for a request that must be fulfilled in 1 week or his soul is Chopain.
+
+
+
+
+
+
+
+
