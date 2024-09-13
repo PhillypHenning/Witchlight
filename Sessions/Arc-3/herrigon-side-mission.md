@@ -21,4 +21,4 @@ To humanize the Herrigon further by making the party play as them and see the sw
     Roll a d6 and split to determine who goes missing
     - One of the children goes missing in the night (they are out for a pee), the guards will need to find them in the dark, Perception DC 14
 
-4. (Hard encounter) On the parameter of The Burrows two minotaur brothers bump into the group. The duo were sent by <WITCH 2> to meet with Bavlorna but being vicious and quick to anger, the duo take the opportunity to get into a fight with the party.
+4. (Hard encounter) On the parameter of The Burrows two minotaur brothers bump into the group. The duo were sent by Skabatha to meet with Bavlorna but being vicious and quick to anger, the duo take the opportunity to get into a fight with the party.
