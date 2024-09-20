@@ -1,8 +1,8 @@
 # Pregame
 Have each person roll a d3
-1 = Sword
-2 = Spear
-3 = Crossbow
+1. Sword
+2. Spear
+3. Crossbow
 
 Then have them roll a d6 for a name
 1. Thistlebloom Quickfoot
@@ -50,7 +50,7 @@ To humanize the Herrigon further by making the party play as them and see the sw
 
 # Story Beats
 1. While travelling they hear a cry for help not far off the path. If they decide to investigate they will find a bullywog with his leg in a beartrap. The bullywog's name is Arloo and he was in the process of breaking in and entering the house to look for any valuables. Unbenost to him the owner of the hut was eaten a few days prior anyway. 
-    - Checks needed: 
+    - Checks needed
         Athletics: DC 12 - Open the beartrap
         Medicine DC 12 - To pack Arloo's wounds
         Perception DC 12 - Arloo will attempt to steal from the party
@@ -66,3 +66,4 @@ To humanize the Herrigon further by making the party play as them and see the sw
     - One of the children goes missing in the night (they are out for a pee), the guards will need to find them in the dark, Perception DC 14
 
 4. (Hard encounter) On the parameter of The Burrows two minotaur brothers bump into the group. The duo were sent by Skabatha to meet with Bavlorna but being vicious and quick to anger, the duo take the opportunity to get into a fight with the party.
+

@@ -106,7 +106,26 @@
         - Lorna's dominate person when used successfully against Karag will activate his rage and set his allies to enemies
 
 
+## Cutscene
+*Scene: A dimly lit, run-down shack. Dual Ogre inhabitants are occupied with their mundane tasks. The female Ogre tends to a small, glowing furnace, the flames dancing in her intense gaze. Nearby, the male Ogre idly picks wax from his ears with a crude, sharpened stick. Opposite him at the hastily assembled table, an enigmatic human woman and a figure cloaked head-to-toe in black cloth quietly observe the room.*
 
+*The air is thick with a mix of smoke, sweat, and the faint metallic tang of something indefinable. The shack's wooden walls creak as if they might collapse any moment, adding to the oppressive atmosphere.*
+
+*Suddenly, a loud, deliberate knocking on the door snaps everyone's attention away from their immediate preoccupations. Eyes narrow and grips tighten on whatever weapons or tools are at hand.*
+
+*The door swings open with a dramatic crash. Two imposing Minotaurs step inside. The first, towering and muscular, wields a massive two-handed axe that gleams sinisterly in the flickering firelight. The second Minotaur, sporting a thick black beard interlaced with tendrils of smoke that wisp into the air, follows closely behind.*
+
+*With a smug, guttural laugh, they heave a torn-apart corpse of a human-sized bunny onto the dirt floor. Blood and fur scatter upon impact, sending a wave of metallic scent through the air.*
+
+***"Caught us a meal,"*** the axe-wielding Minotaur bellows, his voice like grinding stones.
+
+*The room falls silent, save for the low crackling of the furnace and the heavy breath of the creatures assembled. The human woman and the cloaked figure exchange glances, the woman's eyes reflecting a mix of revulsion and calculated interest, while the cloaked figure seems entirely disinterested*
+
+***"Already making a mess of things, why am I not surprised?"*** asks the cloaked figure 
+
+***"Got to have fun where you can, right?"*** the axe-wielding Minotaur asks back "They have deep holes to hide beneath back in Thither, we're just taking advantage of these rabbits stupidity."
+
+***"Hmm."***  Responsds the cloaked figure, ***"Anyway, we are all here for a reason and I don't plan on staying for.."*** motioning down to the half corpse on the ground "dinner. What's Skabatha response to my mother?"
 
 # Notes
 
