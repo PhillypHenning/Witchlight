@@ -8,16 +8,16 @@
 2. The Town
     - The Soggy Court
         - Previous Kings
-            1. King Gullibog the Plump
-            2. King Splattergoo the Brave
-            3. King Mudptoop the Cunning
-            4. King Crokelly the Reformer
-            5. King Toadstool the Visionary
-            6. King Quagmire the Grizzled
-            7. King Fenhopper the Wise
-            8. King Dribblejaw the Just
-            9. King Sludgebelly the Fierce
-            10. King Bubblemuck the Magnificent
+            1. King Gullibog        the Plump
+            2. King Splattergoo     the Brave
+            3. King Mudptoop        the Cunning
+            4. King Crokelly        the Reformer
+            5. King Toadstool       the Visionary
+            6. King Quagmire        the Grizzled
+            7. King Fenhopper       the Wise
+            8. King Dribblejaw      the Just
+            9. King Sludgebelly     the Fierce
+            10. King Bubblemuck     the Magnificent
 
         - Upcoming kings
             1. King Illig the Large
@@ -25,16 +25,16 @@
             3. King Ribbertongue the Bold
             4. King Marshwallow the Gentle
             5. King Murktoad the Grim
-        
+
         - Current King
             - King Gullop the Great
-        
+
         - The Resistence
             - Illig, Baron of Muckstump
-        
+
         - The Captain of the guard
             - Captain Croakjaw
-    
+
         - Events
             - At minimum 2 characters will be instructed to meet The King
             - King Gullop will welcome the player characters
@@ -47,10 +47,10 @@
 
     - The Dank Pool
         - A body of water at the center of Downfall, often used for public speeches or ceremonies. It's surrounded by Bullywog huts
-    
+
     - The Croaking Choir
         - A place where Bullywogs gather to practice and perform their croaking songs. It's an amphitheater-like area with natural acoustics
-    
+
     - The Mudcroak arena
         - A small area where Bullywogs engage in various competitions, from wrestling to croak-offs
 
@@ -58,21 +58,21 @@
         - Run by Duke and his two employees
         - The three are currently trying to clean out the piles of ash from the factory floor
         - Duke is extremely upset and worried that The King will have his head due to the factory burning down
-    
+
     - Talking head bridge
         - All the past kings heads are on pikes along the sides of the bridge. They are kept alive by Lorna's magic. The kings will shout about their legacies and how they were a strong king and how kings that came before were weak
         - They know who the leader of the resistence is and can be convinced to tell them
 
     - Holding Cells
         - The cells always has 2 Bullywog knights on guard with a rotating 3rd
-    
+
     - Trinket, Bauble and Charm's
         - 3 brothers who run a travelling imporium and shop
         - They work for Endelyn Moongrave, another of the 3 Witches
         - Only 1 of the brothers are manning the shop, the other two are attempting to break into the vault in Lorna's hut
 
     - Big Barkless
-    
+
     - Toadstool Patch
 
     - Watch Tower
@@ -128,5 +128,6 @@
 ***"Hmm."***  Responsds the cloaked figure, ***"Anyway, we are all here for a reason and I don't plan on staying for.."*** motioning down to the half corpse on the ground "dinner. What's Skabatha response to my mother?"
 
 # Notes
-
+- Jewels gets thrown into the cells with Sevro but Jewels hasn't seen Sevro since changed into Darrow!
+- 
 
