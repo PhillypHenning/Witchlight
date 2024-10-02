@@ -1,6 +1,7 @@
 - Sevro in the cells
     - Illig approaches Jewels speaking in Sylvan and offers to get him out if he pledges alliegence to him and helps him kill the king
     - Sevro will almost certainly either agree through Jewels or by casting understand languages. He will almost certainly attempt to use the situation to get close to the King himself
+    - Jewels is uninterested in Sevro while he looks like this. If pushed, Jewels will remark on how disgusting Sevro looks and won't believe him if told he is Sevro
 
 - Witches Hut
     - Di is walking into a room in which a large bronze frog sits looking upward with its mouth agape. The inky blackness of depth lingering at the edges of bronze frogs open throat.
@@ -210,3 +211,24 @@ This small ebony statue of a cat has jade eyes and a slightly mischievous look. 
 48. **Levitating Feather:** Hovers inches above the ground when released.
 49. **Ring of Minor Alarm:** Vibrates gently at the presence of danger.
 50. **Gem of Mending:** Once per day, casts *mending* on a small item.
+
+
+
+# Lorna
+## Magic Items
+1. Staff of Swarming Insects (https://www.dndbeyond.com/magic-items/4766-staff-of-swarming-insects)
+2. Hexing Wand (Within the Vault)
+3. Cloak of Protection (Made of thick burrs seemingly from the back of a giant porcupine)
+
+## Lair Actions
+1. Throw Potion
+    10 foot area, DC 12 Dex check, 2d6 acid damage, half on save
+2. Shake House (DC)
+    All occupants who isn't Lorna or Lornalings make a DC 12 Str/Con check, on a failed save the target falls prone
+
+## Legendary Actions
+2 Legendary Action Points, Recharge 2 at the end of each round
+
+1. Attack (1 LAP)
+2. Use Magic Item (1 LAP)
+
