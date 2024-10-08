@@ -14,5 +14,5 @@
         - The inn will come into earshot before view but will be moving adjacent. The party will need to run after it in order to jump on
 
 4. [IatEotR] The Drowned Library
-    - An otter named Fritz sits within. He is.. was the caretaker of The Sunken Library. A tower that long ago begin its slow descent into the mud, like all things here. 
+    - An otter named Fritz sits within. He is.. was the caretaker of The Sunken Library. A tower that long ago begin its slow descent into the mud, like all things here. He isn't at a loss having been forced out by the new foul creature that has taken it over, 
     - Heard through a rumur
