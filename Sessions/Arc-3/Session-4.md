@@ -1,3 +1,4 @@
+# Beats
 - Sevro in the cells
     - Illig approaches Jewels speaking in Sylvan and offers to get him out if he pledges alliegence to him and helps him kill the king
     - Sevro will almost certainly either agree through Jewels or by casting understand languages. He will almost certainly attempt to use the situation to get close to the King himself
@@ -9,7 +10,7 @@
             - Karag's sense of direction
             - Skabatha's wind-up gizmo (Key to the bad guys story line, this is what the Minotaurs are here to pick up and trade)
             - Amulet with a Little Red Button
-        - The room has illusion trap spell cast on it, when someone attempts to look into the Bronze Frog the back wall turns into a wall of frogs. Large frog heads lash out, 4x Atheltics checks (DC12), on failure the user is grappled. Then the wall of frogs falls, Wisdom saving throw (DC15) on failure the person is thrown to the ground and takes 1d12 psychic damage every round until they make the Wisdom saving throw
+        - The room has illusion trap spell cast on it, when someone attempts to look into the Bronze Frog the back wall turns into a wall of frogs. Large frog heads lash out, 4x Atheltics checks (DC12), on failure sthe user is grappled. Then the wall of frogs falls, Wisdom saving throw (DC15) on failure the person is thrown to the ground and takes 1d12 psychic damage every round until they make the Wisdom saving throw
     
     - The party who is downstairs looking into the house will see the following
         - A pool of greenish water in a large basin sits in the middle of the room
@@ -26,6 +27,10 @@
             - Contains 30 random magic items, the felline figurine and the hexing wand
     - The entire cottage
         - 20 Lornalings run around the house invisible keeping an eye on all who enter
+
+
+
+
 
 # Event
 ## Lorna returns home
@@ -108,7 +113,7 @@ By successfully integrating these elements, you’ll create a memorable, spine-c
 
 
 # Items
-## Minor Magic Items
+
 ### Amulet with a Little Red Button
 This amulet has a little red button incorporated into its construction. Pressing the button causes the item to say "That was easy", immediately after it explodes, destroying the item. Each creature within 20 ft. of the item must make a DC 13 Dexterity saving throw, taking 6d6 fire damage on a failure or half damage on a success.
 
@@ -214,6 +219,14 @@ This small ebony statue of a cat has jade eyes and a slightly mischievous look. 
 
 
 
+
+
+
+
+
+
+
+
 # Lorna
 ## Magic Items
 1. Staff of Swarming Insects (https://www.dndbeyond.com/magic-items/4766-staff-of-swarming-insects)
@@ -231,4 +244,21 @@ This small ebony statue of a cat has jade eyes and a slightly mischievous look. 
 
 1. Attack (1 LAP)
 2. Use Magic Item (1 LAP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
