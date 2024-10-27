@@ -5,7 +5,16 @@
         - Blind rage caused by Tempest who hit Karag with a poisoned dart
             - Tempest was tasked by Bavlorna to do tail the group and do this when the opportuntity presented itself
         - Blind rage caused by Bavlorna while the party was snooping around her house
-    [PLANNED] Karag's dream
+    - [PLANNED] Karag's dream
+        - Karag nods off for just a moment, as he opens his eyes he is sat at the head of a long dark table that stretches away into the distance. Infront of him are two shadowy figures, one sits still and silently staring down at an empty plate disconnected. The other is barely contained by his seat, rocking back and forth, slamming his fork and knife into the table and hollaring
+        - Bavlornas voice and hand will slink out from the darkness
+            - "Come now Karag, don't be a bad host." A plate with a full chicken appears beside him, "Go on now, feed one of them! They look starving"
+        - The choice
+            - Karag's choice matters in this scneario
+                1. He feeds the silent figure, the angry one loses it jumping across the table and attacking him before he can finish
+                2. He feeds the angry figure, the solemn one looks on without saying a word, slowly his armor begins to rust and the skin falls from his bones leaving a skeleton hunched forward and watching
+                3. He feeds both of them, the Witch retreats silently into the dark
+                4. He feeds neither, Lorna laughs as both of them turn into skeletons and then dust
 - Di
     - On Death's door Di saved his own life by selling his soul to the Devil Chopain
         - He had the choice between selling his soul or killing Sevro for Chopain
@@ -22,15 +31,36 @@
 
 
 # Story Beats
-1. Downfall
-    - Nearly all the bullywogs that the party met are all dead, in their place are tadpoles mid-transition to frogs
-        - They are louder and even less obidents
-        - If Sevro takes the throne then there will be assassination attempts on his life constantly, but he will be King for as long as he can hold it
-        - The Bullywogs are numerous but have a tendency to devolve into killing often.
-        - The city has 8 Knights and 10 Squires, their levels are representative of how long they've been alive for
-        
-    - Gloam knows something bad has happened to her sisters but not what happened. She is mid panic and plans on leaving Downfall within the next hour (from them leaving the Hut)
-2. Leaving Downfall
+1. Start of game
+    - Perception Check 14
+        - They see strange butterflies around the outside of the door
+    - Arcana Check 14
+        - The butterflies are magic, likely evocation
+
+2. One of the players lands on the head of an Alligator as the rest of the party realizes they are surrounded by the crocadilian creatures.
+    - The crocodiles of Downfall dress in daper clothes to attend the feast of 1000 idiots
+    - They won't attack unless attacked first
+    - They speak Sylvan
+
+3. Downfall        
+    - The Skyhouse
+        - Gloam knows something bad has happened to her sisters but not what happened. She is mid panic and plans on leaving Downfall within the next hour (from them leaving the Hut).
+    - Shop
+        - Carl Croaker lays gravely wounded with the bodies of other bullwogs around him. This isn't the first time he has survived the town familicide.
+        - If provided treatment he will let the party take whatever they need for their road ahead from the shop
+    - King's Court
+        - Jessica
+            - Jessica Bluetop sits on a crate nearby, a large grin paints her face as she plays with a knife.
+            - "I love this town. I think I may just stay"
+            - "I'm not exactly sure what just happened, but it was the most fun a girl can have outside murdering the helpless."
+            - Jessica is in Downfall to gain patronage with Bavlorna. She will answer honestly if asked about her presence. 
+        - Half a Solider
+            - Upon seeing Sevro, the half body of a bullywog knight will begin dragging itself over to him to desperately attack. With his last breaths he will call Sevro a coward and lier.
+        - Jewels
+            - Jewels hid under the table as the fighting broke out and only emerges once the alligators make their way in
+
+
+4. Leaving Downfall
     - They pass by the minotaur brothers as they are walking into town
         - They are speaking about their attack on The Burrows in Sylvan when they get in vision of the party
             - The berserker brother will be looking to pick a fight
@@ -38,6 +68,9 @@
     - If they head towards The Stump, then this will play out
         - As a crew of Herrigon pass by one catches sight of the group. He waits letting his group push on into the woods. He is wary of the party and doesn't intend to lose his life. He lets the party know that Grendel has taken over The Stump and that Aagron has retired and taken his loyalists to The Burrows.
         - The Herrigon's name is Lucky.
+
+---
+
 3. The Stump
     - Grendel has taken over The Stump and rebranded the gang to The Shell Breakers
         - The Shell Breakers
@@ -84,21 +117,27 @@
             - When first seeing Yanaba she laughs "All Yanaba's come to The Inn at the end of the road eventually"
         - Fritz (See below)
     
-5. The Drowned Library
-    - Hook
-        - An otter named Fritz sits within. He is.. was the caretaker of The Sunken Library. A tower that long ago begin its slow descent into the mud, like all things here. He isn't at a loss having been forced out by the new foul creature that has taken it over
-    - Dungeon
-        - LockWight name Morgan Blackhand
-        - Has 24 Zombies within the towers, 12 of which he keeps as a personal guard
-    - Events
-        - During the end fight after being hit for the first time, Morgan will begin cursing out the group
-            - "You must be just a sick as the Otter"
-            - "I.. can't believe what's been done to my body.. you people make me sick"
-            - "How could you like something like that? You revolt me and are a stain to humanity"
-    - Outcomes
-        - Morgan is killed, his sword taken
-            - He will not give up his sword willingly as it was a gift from his Patron
-        - Morgan is not killed as the party realize that the otter is a psychopath
+
+4. The Drowned Library
+    - An otter named Fritz is.. was the caretaker of The Sunken Library. A tower that long ago begin its slow descent into the mud, like all things within the swamp. The only thing remaining of the once majestic structure is the red roof that sticks uphazardly out of the brown mud in an inoccuous part of the swamp
+    - Fritz is an absolute psychopath, killing and mutilating innocent, vulnerable people who stumbled upon the library. Sometimes he'd eat what he needed but most times it was because he planned on selling the parts to Bavlorna. 
+    - Fritz, admittedly, is passionate about the library, he trades Bavlorna for clams, tomes and scrolls.
+    - The current resident is a Deathlock Wight. The collective suffering of the tower having brought it to unlife. The wight swiftly ran Fritz out, though he was looking to kill him. Since then he has begun raising zombies within the library, currently having 15 roaming and a 12 entourage.
+
+    - Within the library currently is
+        1. **Scroll of Druidcraft (Cantrip):** This scroll allows the caster to perform minor magics that tease the senses and emphasize nature's beauty.
+        2. **Scroll of Minor Illusion (Cantrip):** Perfect for creating captivating and harmless illusions, ideal for trickery or distraction.
+        3. [Investigation_15] **Scroll of Faerie Fire (1st Level):** This spell causes all creatures within a 15-foot cube to glow with a faint light, nullifying invisibility and adding a bit of spectral flair to any encounter.
+        4. **Scroll of Speak with Animals (1st Level):** Immerse players further into the fey world by granting them direct communication with the wild creatures of the realm.
+        5. **Scroll of Entangle (1st Level):** Harness the power of nature to hold enemies in place with grasping vines and roots, reflecting the wild and unpredictable nature of fey magic.
+        6. [Investigation_15] **Scroll of Invisibility (2nd Level):** Unseen movement can add an element of stealth reminiscent of the elusive fey, who often disappear from sight with ease.
+        7. [Investigation_20] **Scroll of Moonbeam (2nd Level):** Channeling the ethereal light of the moon, this radiant spell is perfect for a night under the fey starlit skies.
+        8. [Investigation_20] **Scroll of Counterspell (3rd Level):** This scroll represents the capstone of the collection, allowing the caster to unravel magical effects, much like the unpredictable twists of fey interference.
+
+5. [GOAL] The inn at the end of the road
+    - This can only happen a handful of days after the party leaves Downfall and begins heading back into the Swamp
+    - The IatEotR
+        - The inn will come into earshot before view but will be moving adjacent. The party will need to run after it in order to jump on
 
 
 
@@ -116,9 +155,6 @@
         - Baba Yaga won't be overly interested in the group
             - She could potentially be persuaded to help Karag
             - If Sevro angers her she will turn him into a Blob
-
-
-
 
 # Timestone Amulet
 ## 6 Second Bounce
@@ -138,3 +174,5 @@ Immediately benefit from the effects of a long rest with the exception of health
 1/Long Rest
 Out of Combat
 You jump to a new timeline taking all equipment you have with you! Roll a new character.
+
+
