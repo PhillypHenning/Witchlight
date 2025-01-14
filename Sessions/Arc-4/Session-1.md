@@ -1,5 +1,4 @@
 # Into the fog
-
 ## Round and Round we go
 1. Mist coils around your feet, a ghostly presence that clings to low-lying ferns and moss-covered stones. At the edge of the fog, you see fleeting silhouettes of creatures darting between the shadows, just beyond clear focus.
 
@@ -25,21 +24,29 @@
 
 12. Fluttering leaves rustle almost silently, disturbed only by ghostly whispers of wind passing through the canopy. In the mist, tails of fog whip and coil around unseen figures, suggesting company that remains just out of sight.
 
-
-## Karag
+## Personals
+### Karag
 - While out collecting rocks a strange insect catches your eye, describe what you see
 
-## Terran
+### Terran
 - You find Di standing by a pool of water looking out in thought, what do you do
     - Di hears Terran leaving if he says nothing
 
-## Di
+### Di
 - Everyone in the camp has left to get tonight's supplies, only yourself, Sevro and Clobberclaw remain
 
-## Yanaba
-- While walking you get the growing sense that something large and predatory is following right behind. A nearby twig snapping in the woods proves it.
+### Yanaba
+- While walking you get the growing sense that something large and predatory is following right behind. A nearby twig snapping in the woods all but proves it.
 
-## Sevro
+### Sevro
 - While at camp, preoccupied with something you're doing you're surprised to hear Di's voice calling you from somewhere out in the wood. You look around and see your compatriots, including Di, speaking a short distance away.
+    - It's a frog that happens to sound exactly like Di sitting out in the fogs
 
 
+## NPCs
+- Sevro
+    - Hopes the his sister found her way back to Tither as he believes he has exhausted his options in the swamps of Hither
+    - Is impressed by Sevro's (Darrow's) escape but doesn't want to outright say anything
+- Clobberclaw
+    - Working for Endelyn
+    - Plans on speaking to the Hourglass coven when he gets to Tither

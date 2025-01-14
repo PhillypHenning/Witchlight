@@ -5,6 +5,7 @@
     - Assisted Zalbina in her attack against The Twilight Court.
     - Was brought down by the The Twilight Courts magician who put the creature into a magical slumber.
     - Zil Vil Zon Toper's will is great and has slowly degragaded the spell over time. Her Will has crystalized into two gems that lay within the dungeon.
+    - Was the broodmate of Quicksilvers. The two of them had an egg shortly before she left to assist Zalbina
 
 - Cult of the Purple Scale
     - The Kobold collection that resides nearby and takes care of the slumbering purple dragon
@@ -19,7 +20,6 @@
         - The goals of the party and the group need to align
         - Every few turns they get into an argument losing them turns while they fight
 
-
 - The Druid
     - A drow druid named Daa'grin
     - Daa'grin became lost in the fog a long, time ago. Since than he has been wondering the fogs, going where they take him. Recently he stumbled upon the Rot Wright Grove and sensing the deep wounds it held he decided to stay and see what he can do to help.
@@ -33,6 +33,11 @@
     - Seeded with the blood, anger and war that took place between Zalbina and The Twilight Court the Twilight Grove has been left to fester and rot. The once proud flora now contageous and blighted holds the door closed to The Twilight Court.
     - The largest of the wounded plantlife is the Hanging Tree, a once gorgeous Oak tree was turned into an execution grounds.
 
-
 # Locked Doors
 - None
+
+# Bosses
+## Galnoza the crawling horror
+Every 25 damage Galnoza buries itself into the soft garbage mass. Her babies (1d4)+1 will fall out of the walls and attack the party. After 2 turns Galnoza will emerge from the mass and begin attacking.
+
+## Rot Wright Hanging Tree
