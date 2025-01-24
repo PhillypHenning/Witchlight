@@ -1,119 +1,3 @@
-# Selections
-## Class: Fighter
-    - Fighting Style: Dueling (+2 damage while wielding a weapon in one hand and nothing in the other)
-    - Second Wind
-    - 150 Starting Gold
-## Race: Variant Human (Magic Initiate)
-## Background: Investigator
-
-# Ability scores
-STR: 16 (+3)    = [BASE]15 + [VARIANT_HUMAN]1
-DEX: 12 (+1)    = [BASE]12
-CON: 14 (+2)    = [BASE]13 + [VARIANT_HUMAN]1
-INT: 14 (+2)    = [BASE]14 
-WIS: 8  (-1)    = [BASE]8
-CHA: 10 (0)     = [BASE]10
-
-# Combat Details
-Movement: 30
-Initiative: +1
-Armor Class: 15 = [SCALE_MAIL]14 + 1[DEX_MOD]
-Max HP: 9 = [ROLL]7 + 2[CON]
-Prof: +3
-Inspiration: 3 = 1[2] + 1[9] + 1[42]
-# Tracking
-Current HP: 9
-Temp HP:
-
-# Attacking
-## Melee
-- Melee Attack (STR): 6 = [PROF_BONUS]3 + [STR+MOD]3
-- Melee Attack (DEX): 4 = [PROF_BONUS]3 + [DEX+MOD]1
-## Spell
-- Spell save DC:            13 = [BASE]8    + [INT_MOD]2    + [PROF_BONUS]3
-- Spell attack modifier =   5  = [INT_MOD]2 + [PROF_BONUS]3
-
-# Skills
-## Strength
-Athletics:          +3 = [BASE]3
-## Dexterity
-Acrobatics:         1 =  [BASE]1
-Sleight of Hand:    1 =  [BASE]1
-Stealth:            1 =  [BASE]1 {DISADVANTAGE:STEALTH}
-## Intelligence
-Arcana:             2 =  [BASE]2
-History:            2 =  [BASE]2
-Investigation:      3 =  [BASE]2 + [INVESTIGATOR]1
-Nature:             2 =  [BASE]2
-Religion:           2 =  [BASE]2
-## Wisdom
-Animal Handling:    -1 =  [BASE]-1
-Insight:            -1 =  [BASE]-1
-Medicine:           -1 =  [BASE]-1
-Perception:         0  =  [BASE]-1 + [INVESTIGATOR]1
-Survival:           -1 =  [BASE]-1
-## Charisma
-Deception:          0 =  [BASE]0
-Intimidation:       0 =  [BASE]0
-Performance:        0 =  [BASE]0
-Persuasion:         0 =  [BASE]0
-
-
-# Feature
-## [INVESTIGATOR] Official Inquiry 
-You're experienced at gaining access to people and places to get the information you need. Through a combination of fast-talking, determination, and official-looking documentation, you can gain access to a place or an individual related to a crime you're investigating. Those who aren't involved in your investigation avoid impeding you or pass along your requests. Additionally, local law enforcement has firm opinions about you, viewing you as either a nuisance or one of their own.
-
-## [MAGIC_INITIATE] Spellcasting
-- 2 cantrips from Wizard spell list
-    - Green-Flame weapon
-        - Upon a successful weapon hit, green flame jumps to another creature within 5 feet of the target. Target takes fire damage equal to spellcasting mod (5)
-    - Light
-- 1 level 1 spell (1/LR)
-    - Burning Hands (15 foot cone) Dex 13, 1/2 damage on save, 3d6 Fire damage
-
-## Second Wind (1/SR)
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
-
-# Equipment
-Scale Mail (50 Gp) - 14+dex Armor Class - disadvantage on stealth
-LongSword (15Gp) - Versatile (1d8/1d10 slashing)
-
-# Backpack (2Gp)
-15 Gold Pieces
-Bedroll (1Gp)
-Rope (1Gp)
-Candle (1Gp)
-
-# Details
-## Fighter
-Hit Point Die: D10 per Fighter level
-Hit Points at Level 1: 10 + Con. modifier
-Hit Points per additional Fighter Level: D10 + your Con. modifier, or, 6 + your Con. modifier
-Saving Throw Proficiencies: Strength,Constitution
-Skill Proficiencies: Choose 2: Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, or Survival.
-Weapon Proficiencies: Simple and Martial weapons
-Armor Training: Light, Medium, and Heavy armor and Shields
-
-You start with the following items, plus anything provided by your background.
-
-    (a) chain mail or (b) leather armor, longbow, and 20 arrows
-    (a) a martial weapon and a shield or (b) two martial weapons
-    (a) a light crossbow and 20 bolts or (b) two handaxes
-    (a) a dungeoneer's pack or (b) an explorer's pack
-
-Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
-
-## Magic Initiate
-Two Cantrips. You learn two cantrips of your choice from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
-
-Level 1 Spell. Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
-
-Spell Change. Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
-
-Repeatable. You can take this feat more than once, but you must choose a different spell list each time.
-
-
-
 # Notes
 - Ran from the wolves
 - Bumped into a strange dude on the side of the road
@@ -134,3 +18,38 @@ Repeatable. You can take this feat more than once, but you must choose a differe
 - The cleric I met on the way to the inn gave a wonderful speech in stark contrast to her earlier demenor
     - Though she seems new / young, the belief in town seems rooted and old
 - Ended on [26]
+- Didn't pet the dog, instead I walked right up to the mayor
+    - Accepted the job
+    - Payday advance of 20Gp
+- Went to the General Store
+    - 2 Days rations (1Gp)
+    - Crowbar (5Gp)
+    - 3x Torch (3Cp)
+    - 28.0.7 Left (35 - 6.0.3Gp)
+- Started Chapter 2 (17)
+- Went to Tomlin's house
+    - As I got there he burst out the door with another woman already on his lips
+    - When I quesitoned him about it he couldn't even keep his story straight
+- I asked him where he was the night of the murder
+    - He said out with an impromptu stag party, many witnesses
+- When I asked him about any potential enemies of Maybelline he beat around a bush and didn't give me a straight answer
+- Finally when I asked him about any strange events around town he mentioned two
+    - The wolves around Langston have become more active
+    - There have been riff-raff that have been hanging outside the city walls..
+        - And that the farmers have been complaining about theft.. could these things be related?
+- Before I leave he asks a favor of me to check out whatever has been tearing up his garden
+    - Combat Encounter
+        - Me: 14
+            - HP: 9
+        - Scarpling: 4
+    - Killed the creature
+    - Got a scrapling claw
+- Tomlin thanked me and gave me a potion (Philter of Rememberance)
+- Went back to the inn and up to my room
+- Deep in the night I saw a strange hairy creature on the neighboring buildings roof. 
+    - It pointed at me..
+    - When I went down to confront it, it had vanished.
+    - I climbed up the roof to where the creature was standing, strangely there were only the claw marks where he was.. not how he got there
+- I went back inside and stayed up the rest of the night.
+- End of chapter 2
+- Page 29, Part 108
