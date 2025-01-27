@@ -34,6 +34,8 @@ Jewels is fast asleep using Darrow as a pillow
 
 4. Twisted branches of ancient trees stretch upwards, draped in long wisps of hanging moss that ripple slowly in an unfelt breeze. Beyond the fog, you catch fragments of laughter as though the forest is teasing secrets from the past.
 
+---
+
 5. A gentle brook meanders through the underbrush, its soothing babble playing a stark contrast to the swamp's stagnance. The fog hangs low above the water, and reflections within whisper of places both here and not.
 
 6. Pools of dark, stagnant water dot the landscape, their surfaces surreptitiously disturbed by occasional ripples. At the water’s edge, the fog breaks in patterns, hinting at paths or roads leading nowhere.
@@ -41,6 +43,8 @@ Jewels is fast asleep using Darrow as a pillow
 7. The air is fresh and crisp, carrying the pleasant scent of pine and rich earth, invigorating with each breath. The fog lingers like an old memory, revealing flickers of forgotten paths looping back on themselves.
 
 8. Gnarled roots weave across your path like the distorted fingers of some underworld creature reaching skywards. In the fog's depths, shapes warp and twist, suggesting massive forms standing sentinel over this liminal space.
+
+---
 
 9. Luminous fungi cling to decaying logs, their faint glow casting an unearthly luminescence onto the ground. Beyond the haze, shifting glows seem to mirror your movement, as if the forest observes and mimics.
 
