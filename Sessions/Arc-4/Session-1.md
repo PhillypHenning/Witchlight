@@ -1,4 +1,30 @@
 # Into the fog
+
+## Crash down
+
+**They pick up right where we left off running into the fog.**
+
+
+The camera sits level with the swampy ground as 3 sets of legs smash down into the muck and threw the frame. The camera jumps up and behind the runners. Karag, Terran and Jewels push every aching muscle in their body hard through the swamp towards the fog ahead of them. From far behind the sound of great beams of wood begin to swirl before an object of great weight is thrown into the air, the whooshing noise distinct and terror inducing. Above the 3 runners a balloon whips by, a flash of some dark magic pulses outward from within the casket and a Bullywog falls from it. The body of the creature hitting the tops of the trees and disappearing in a crash. Sevro's screaming can be heard ahead, but you lost track of him when the balloon passed overhead.
+
+A massive explosion behind the runners nearly throws them to the ground as one of the boulders makes contact with the ground a few short feet behind them. And then another balloon passes overhead.
+
+The two balloons seem to exchange arrow fire with each other as they pass into the fog. Half a minute later a thunderous crash, of objects hitting and trees splintering, is heard ahead. 
+
+The runners hit the fog wall a short while after and find the two balloons from early entangeled and lifeless on the ground. As you three run up to it, Di explodes from beneath the fabrics, slung over one shoulder is Sevro and the other is Yanaba. The 4 of you run further into the fog.
+
+You run. 
+And run. 
+And run some more.
+
+Until finally in a foggy clearing you all drop of exhaustion. You don't have time to make camp. You don't have time to make a fire. Each of you collapse into a dishoveled pile beside another.
+
+## Walking up
+
+Clobberclaw has made a small fire nearby. He can't cook but wanted to make sure you all woke ready for the next leg of the journey.
+
+Jewels is fast asleep using Darrow as a pillow
+
 ## Round and Round we go
 1. Mist coils around your feet, a ghostly presence that clings to low-lying ferns and moss-covered stones. At the edge of the fog, you see fleeting silhouettes of creatures darting between the shadows, just beyond clear focus.
 
@@ -46,7 +72,9 @@
 ## NPCs
 - Sevro
     - Hopes the his sister found her way back to Tither as he believes he has exhausted his options in the swamps of Hither
-    - Is impressed by Sevro's (Darrow's) escape but doesn't want to outright say anything
+    - Is impressed by Darrow having narrowly escaped the Bullywogs of Downfall
+        - Jewels will become Darrow's friend and will soon forget all about Sevro
 - Clobberclaw
     - Working for Endelyn
     - Plans on speaking to the Hourglass coven when he gets to Tither
+    - Will try and get information on who the party members are
