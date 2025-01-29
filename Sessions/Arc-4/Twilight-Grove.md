@@ -47,10 +47,7 @@ Every 25 damage Galnoza buries itself into the soft garbage mass. Her babies (1d
 
 # Events
 ## Rot Wight Grove
-
 Daa'grin will begin his ritual casting and the grove will immediately respond, a shudder trembles the ground before a horrific scream erupts from all around.
-
-
 
 | Turns | Spawn |
 |---|---|
