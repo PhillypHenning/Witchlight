@@ -1,5 +1,9 @@
-# Into the fog
+# DM Notes
+- This happens over the course of 3 months.
+`
 
+
+# Into the fog
 ## Crash down
 
 **They pick up right where we left off running into the fog.**
@@ -57,28 +61,49 @@ Jewels is fast asleep using Darrow as a pillow
 ## Personals
 ### Karag
 - While out collecting rocks a strange insect catches your eye, describe what you see
+- "As you get up you feel a flash of movement in the wood a short distance a way. It sounded like the falling thump, like a body landing from a jump. The awful sound of Balorna's laugh fills the air and your world blacks out."
+    - Have everyone roll, the lowest roll wakes up to Karag breathing heavily standing over his bed. If disturbed he will attack. If the party leaves him without making to much noise, he will snap out of it.
 
 ### Terran
-- You find Di standing by a pool of water looking out in thought, what do you do
-    - Di hears Terran leaving if he says nothing
+- As you're pulling your fishing gear out you hear a twig snap off in the woods. You turn and see Karag coming up behind you, fishing gear in hand. He's heading up river of you.
+- Terran as you are setting up your sleeping spot you hear a large crash of pots and pans. You turn around the find Sevro quick scramping to pick up a now half buried campfire, the port smothering the fire to near death.
 
 ### Di
-- Everyone in the camp has left to get tonight's supplies, only yourself, Sevro and Clobberclaw remain
+- [NOTE] Chopain is unreachable
+- Everyone in the camp has left to get tonight's supplies, only yourself, Jewels and Clobberclaw remain
 
 ### Yanaba
-- While walking you get the growing sense that something large and predatory is following right behind. A nearby twig snapping in the woods all but proves it.
+- While walking you get the growing sense that something large and predatory is following right behind. A nearby twig snapping in the woods all but proves it. You whip around and see nothing but dense bush spanning off into the distance. You're heart is racing, your breath is shallow and quick in your chest. What do you do? 
+    - It's Karag collecting some wood a short distance away.
+- You're walking through the camp heading towards the wood pile Karag as collected. As you step around a small boulder hard set into the ground, you see Di sitting quietly, staring at the sword he seemed to have collected from the library wight.
 
 ### Sevro
 - While at camp, preoccupied with something you're doing you're surprised to hear Di's voice calling you from somewhere out in the wood. You look around and see your compatriots, including Di, speaking a short distance away.
     - It's a frog that happens to sound exactly like Di sitting out in the fogs
+- You hear a beautiful voice singing from where the basin on water is a short walk from the camp.
+    - It's Jewels who's scrubbing his armpits
 
 
 ## NPCs
-- Sevro
-    - Hopes the his sister found her way back to Tither as he believes he has exhausted his options in the swamps of Hither
-    - Is impressed by Darrow having narrowly escaped the Bullywogs of Downfall
+- Jewels
+    - Hopes his sister found her way back to Tither as he believes he has exhausted his options in the swamps of Hither
+    - Is impressed by Sevro's (Darrow's) escape but doesn't want to outright say anything
         - Jewels will become Darrow's friend and will soon forget all about Sevro
 - Clobberclaw
     - Working for Endelyn
+        - Is not willing to say his intentions other than as payment for finding his head
     - Plans on speaking to the Hourglass coven when he gets to Tither
-    - Will try and get information on who the party members are
+    - Is willing to speak about the Hourglass Coven and their sons if asked. 
+
+# End of Session
+Another step. Another step. Another step. 
+
+One more step and you'll have taken nearly a million steps. The monotony and boredom has well set in, at this point you've all become little more than machines. You walk until you can't, you sleep until you can, and then you do it again. The monotony is made worse as you travel over the same environments, over and over and over again.
+
+Another step... than nothing. Your body doesn't move forward. Strange. You look down and you're mid stride, you look up and see your companion ahead is looking around confused as well. It takes a moment but you soon realize that for the first time in a million steps.. you're somewhere new. It's dark and oppressive.. it feels clustrophobic.. and no matter how bad that may be, it's different than the monotony and for that you feel.. relief?
+
+Another step.. Another step.. The fog and shadows make way to rocky walls..
+Another step.. Another step.. 
+
+And we'll leave it there for tonight.
+
