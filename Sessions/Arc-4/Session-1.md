@@ -56,21 +56,24 @@ Jewels is fast asleep using Darrow as a pillow
 
 ## Personals
 ### Karag
-- While out collecting rocks a strange insect catches your eye, describe what you see
+- **Lost in Thought**: As Karag stumbles upon an ancient, weathered stone covered in strange runes, they find it disturbingly familiar. Allow them to describe what they see, and through their story, offer them clues—perhaps related to their lineage or ancestors—that could become critical in later decisions.
 
 ### Terran
 - You find Di standing by a pool of water looking out in thought, what do you do
     - Di hears Terran leaving if he says nothing
+- **Relic of the Past**: Terran's grief could be momentarily soothed—or agitated—by finding an object in the fog that belonged to a lost family member. This relic holds memories, compelling them to speak with their companions about revenge and justice.
 
 ### Di
 - Everyone in the camp has left to get tonight's supplies, only yourself, Sevro and Clobberclaw remain
+- **Moral Quandary**: The pact with a devil could manifest during a vivid waking dream: seeing themselves forging items of immense power but at what cost? As they snap out of the vision, they're holding a mundane item transformed into something sinister, hinting at future choices.
 
 ### Yanaba
-- While walking you get the growing sense that something large and predatory is following right behind. A nearby twig snapping in the woods all but proves it.
+- **Natural Instincts**: As a Haregon, their natural instincts might surge during the journey. The feeling of being stalked can heighten into a brief terror when a shadow in the fog reveals a shape Yanaba recalls from childhood—a fellow Haregon, seemingly lost to the mists and calling for help.
 
 ### Sevro
 - While at camp, preoccupied with something you're doing you're surprised to hear Di's voice calling you from somewhere out in the wood. You look around and see your compatriots, including Di, speaking a short distance away.
     - It's a frog that happens to sound exactly like Di sitting out in the fogs
+- **Reflection of Self**: With the transformation from human to donkey to elf, Sevro may find a moment to gaze into a mirror-like pool. In it, ask them what they see: their past self, the donkey, or the elf? The image speaks words in a language they recognize yet don't understand, hinting at keys to their future and true identity.
 
 
 ## NPCs
