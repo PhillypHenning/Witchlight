@@ -1,5 +1,9 @@
-# Into the fog
+# DM Notes
+- This happens over the course of 3 months.
+`
 
+
+# Into the fog
 ## Crash down
 
 **They pick up right where we left off running into the fog.**
@@ -55,6 +59,8 @@ Jewels is fast asleep using Darrow as a pillow
 12. Fluttering leaves rustle almost silently, disturbed only by ghostly whispers of wind passing through the canopy. In the mist, tails of fog whip and coil around unseen figures, suggesting company that remains just out of sight.
 
 ## Personals
+- While at camp, preoccupied with something you're doing you're surprised to hear Di's voice calling you from somewhere out in the wood. You look around and see your compatriots, including Di, speaking a short distance away.
+    - It's a frog that happens to sound exactly like Di sitting out in the fogs
 ### Karag
 - **Lost in Thought**: As Karag stumbles upon an ancient, weathered stone covered in strange runes, they find it disturbingly familiar. Allow them to describe what they see, and through their story, offer them clues—perhaps related to their lineage or ancestors—that could become critical in later decisions.
 
@@ -71,17 +77,32 @@ Jewels is fast asleep using Darrow as a pillow
 - **Natural Instincts**: As a Haregon, their natural instincts might surge during the journey. The feeling of being stalked can heighten into a brief terror when a shadow in the fog reveals a shape Yanaba recalls from childhood—a fellow Haregon, seemingly lost to the mists and calling for help.
 
 ### Sevro
-- While at camp, preoccupied with something you're doing you're surprised to hear Di's voice calling you from somewhere out in the wood. You look around and see your compatriots, including Di, speaking a short distance away.
-    - It's a frog that happens to sound exactly like Di sitting out in the fogs
 - **Reflection of Self**: With the transformation from human to donkey to elf, Sevro may find a moment to gaze into a mirror-like pool. In it, ask them what they see: their past self, the donkey, or the elf? The image speaks words in a language they recognize yet don't understand, hinting at keys to their future and true identity.
+- You hear a beautiful voice singing from where the basin on water is a short walk from the camp.
+    - It's Jewels who's scrubbing his armpits
+
 
 
 ## NPCs
-- Sevro
-    - Hopes the his sister found her way back to Tither as he believes he has exhausted his options in the swamps of Hither
-    - Is impressed by Darrow having narrowly escaped the Bullywogs of Downfall
+- Jewels
+    - Hopes his sister found her way back to Tither as he believes he has exhausted his options in the swamps of Hither
+    - Is impressed by Sevro's (Darrow's) escape but doesn't want to outright say anything
         - Jewels will become Darrow's friend and will soon forget all about Sevro
 - Clobberclaw
     - Working for Endelyn
+        - Is not willing to say his intentions other than as payment for finding his head
     - Plans on speaking to the Hourglass coven when he gets to Tither
-    - Will try and get information on who the party members are
+    - Is willing to speak about the Hourglass Coven and their sons if asked. 
+
+# End of Session
+Another step. Another step. Another step. 
+
+One more step and you'll have taken nearly a million steps. The monotony and boredom has well set in, at this point you've all become little more than machines. You walk until you can't, you sleep until you can, and then you do it again. The monotony is made worse as you travel over the same environments, over and over and over again.
+
+Another step... than nothing. Your body doesn't move forward. Strange. You look down and you're mid stride, you look up and see your companion ahead is looking around confused as well. It takes a moment but you soon realize that for the first time in a million steps.. you're somewhere new. It's dark and oppressive.. it feels clustrophobic.. and no matter how bad that may be, it's different than the monotony and for that you feel.. relief?
+
+Another step.. Another step.. The fog and shadows make way to rocky walls..
+Another step.. Another step.. 
+
+And we'll leave it there for tonight.
+
