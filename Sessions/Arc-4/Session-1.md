@@ -59,29 +59,28 @@ Jewels is fast asleep using Darrow as a pillow
 12. Fluttering leaves rustle almost silently, disturbed only by ghostly whispers of wind passing through the canopy. In the mist, tails of fog whip and coil around unseen figures, suggesting company that remains just out of sight.
 
 ## Personals
-### Karag
-- While out collecting rocks a strange insect catches your eye, describe what you see
-- "As you get up you feel a flash of movement in the wood a short distance a way. It sounded like the falling thump, like a body landing from a jump. The awful sound of Balorna's laugh fills the air and your world blacks out."
-    - Have everyone roll, the lowest roll wakes up to Karag breathing heavily standing over his bed. If disturbed he will attack. If the party leaves him without making to much noise, he will snap out of it.
-
-### Terran
-- As you're pulling your fishing gear out you hear a twig snap off in the woods. You turn and see Karag coming up behind you, fishing gear in hand. He's heading up river of you.
-- Terran as you are setting up your sleeping spot you hear a large crash of pots and pans. You turn around the find Sevro quick scramping to pick up a now half buried campfire, the port smothering the fire to near death.
-
-### Di
-- [NOTE] Chopain is unreachable
-- Everyone in the camp has left to get tonight's supplies, only yourself, Jewels and Clobberclaw remain
-
-### Yanaba
-- While walking you get the growing sense that something large and predatory is following right behind. A nearby twig snapping in the woods all but proves it. You whip around and see nothing but dense bush spanning off into the distance. You're heart is racing, your breath is shallow and quick in your chest. What do you do? 
-    - It's Karag collecting some wood a short distance away.
-- You're walking through the camp heading towards the wood pile Karag as collected. As you step around a small boulder hard set into the ground, you see Di sitting quietly, staring at the sword he seemed to have collected from the library wight.
-
-### Sevro
 - While at camp, preoccupied with something you're doing you're surprised to hear Di's voice calling you from somewhere out in the wood. You look around and see your compatriots, including Di, speaking a short distance away.
     - It's a frog that happens to sound exactly like Di sitting out in the fogs
+### Karag
+- **Lost in Thought**: As Karag stumbles upon an ancient, weathered stone covered in strange runes, they find it disturbingly familiar. Allow them to describe what they see, and through their story, offer them clues—perhaps related to their lineage or ancestors—that could become critical in later decisions.
+
+### Terran
+- You find Di standing by a pool of water looking out in thought, what do you do
+    - Di hears Terran leaving if he says nothing
+- **Relic of the Past**: Terran's grief could be momentarily soothed—or agitated—by finding an object in the fog that belonged to a lost family member. This relic holds memories, compelling them to speak with their companions about revenge and justice.
+
+### Di
+- Everyone in the camp has left to get tonight's supplies, only yourself, Sevro and Clobberclaw remain
+- **Moral Quandary**: The pact with a devil could manifest during a vivid waking dream: seeing themselves forging items of immense power but at what cost? As they snap out of the vision, they're holding a mundane item transformed into something sinister, hinting at future choices.
+
+### Yanaba
+- **Natural Instincts**: As a Haregon, their natural instincts might surge during the journey. The feeling of being stalked can heighten into a brief terror when a shadow in the fog reveals a shape Yanaba recalls from childhood—a fellow Haregon, seemingly lost to the mists and calling for help.
+
+### Sevro
+- **Reflection of Self**: With the transformation from human to donkey to elf, Sevro may find a moment to gaze into a mirror-like pool. In it, ask them what they see: their past self, the donkey, or the elf? The image speaks words in a language they recognize yet don't understand, hinting at keys to their future and true identity.
 - You hear a beautiful voice singing from where the basin on water is a short walk from the camp.
     - It's Jewels who's scrubbing his armpits
+
 
 
 ## NPCs
