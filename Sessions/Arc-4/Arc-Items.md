@@ -1,5 +1,5 @@
 ### 5 Mundane Magical Items
-1. **Whispering Fern**: A small potted fern that quietly repeats any conversation held nearby within the last hour. Ideal for eavesdropping or remembering forgotten details.
+1. [Karag] **Whispering Fern**: A small potted fern that quietly repeats any conversation held nearby within the last hour. Ideal for eavesdropping or remembering forgotten details.
 
 2. **Glimmer Pebble**: A small stone that emits a soft, ambient glow in darkness but does not provide enough light to illuminate anything beyond a few inches. Adds eerie ambiance rather than practical utility.
 
@@ -35,9 +35,9 @@
 ### 20 Mundane Items
 1. **Rusty Sword Salvage**: Bent and dulled from untold battles.
 2. **Ancient Wooden Comb**: Intricately carved, though now warped with age.
-3. **Weathered Map Fragment**: Displays part of the cavern system, indistinct.
+3. [Yanaba] **Weathered Map Fragment**: Displays part of the cavern system, indistinct.
 4. **Battalion Emblem**: A tarnished piece of bronze bearing an insignia.
-5. **Clay Pipe**: With filters long perished, once grand and ornate.
+5. [Yanaba] **Clay Pipe**: With filters long perished, once grand and ornate.
 6. **Scrap of Armor Padding**: Offers no defense but hints at past bearers.
 7. **String of Feathers**: Dyed in vibrant, faded colors.
 8. **Dulled Arrowhead**: Kept as a keepsake or trophy, unsuitable for combat.
@@ -48,7 +48,7 @@
 13. **Moth-Eaten Capelet**: Regal but ruined beyond use.
 14. **Shard of Stained Glass**: Part of an ancient mosaic, vivid in color.
 15. **Cracked Lens**: From a forgotten spyglass, concave and scratched.
-16. **Monks' Prayer Beads**: Blessed long ago, but now mundane and meaningless.
+16. [SEEN_NOT_TAKEN] **Monks' Prayer Beads**: Blessed long ago, but now mundane and meaningless.
 17. **Enameled Pin**: Depicts a forgotten order’s crest, chipped and faded.
 18. **Inkwell, bone material**: Pouring no longer possible, old ink petrified inside.
 19. **Porcelain Button**: Pearl-like luster, preserved by neglect.
