@@ -99,10 +99,10 @@ Another step. Another step. Another step.
 
 One more step and you'll have taken nearly a million steps. The monotony and boredom has well set in, at this point you've all become little more than machines. You walk until you can't, you sleep until you can, and then you do it again. The monotony is made worse as you travel over the same environments, over and over and over again.
 
-Another step... than nothing. Your body doesn't move forward. Strange. You look down and you're mid stride, you look up and see your companion ahead is looking around confused as well. It takes a moment but you soon realize that for the first time in a million steps.. you're somewhere new. It's dark and oppressive.. it feels clustrophobic.. and no matter how bad that may be, it's different than the monotony and for that you feel.. relief?
+Another step... A blue butterfly flutters by. Another step... than nothing. Your body doesn't move forward. Strange. You look down and you're mid stride, you look up and see your companion ahead is looking around confused as well. It takes a moment but you soon realize that for the first time in a million steps.. you're somewhere new. It's dark and oppressive.. it feels clustrophobic.. and no matter how bad that may be, it's different than the monotony and for that you feel.. relief?
 
 Another step.. Another step.. The fog and shadows make way to rocky walls..
-Another step.. Another step.. 
+Another step.. Another step..
 
 And we'll leave it there for tonight.
 

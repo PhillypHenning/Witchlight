@@ -1,4 +1,11 @@
 # Creatures and Groups
+- Mud Hulk
+    - Daaaaaa was put in time out by Mr. Hats a long long time ago and no one has let him out
+    - He was put in here because he got the blue torch to close to Mr. Hats
+
+- Shadow Demon (Mr. Hats)
+    - Was passing through not so long ago when he ran into Daaaaa, seeing an opportunity for mischief Mr. Hats put Daaaaa in time out.. unfortunately he dropped the torch trapping Mr. Hats in the cave and unable to leave. 
+
 - Sleeping Purple Dragon
     - Her name is: Zil Vil Zon Toper
     - Zalbina's Ally

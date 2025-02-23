@@ -28,9 +28,9 @@
 
 3. **Scroll of Entangle**: Causes vines to spring from the ground within a 20-foot square, immobilizing creatures caught within.
 
-4. **Scroll of Shield**: Instantly conjures a magical shield to add temporary protection from a single attack.
+4. [KARAG] **Scroll of Shield**: Instantly conjures a magical shield to add temporary protection from a single attack.
 
-5. **Scroll of Cure Wounds**: Restores a small amount of health to a wounded ally upon touch, channeling basic healing energies.
+5. [KARAG] **Scroll of Cure Wounds**: Restores a small amount of health to a wounded ally upon touch, channeling basic healing energies.
 
 ### 20 Mundane Items
 1. **Rusty Sword Salvage**: Bent and dulled from untold battles.
@@ -53,3 +53,13 @@
 18. **Inkwell, bone material**: Pouring no longer possible, old ink petrified inside.
 19. **Porcelain Button**: Pearl-like luster, preserved by neglect.
 20. **Half-Burnt Candle**: Remnants surrounded by its own wax spill.
+
+
+
+
+
+
+
+
+4. **Vow Keeper Ring**  
+   This gold ring is engraved with symbols representing trust and fidelity. With their partner’s consent, the wearer can cast *Sanctuary* on them once per day. Additionally, if one partner falls unconscious, the ring will emit a gentle, glowing light and a soft chime to alert the other partner.
