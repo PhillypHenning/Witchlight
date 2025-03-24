@@ -12,7 +12,6 @@
     - Assisted Zalbina in her attack against The Twilight Court.
     - Was brought down by the The Twilight Courts magician who put the creature into a magical slumber.
     - Zil Vil Zon Toper's will is great and has slowly degragaded the spell over time. Her Will has crystalized into two gems that lay within the dungeon.
-    - Was the broodmate of Quicksilvers. The two of them had an egg shortly before she left to assist Zalbina
 
 - Cult of the Purple Scale
     - The Kobold collection that resides nearby and takes care of the slumbering purple dragon
