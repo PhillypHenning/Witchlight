@@ -5,7 +5,7 @@
     - The Twin princes of King Gloam who usurped his Twilight Kingdom
 
 - The Courtroom has been locked off and sealed with the 6 seals of Twilight. 
-    - Kennel Master     Knot
+    - Kennel Master     Oliender
     - Guard Captain     Oliender
     - Court Magician    Walawanda Tifunric the pointy hat
     - Trapmaker         Badda Poof
