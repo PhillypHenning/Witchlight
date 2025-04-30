@@ -43,11 +43,11 @@ After all this is complete, Badda ding with a small cane walks out laughing. His
 
 The goblin is friendly from here on out and is to old a frail to put up much of a fight. If he isn't asked he mentions that they group passes his test and he will turn his emblem on unlocking his portion of the door.
 
-## Kennel Keeper Oliender
+## Kennel Keeper Keith
 3* Two headed cerberus
 10* wild dogs
 
-### Oliender (Bandit Captain)
+### Keith (Bandit Captain)
 - Actions
     - Whip
     - 3/day Invisibility Ring
