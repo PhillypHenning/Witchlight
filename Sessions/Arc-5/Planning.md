@@ -78,29 +78,53 @@
 ## Tither
 1. The party then enters into Tither, the enchanted forest
 
+## Part 1
+### The floating isles
+**Hook:** TBD
+**Reward:** TBD
 
-## Orphange
+### Fablerise and the living books
+**Hook:** After a strange dream involving a spider of massive size, the party wakes up and realizes that they no longer remember their names. If they inquire around as to why, they will find out the culprit is Yarnspinner in Fablerise. Fablerise is watched over by Yarnspinner's many spider workers, who act as both librarian and guard. Yarnspinner saw the party and found them interesting, their loss of name was unintentional in a way as Yarnspinner begin tweaking some in-progress books he is working on and his actions led to their names being taken. The names have been given to the characters of the books and if the players want them back they will need to go in to the stories to get them back.
+**Reward:** TBD
+
+Book 1 - Hansel and Gretel
+    - Cas and Yanaba as the kids
+Book 2 - Little Red Riding Hood
+    - Di as Red
+Book 3 - 
+
+### The Witchlight Carnival
+[T] What about have the return of the Witchlight Carnival?
+    - I really like this idea. It allows for some reuse by me and some "testing how far they've come" for the group.
+    - Can reinvest Yanaba to find the Displacer kitten
+        - Puts them on a timelimit to attempt to get into the Orphange
+        - Provide them a means of turning into kids to get into the Orphange
+
+## Part 2
+### Orphange
     - Ran by a Night Hag (Er Able, Kids call her Miss. Able)
         - The children are petrifed of Miss. Able. During the night she stalks the halls and rooms, anyone found out of place disappears and never comes back.
         - Only children are allowed on the grounds (The party will need to figure out a way to turn into children if they want access.)
     - Problems
         1. The children are stuck within the orpanhage and terrfied of Miss. Able. If a plan for escape is offered that is reasonable, they are desperate enough to take it
         2. As the players look around the house for the Toyhouse, they will go through what a normal day wihin is for the children. Brutal expectations, beatings and beratements from Miss. Able. This will lead into a night scene in which Miss. Able will stalk the halls and rooms looking for anyone misbehaving to eat.
-## Casino
+### Casino
     - Ran by an Incubus (Mathew, Lust) and Succubus (Brittany, Greed) duo
     - The two are well informed and know about the party before they even walk in. They offer games of chance and any kind of prostitute to their guests.
     - The casino has a magical effect that makes increases their impulsion to sin one way of another (Wisdon check to avoid)
     - The casino offers many prizes, one of those being a large potion of polymorph
         - They could win the prize (all but impossible)
         - Or, they could be offered it in exchange for killing whoever runs the Spa (by the casino owners who are tired of lost customers)
-## Spa
+### Spa
     - Ran by a false hydra (3 heads)
     - Anybody who enters the spa while being able to hear the music is effected by the False Hydra.
     - The party is allowed to walk around. Within are many individuals, all of whom have various serious injuries. Though the occupants don't seem to really notice and always have a convenient excuse to how they have it.
     - A party member that interacts with the Spa, from relaxing in the waters to going for a massage are seriously injured (Missing fingers, ears. Chunks of skin and muscle gone in places.) (-5 Hp perm for each injury substained this way)
     - The party needs to find a way to stop hearing the music, once they do they will see the False Hydra slinking around. It attacks when it notices the players can see it.
 
-## The Toyhouse
+
+## Part 3
+### The Toyhouse
 - The party will need to find the toyhouse if they wish to find Skabatha.
 
 # Goals
