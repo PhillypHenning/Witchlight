@@ -1,4 +1,8 @@
 # Sevro's Ambush
+## Beats
+1. They hear the frog knight announce his intent to kill Sevro
+2. Chopaign enters through a portal to watch Sevro's last moments
+
 
 From somewhere off in the distance a throaty voice can be heard.
 
