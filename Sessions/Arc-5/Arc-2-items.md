@@ -32,6 +32,10 @@
 
 5. [KARAG] **Scroll of Cure Wounds**: Restores a small amount of health to a wounded ally upon touch, channeling basic healing energies.
 
+
+
+
+
 ### 20 Mundane Items
 1. **Rusty Sword Salvage**: Bent and dulled from untold battles.
 2. **Ancient Wooden Comb**: Intricately carved, though now warped with age.
@@ -54,5 +58,38 @@
 19. **Porcelain Button**: Pearl-like luster, preserved by neglect.
 20. **Half-Burnt Candle**: Remnants surrounded by its own wax spill.
 
+
+
 4. **Vow Keeper Ring**  
    This gold ring is engraved with symbols representing trust and fidelity. With their partner’s consent, the wearer can cast *Sanctuary* on them once per day. Additionally, if one partner falls unconscious, the ring will emit a gentle, glowing light and a soft chime to alert the other partner.
+
+
+
+
+
+
+# Elixir
+Elixers last until a long rest. Only a single elixer's effect can be active at a time.
+
+| d100 | Result |
+|---:|---|
+| 1–12 | **Elixir of Night Eyes (Common)** — Gain **darkvision 60 ft.** If you already have darkvision, increase it by **+30 ft.** (max **120 ft.**). |
+| 13–24 | **Elixir of Minor Fortitude (Common)** — Gain **5 temporary hit points** (no stacking; use the higher value). |
+| 25–36 | **Elixir of Softstep (Common)** — Gain **advantage on Dex (Stealth)** checks to move quietly (DM discretion). |
+| 37–48 | **Elixir of Mariner’s Breath (Common)** — Hold breath **1 hour**; advantage on Con checks vs smoke/fumes/inhaled hazards. |
+| 49–60 | **Elixir of Swift Climb (Common)** — Gain a **climb speed equal to your walking speed**; climbing doesn’t cost extra movement. |
+| 61–66 | **Elixir of Hill Giant Strength (Uncommon)** — Your **Strength becomes 21** (replaces your score). |
+| 67–72 | **Elixir of Vigilance (Uncommon)** — **Advantage on initiative**; **can’t be surprised** while conscious. |
+| 73–78 | **Elixir of the Colossus (Uncommon)** — Melee weapon attacks deal **+1d4 damage**; (optional) disadvantage squeezing through tight spaces. |
+| 79–85 | **Elixir of Arcane Cultivation (Lesser) (Uncommon)** — Regain **one 1st-level spell slot** (if you have slots). |
+| 86–88 | **Elixir of Bloodlust (Rare)** — When you drop a hostile creature to 0 HP, gain **+1 Action** that turn (max **once/round**; can’t cast a **5th+** level spell with it). |
+| 89–91 | **Elixir of Peerless Focus (Rare)** — Advantage on **Con saves** to maintain concentration; **once**, reroll a failed concentration check. |
+| 92–94 | **Elixir of Arcane Cultivation (Greater) (Rare)** — Regain **one 2nd-level slot** or **two 1st-level slots**. |
+| 95–96 | **Elixir of Universal Resistance (Rare)** — Choose acid/cold/fire/lightning/necrotic/poison/radiant/thunder; gain **resistance** to it. |
+| 97–98 | **Elixir of Arcane Cultivation (Supreme) (Very Rare)** — Regain **one 3rd-level slot** or (**one 2nd** + **one 1st**). No other Arcane Cultivation elixir until after a long rest. |
+| 99–100 | **Elixir of Cloud Giant Strength (Very Rare)** — Your **Strength becomes 27**; (optional) disadvantage on Dex (Stealth) checks. |
+
+
+
+
+

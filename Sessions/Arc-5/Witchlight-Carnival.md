@@ -216,3 +216,11 @@ Mini challenge: Arcana/Investigation DC 13 to stabilize the mirrors for the nigh
 
 Reward: The player who fixes the mirrors has their own name magically imprinted on their own forehead (negate the Yarnspinner story-thread)
 ---
+
+# 8) Hurt Pixie
+A bandaged Pixie adorned in militant armor flys toward you on unsteady wings. "I have to get back to the battlefield. King Glimmersip needs me.." His face is stone, a 100-yeard stare.
+
+- The small pixie's name is Butterkiss. While on a raid in the warlands the small Pixie was spiked like a volley-ball, shot off course and high and far into Thither's forest. He found the Witchlight Carnival.. or rather they found him and bandaged him up. Butterkiss snuck away while the Doctor wasn't looking.
+- Tell them he cannot offer them a reward but can bring them to his king who would have the means
+
+
