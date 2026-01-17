@@ -22,6 +22,16 @@ Barnaby was sent as an urgent request from the lower council of faerun domestic 
 
 He goes to each player and does the same thing.
 
+
+
+Yanaba: "How good of a person was Sevro?"
+Karag: "How dependable would you say Sevro was?"
+Di: "How kind was Sevro?"
+Seren: "What is your brief evaluation of Sevro?"
+
+
+- In the end Mr. Hats will be given compensation by Chopaign and Chopaign will get Sevro's soul.
+
 ### Barany holds a court "for the soul of Servro"
 Etheral Chains spring from around your Sevro, wrapping around your arms and legs, holding you fast in place.
 
