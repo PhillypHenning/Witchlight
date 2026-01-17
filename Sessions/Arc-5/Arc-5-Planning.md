@@ -14,14 +14,13 @@ The party:
 3. [First steps into Thither](./5.1.md#welcome-to-thither)
 
 ## Leaving Castle Twilight
-The grove behind you feel calm.. or at least calmer than it did when you first stepped foot into it. The bodies of the countless corrupted creatures that fought to protect the desecrated tree are scattered around the grove and already you can see the small forms of Kobolds beginning to scavanage through them. Funny, you think to yourself, those small creatures are the first to run away at any sign of trouble and the first to run towards when the trouble has been dealt with. The corrupted vegetation holds no value to you anymore regardless, the twisted bow in Yanaba's hands seemingly being the largest reward for your collective victory. 
+The grove behind you feel calm.. or at least calmer than it did when you first stepped foot into it. The bodies of the countless corrupted creatures that fought to protect the desecrated tree are scattered around the grove and already you can see the small forms of Kobolds beginning to scavanage through them. Funny, you think to yourself, those small creatures are the first to run away at any sign of trouble and the first to run towards when the trouble has been dealt with. The corrupted vegetation holds no value to you anymore regardless, the twisted bow in Yanaba's hands seemingly being the largest reward for your collective victory.
 
 The sound of grinding stone emits from the stone-face wall of the cave on the far side of the grove. Crunching and crackling, two large stone doors swing open, between the same dense grey fog that brought you here cane be seen swirling and voidless. It seems that Castle Twilight is giving you permission to leave at last.
 
 A quiet moment sits between you. (Ask: Unless there is anything else you wish to do before leaving, who is the first person to walk towards the now open doors and into the fog?)
 
 ## The abandon cottage in the woods
-
 Just like when you entered the fog from Hither, you feel as though you have been walking through the blank expanse of space for a lifetime. Castle Twilight was behind you one moment, and then it was gone. The grey nothing engulfing it and everything else in all directions endlessly. In the beginning you were keeping an eye out for anything to distinguish your path but you quickly gave that up as it didn't seem to matter much anyway. Time passes, you walk. Time passes you walk. Time passes you walk.
 
 Time passes and .. you see something a head. Something not grey. Something boxy and brown, with egress built into the side that seemed to let things be seen from either side of them. With a rectangular entryway, closed tight with lock and coupler. With something like the fog but darker slowly pouring out of the rectangle on the top of the whole thing. 
@@ -33,7 +32,7 @@ A quaint little cottage made of thick, cured timbers in the fog and presumably s
 [PLAYERS] What would you like to do?
 
 ### Windows
-You look through the windows, the clutter catches your eye first, then the movement of small things within. Books, bottles, laundry and foods dot every surface within. 
+You look through the windows, the clutter catches your eye first, then the movement of small things within. Books, bottles, laundry and foods dot every surface within.
 
 ### Out-Back
 The stocks of a dozen different vegetables and herbs sprout from well laid plots of dark dirt. Garden supplies lean on the cottage walls and a short distance off is the crank and pipe of a well. It seems the owner has a green thumb.
@@ -55,6 +54,11 @@ The cabin door slides open easily with a small creeaaakk. The cottage walls are 
 | Wand of Witchbolt (20 uses) | 7 |
 | Wand of Earthen Grasp (10 uses, DC 13) | 8 |
 
+1 | Toe Tingles
+2 | Eyes become itchy, blood shot red, 
+3 | 
+4 | 
+
 ### Baba Yaga arrives
 - Di, Karag, Sevro, Yanaba
 [NOTE] Have the players in sequence roll a perception check while they check out the cottage. If they succeed they hear something rumble not so far away.
@@ -64,12 +68,11 @@ Boom boom, the sound is close enough to shake the house, the paintings and shelv
 Outside the cottage, but 30 feet away, a second wooden shack, much like the one you're in now, hovers high in the sky on a pair of thick chicken legs. One leg scratches the other for a moment then stiffens and bends bringing the shack back down towards the ground. (Cackling fills the air) He. He. He. He. He. The door creaaaaaks open, a warm air rushes in sending the candles around the room to flicker from the intrusion. Silhoutted in the doorway stands the figure of a crooked woman. Long white hair brushed back in clumps crown her head, a large worty nose protruds from between two deep yellow eyes. The woman looks around the space, her eyes floating over each of you in turn, taking you in no different than the furniture that you stand between. "I'm surprised to find you here, ohh I quite liked you when I visited." The woman seems to reminisce to herself, "though you have some new additions".
 
 ### Endyln arrives
-
 A crack of thunder outside the house jolts all of you, the feeling of something unexpected and hateful fills the air.
 
 The woman side eyes you, then lifts her hand in an arcing motion atop of you, "Keep quiet for a moment." she instructs. A thrum sound plays in your ears and the world begins to grow around you, the walls and furniture becoming taller and taller at an alarming rate. Things begin to stretchhhh and you soon find yourself standing beside a salt shaker about the same size as you are ontop of a table cloth. "Did the house grow or did I just shrink?" You think to yourself. The woman stands like a giant in the same spot still side eyeing you. "Quiet I said, shh shh".
 
-Another loud crack of thunder followed by another rumbles outside much closer. Rain begins to pelt the windows, the walls and the door. Tik Tik Tik (Like rain) Y
+Another loud crack of thunder followed by another rumbles outside much closer. Rain begins to pelt the windows, the walls and the door. Tik Tik Tik (Like rain)
 
 BOOM. Something, slams into the door and the house falls silent. The phantom hands within hide, the animate objects stiffen and hold their positions. The tumbler begins to lift slowly, draaaaaggging up the metal with a long, slow grind. Approaching the climax like death to a new corpse it hangs at the precipe for a moment, then in a moment latch lets go, the door slams open, hitting the wall and sending dust into the air, potions and books from the shelves to the floor and putting the candle fires out blanketing the cottage in darkness.
 
@@ -77,7 +80,7 @@ A terrible figure stands outside the door, a thick angry storm rolling behind he
 
 Endyln: "Why is it when I begin to forget about you something drags you back to life. Your persistence is what I hate most about you, that and the pretty face." The poison almost physically leaks from the creature. "You arrived here quick. I began to move the moment I sensed this place come back into view and yet here you are like you've been here for days. Did you hide her precious things on me mother?"
 
-Baba Yaga: "I'm surprised that you're surprised Endyln. I would have thought a witch of your power along with your sisters would have seered this potential happening. Tsk Tsk, I give you too much credit it seems" 
+Baba Yaga: "I'm surprised that you're surprised Endyln. I would have thought a witch of your power along with your sisters would have seered this potential happening. Tsk Tsk, I give you too much credit it seems"
 
 The tall creature seethes for a moment, a sound somewhere between a snakes hiss and a lions growl escaping her throat.
 
@@ -96,11 +99,12 @@ Baba Yaga: "For now."
 A cold silence fills the space between the two creatures for an uncomfortable amount of time.
 
 Endyln: "Underestimate me at your own peril foolish woman.", she turns and heads for the door
+
 [FAILED_STEALTH_CHECK] A deep, dark yellow eye with the pupil of a snake behind the porcelain mask stares at you as the giant like figure passes. She walks through the door, which slams behind her and sends you off balance for a moment. The storm begins to receed, the rain pouring onto the windows quickly becoming a slow drizzle then stopping altogether. 
 
 The remaining creature turns towards you her eye alight with fire and mischief.
 
-"Daughters are such a handful" she says through a wide grin. "She isn't the first nor will be the last of my problems I suspect He He He He." Her eyes scan each of you slowly and studiously "Yanaba of many things, Di the undecided, Sevro the theif king and Karag the forgotten heir of twilight. Quite the eclectic collection you bunch are."
+"Daughters are such a handful" she says through a wide grin. "She isn't the first nor will be the last of my problems I suspect He He He He." Her eyes scan each of you slowly and studiously "Yanaba of many things, Di the undecided, Sevro the false king and Karag the forgotten heir of twilight. Seren the time walker. Quite the eclectic collection you bunch are."
 
 [GIVE_THE_PLAYERS_SPACE_TO_SAY_SOMETHING]
 
@@ -108,7 +112,7 @@ The remaining creature turns towards you her eye alight with fire and mischief.
 - "I am Baba Yaga, mother of witches and hags"
 
 #### What are you doing here?
-- "This cottage belongs to a daughter of mine, Zylbina, who's been missing for some time. I was rather fond of Zylbina, to the chagrin of her many sisters. When I felt her presence, I came to see what it was and found the cottage and you within"
+- This cottage belongs to a daughter of mine, Zylbina, who's been missing for some time. I was rather fond of Zylbina, to the chagrin of her many sisters. When I felt her presence, I came to see what it was and found the cottage and you within.
 
 #### Who was that?
 - "That was Endlyn Nightgrave, one of my daughters. She along with her 2 sisters, Skabatha and Bavlorna, are a constant pain in my side. Though admittedly I do enjoy antangonizing her, she has a fun sense of humour and whismy"
@@ -117,7 +121,7 @@ The remaining creature turns towards you her eye alight with fire and mischief.
 - "I doubt you can help me, the problems I face are much larger than the mortal concerns you are capable of"
 
 #### The end of the conversation
-"This was a nice little chat, thank you for amusing me for a short while, but alas I can hear sounds in the distance that require my attention." Though you strain your ears you hear nothing of what she speaks of.
+- "This was a nice little chat, thank you for amusing me for a short while, but alas I can hear sounds in the distance that require my attention." Though you strain your ears you hear nothing of what she speaks of.
 
 [IF_THEY_DIDN'T_ALREADY_RAID_THE_PLACE] "Grab a few supplies from around the house, I'm sure Zylbina won't notice"
 
@@ -157,7 +161,6 @@ An owlbear stocks into a small clearing ahead of you. The large creature has pur
 DC 18 CHArisma check, on a fail the member is effected by confusion and can't move from where they stand watching the creature.
 
 A strange babble fills the air and worms itself into your ears. The sound of mad men, of yellow kings and nightmare dreamscapes. There is a wooo-osh overhead as a greasy, scalying body the size of a tower passes overhead and slams into the owlbear you have been watching. A shrill screech escapes the owlbear for but a moment, then a meaty crunching noise, then silence. The babbling stops as the dragon-like creature begins to feast on its prey leaving you with a headache and queasy stomach.
-
 
 ## 8. Cotton Candy Bushes
 Cotton candy bushes cluster along the path. Running between them are sugar-goblins who snatch and ravenously eat the cotton candy bushes. If the players attempt to take any, the goblins attack them. The sugar goblins are for the most part neutral and can speak goblin.

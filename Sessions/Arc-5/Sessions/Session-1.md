@@ -10,3 +10,14 @@
 ## Reminders
 - Every 3 movements they should have a random encounter
 - Every 6 movements they should have a major encounter
+
+
+# Notes
+1. Karag: Scroll Alter-Self
+2. Yanaba: Wand of Witchbolt (20 uses)
+3. Di: Greater Healing Potion
+4. Seren: Greater healing potion
+5: Scroll of Gaseous Form 
+
+
+- Di has a blueprint that gives him a technical recipe
