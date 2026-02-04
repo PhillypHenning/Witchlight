@@ -36,6 +36,39 @@ The chain is climbable, but it *moves* not like a rope, but like a living thing 
 - Atomie shrapnel “pings” off the chain like hail (minor damage unless they take cover inside a link).
 - A grig war-jig ripples through the metal; everyone makes a Con save or suffers a level of exhaustion-like fatigue for 10 minutes (disadvantage on the next check only).
 
+### Pin's Gratitude (Ally Encounter)
+**Background**: Party previously helped Pin during the battle with Kagg on the floating platforms during Arc 5, Session 2. Pin was healed by the party and remembers their kindness.
+
+**When this occurs**: Any time the party returns to the Floating Isles area, or when they attempt to enter Thistle Dark territory, or during the faction recruitment phase.
+
+Pin the sprite appears with 2-3 other sprites, wings fully healed. He recognizes the party immediately.
+
+> "You! I told the others about you—the tall folk who helped me against the giant. King Thistledart didn't believe me. Said big folk only bring trouble. But I saw what you did. You didn't have to help me. You did anyway."
+
+**Pin's Gift:**
+Pin produces a small purple flower that glows faintly with Feywild magic.
+
+> "Take this. It's a Thistledart favor-mark. While you carry it, the King's court will know you're under my word. It won't make them friendly—the King is paranoid, lost too many to the other kings' forces—but they'll at least listen before the thorns get you."
+
+**Mechanical Benefit:**
+- **While carrying the glowing purple flower**: Party has **advantage on all Charisma checks** when dealing with **King Thistledart's sprite faction**
+- **Does not work** on other factions (Glimmersip's Pixies, Brasswhistle's Atomies, Fiddlebriar's Grigs)
+- Flower remains active until deliberately destroyed or given away
+
+**Information Pin Provides:**
+- King Thistledart's court is in the northwestern cluster of floating islands
+- Protected by enchanted thorns and arrow perches—very difficult to approach without guide
+- The King lost many sprites to the other factions in this endless war, now deeply suspicious of outsiders
+- If party shows the flower at the camp perimeter, guards will grant them audience
+
+**Optional Hook (if party asks for more):**
+- Pin offers to fly ahead and "put in a good word" with King Thistledart
+- Suggests party could further earn trust by [DM choice: dealing with nearby threat, retrieving something, etc.]
+- Warns that even with flower, the King may test them before fully trusting
+
+**Roleplay Note:** Pin is young, earnest, and genuinely grateful. He hero-worships the party a bit and will remember their kindness forever. If they were particularly kind to him, he'll mention it enthusiastically to anyone who'll listen.
+
+**Connection to Faction Recruitment:** If Pin's flower is shown during the faction recruitment phase, Thistledart's sprites immediately recognize it and are significantly more diplomatic. This effectively gives the party a head start with one of the four factions.
 ---
 
 ## Arrival: the central isle (battle underway)
