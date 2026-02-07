@@ -40,6 +40,55 @@ Background: Helping an old friend.
 
 # Di (Dan)
 
+**Class:** Warlock (posing as Cleric)
+**Patron:** Chopaign, one of the Six Night Shades of Cania
+
+## Background
+
+Di originally trained as a cleric but made a desperate pact with the pit fiend Chopaign to save his friend Sevro's soul. Under false pretenses—claiming to sell his own cleric soul—Di became a warlock bound to one of the most powerful entities in the Nine Hells.
+
+## Current Situation
+
+- **Soul Contract Chain**: Di's patron Chopaign holds Sevro's soul for eternity (after Mr. Hat's 1000 years)
+- **False Identity**: Party may not know he's a warlock, believes he's a cleric
+- **Molten Scimitar**: Wields a weapon with a snake eye, gift from Chopaign
+- **Under Surveillance**: Chopaign watches Di's progress and expects updates
+- **Mission**: Encouraged by Chopaign to kill the Hourglass Coven witches and locate Skabatha's lair
+
+## Chopaign - The Night Shade
+
+**Title:** One of the Six Night Shades of Cania
+**Type:** Pit Fiend
+**Domain:** Operates within the walls of Mephistar (8th Layer of the Nine Hells)
+**Power Level:** Among the most powerful fiends in the infernal hierarchy
+
+### About the Night Shades
+The Six Night Shades of Cania are an elite group of pit fiends who serve as enforcers, spies, and power brokers within Mephistar, the frozen citadel of Cania. They operate in the shadows of the archdevil Mephistopheles's domain, wielding immense influence over contracts, souls, and infernal politics.
+
+### Chopaign's Interest in Prismeer
+- Unclear why a pit fiend of such stature has interest in a Feywild domain
+- His connection to both Di and Sevro suggests long-term planning
+- May have designs on the Hourglass Coven or Prismeer itself
+- The casino owners (Velisara and Caldrien) show interest in information about him
+
+### Appearance & Manifestation
+[To be determined based on campaign events]
+
+### Powers & Abilities
+As a Night Shade pit fiend, Chopaign possesses:
+- Master-level contract manipulation
+- Extensive spy networks across planes
+- Ability to grant warlock powers
+- Soul binding and ownership
+- [Other abilities as revealed in campaign]
+
+## Plot Implications
+
+- Di is caught between loyalty to his friends and his infernal patron
+- Casino security can detect Di's connection to Chopaign (enchanted detection stone)
+- Casino owners may offer rewards for information about the Night Shade
+- Chopaign's true motives in Prismeer remain mysterious
+
 
 
 # Karag (Cas)

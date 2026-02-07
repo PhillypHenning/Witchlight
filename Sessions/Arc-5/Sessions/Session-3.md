@@ -1,5 +1,27 @@
 # Arc-5, Session-3
 
+## Villain Cutscene: The Spa
+
+*The scene opens on a wandering merchant trudging through the enchanted forest of Thither. His pack is heavy, his feet ache, and twilight is falling. Then he hears it—a strange, beautiful music drifting through the trees. Half lullaby, half funeral march. His exhaustion forgotten, he follows the sound.*
+
+*Through the mist-shrouded trees, warm light beckons. The Never Leave Spa emerges from the fog: marble walls glistening with condensation, windows glowing invitingly, steam curling from chimneys into the twilight sky. The sign promises rest. Relaxation. Relief.*
+
+*The merchant enters. Thick grey steam fills every corridor, every room. Shadowy figures move through the mist, gesturing welcomingly. The music grows louder, more beautiful, drowning out the small voice of doubt in the back of his mind.*
+
+*"Right this way, sir," a voice says—or maybe he just imagines it.*
+
+*He's led to a marble massage table. The stone is warm beneath him as he lies down. His eyes grow heavy. The music swells. Everything feels perfect, safe, like coming home after a long journey.*
+
+*Somewhere above him, something large moves through the steam. Long, pale shapes glide past. The music intensifies.*
+
+*The merchant sighs in deep relaxation, a blissful smile on his face.*
+
+*Blood spatters across the marble walls.*
+
+*The merchant continues to sigh contentedly as the scene fades to black.*
+
+---
+
 ## Recap
 After surviving the soul court where Sevro's afterlife was divided between Mr. Hat and Chopagne, and defeating the vengeful frog knight Kagg, the party departed the Witchlight Carnival with heavy knowledge weighing on them. They carry multiple burdens now: the seven missing carnival staff to find within a week, Dirlagraun's missing kitten Star somewhere in Thither's depths, and casino invitations that promise both fortune and danger.
 
@@ -10,8 +32,13 @@ Now the party approaches the Starved Goblin Casino, smoke rising from its chimne
 ## Beats
 1. Travel to Casino (Constitution checks, random encounter possibility)
 2. [Starved Goblin Casino](../Starved-Goblin-Casino.md) - Arrival and Entry
+   - **Security Check:** Goblin guard waves enchanted detection stone over each party member
+   - **Di flagged:** Stone sounds when passed over Di (detects Chopaign's patronage)
+   - Light interrogation by security, possible escalation to owners
 3. Casino Floor - Games, NPCs, and Hidden Costs
 4. Meeting Velisara & Caldrien (owners)
+   - Potential private conversation with Di about Chopaign
+   - May offer gift/favor in exchange for information on the Night Shade
 5. Maurnu appearance
 6. Finding Witchlight Staff (3 locations: public table, bathroom, high-roller room)
 
@@ -27,6 +54,7 @@ Now the party approaches the Starved Goblin Casino, smoke rising from its chimne
 - **Velisara, Mistress of the Tables** (Succubus) - Owner, manages floor operations
 - **Caldrien, Lord of the Loveden** (Incubus) - Owner, oversees high-roller rooms and "special services"
 - **Security**: Bearded Devils (intimidating, efficient, lethal if provoked)
+  - **Security Goblin at Entry**: Uses enchanted detection stone to scan visitors for threats/infernal connections
 - **Table Hands**: Imps (deal cards, manage chips, quick and mischievous)
 - **Escorts**: Lesser Incubi/Succubi (charm-focused, work the floor)
 - **General Staff**: Imps (servers, cleaners, runners)
@@ -41,6 +69,9 @@ Now the party approaches the Starved Goblin Casino, smoke rising from its chimne
 ### Plot Threads & Character Notes
 - Sevro: Soul split (Mr. Hat 1000 years, Chopagne eternity after), storm appears when emotional
 - Di: Chopagne watching, expects progress on killing witches, molten scimitar with snake eye
+  - **Security Detection**: Detection stone will sound due to Chopaign patronage
+  - **Casino Owner Interest**: Velisara/Caldrien may want info on Chopaign (one of 6 Night Shades of Cania, powerful pit fiends in Mephistar)
+  - **Potential Deal**: Owners might offer minor gift/favor for information about the Night Shade
 - Karag: "Heir of Twilight" - treated as high-class in Thither, can carry party members
 - Pin: Will remember party's kindness, connection to King Thistle Dark
 - Maurnu: Working with Tempest (Bavlorna's hagspawn son), will appear at casino
