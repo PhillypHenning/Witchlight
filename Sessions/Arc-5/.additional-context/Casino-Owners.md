@@ -121,3 +121,80 @@ They resent this arrangement but fear the Coven's power. If the party helps over
 - Will offer "friends and family" gambling rates
 - Might warn party about Coven movements
 - Won't risk their contracts unless guaranteed freedom
+---
+
+## Di's Interrogation Scene
+
+**Context:**
+When Di is flagged by the security detection stone (due to Chopaign's patronage), the owners will want to assess him. Chopaign is one of the 6 Night Shades of Cania—powerful pit fiends in Mephistar—and any mortal with such a patron is noteworthy.
+
+**The Interrogation:**
+- **Location**: Private room off the main floor, luxurious but isolated
+- **Present**: Both Velisara and Caldrien (they handle important matters together)
+- **Tone**: Not hostile, but probing—they want to gauge Di's character and loyalty
+
+**Key Questions They'll Ask:**
+1. "How did a mortal come to serve one of the Night Shades?"
+2. "What does Chopaign want in the Feywild?"
+3. "Are you hunting for him, or are you being hunted?"
+4. "What does he offer you that's worth your soul?"
+
+**Critical Information They'll Reveal:**
+> "While you're within these walls, the casino nullifies any connection you have with your patron. He cannot see, hear, or sense you here. Neutral ground, remember? What's said in the casino stays in the casino—unless we choose to share it."
+
+This serves multiple purposes:
+- Tests if Di will speak freely without his patron's oversight
+- Reveals the casino has powerful wards/magic
+- Implies they could offer protection if needed
+- Makes Di more valuable if he shares information
+
+**Gauging Loyalty:**
+They're watching for:
+- Does he protect Chopaign's secrets? (Loyal or fearful)
+- Does he share information freely? (Desperate or treacherous)
+- Does he seem trapped or willing? (Potential ally or lost cause)
+- Does he ask about breaking patron bonds? (Very interesting)
+
+**If Di Shows Willingness to Talk:**
+Velisara will take the lead, softening her approach:
+- "You seem like someone in a difficult position."
+- "We're not friends of the Night Shades. Their kind doesn't belong in our realm."
+- "Perhaps we could help each other..."
+
+**Velisara's Spy Work Offer:**
+If Di seems pliable or interesting, Velisara will approach him separately (after the interrogation, while Caldrien is distracted):
+
+> "I have a proposition. Someone with your... connections... could be very useful to us. There are things we need to know. Information that someone close to the Coven might discover. Work for us, and we work for you."
+
+**The Safe Question:**
+As part of gauging his usefulness, Velisara will ask:
+
+> "Tell me something only you would know. Something personal. For instance—what is the true color of your eyes?"
+
+**Hidden Context:**
+- This question is one of three security questions to a safe the owners are aware of
+- The safe belongs to someone connected to Di's past (not revealed to players yet)
+- Velisara asking this reveals she has information about Di's background
+- Whether Di answers truthfully or lies will be noted
+
+**What They Offer:**
+- Information about the Hourglass Coven's movements
+- Safe passage through dangerous areas
+- Casino prizes without gambling
+- Protection from Chopaign (while inside casino walls)
+- Eventually: Help breaking his patron bond (if they gain something massive in return)
+
+**What They Want:**
+- Intel on Chopaign's plans in the Feywild
+- Information about the party's movements
+- Details about any deals with the Hagspawn
+- Advance warning if anyone comes hunting for the casino
+- The answer to security questions for certain valuable safes
+
+**DM Notes:**
+- This is a major decision moment for Di/Dan
+- Double-crossing the casino owners has consequences
+- But so does staying loyal to Chopaign
+- Velisara won't force an immediate answer—she plants seeds
+- The safe question should intrigue the player without revealing too much
+- Track what Di reveals; the owners will remember everything
