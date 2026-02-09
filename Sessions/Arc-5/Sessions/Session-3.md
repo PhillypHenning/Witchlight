@@ -287,66 +287,236 @@ Loud, drunk patron at Hellfire Blackjack, clearly in over his head
 - Party can use toadstools for fast travel (if activated)
 
 ## Game Notes
-[To be filled during session]
 
-### Travel to Casino
+### Morning Camp - Random Encounter #14
+- Party woke at camp, Karag took watch
+- Karag rolled random encounter: **The Quiet Where Sound Should Be** (Spa foreshadow)
+- Forest abruptly lost all sound—no insects, wind, or footsteps
+- Conversation came out as faint whispers regardless of volume
+- After 1 minute: Wisdom save DC 13
+  - On failure: Forget last 10 minutes of travel
+  - On success: Notice faint distant "melody" that seems to come from behind no matter where you turn
+- Party became aware of the unsettling silence and the haunting melody
 
-### Casino Arrival & Entry
+### Travel Across Thither
+- Party traveled west of the Floating Isles
+- General direction heading toward casino
+- Constitution checks for movement (if applicable)
 
-### Casino Floor Activity
+### Random Encounter #13 - The Orchard of Borrowed Smiles
+- Yanaba rolled encounter
+- Small orchard of pale fruit trees with strange fruit shaped like smiling mouths
+- The smiles giggled when plucked
+- **Yanaba fed fruit to Sevro**: Nothing happened
+- **Yanaba fed fruit to Karag**: Made him laugh uncontrollably
+  - Effect: Advantage on next Charisma check within 1 hour, but face becomes expressionless for same duration (disadvantage on Insight, NPCs distrust them)
+- Ground beneath trees littered with old masks and broken makeup kits
 
-### NPC Encounters
+### Random Encounter #6 - Raining Cats and Dogs
+- Seren rolled encounter just before reaching casino
+- It began literally raining cats and dogs from the sky
+- **Everyone except Sevro took cover** and ensured animals were unharmed
+- **Sevro did not take cover**: Required DC 14 Dexterity save
+  - Failed save (or took damage): Ran over, bitten, clawed—overall had a bad time
+  - Took damage from falling animals
 
-### Games Played
+### Arrival at Starved Goblin Casino
+- Party arrived at casino on mountain slope near Floating Isles
+- Smoke rising from chimneys
+- Impressive facade promising games and fortune
 
-### Witchlight Staff Locations
+### Security Check - Entry Hall
+- **Weapons Collection**: Security (Bearded Devils disguised as humans) removed all weapons
+- **Yanaba negotiated**: Had security sign an agreement ensuring her weapons would be returned upon leaving
+- **Enchanted Detection Stone**: Goblin guard waved stone over each party member
+- **Results**:
+  - Sevro: Passed
+  - Karag: Passed
+  - Seren: Passed
+  - Yanaba: Passed (second-to-last)
+  - **Di: FLAGGED** (last to go through)
+- **Doors closed** with Di stuck outside in security hallway
+- **Yanaba stayed back**, hanging around the door area
 
-### Velisara & Caldrien Interaction
+### Di's Security Interrogation
+- **Head of Security (Gorthax)** grilled Di about devil association
+- Detection stone identified Di as being associated with another devil
+- Tense interrogation about his patron and purpose at casino
+- **Yanaba (outside)**: Rolled stealth and hid behind a decorative bush in the hallway
 
-## Additional NPCs
+### Casino Floor - Karag, Seren, and Sevro
+- Three party members entered main casino floor
+- Thick atmosphere of smoke, music, laughter, and the clink of chips
+- **Took positions at the bar** to survey the room
+- Ordered drinks and began observing casino operations
 
+### Caldrien's Approach
+- **Caldrien (Incubus owner)** spotted them and approached with massive smile
+- Walked directly toward Karag and Seren, ignoring Sevro completely
+- Delivered signature line: **"Oh look a pious paladin come to get his prick pickled and a little modest monk following behind with aspirations of getting her muff melted. If you hurry upstairs now I bet you could get in on the waning orgy, perhaps even give it new fire."**
+- **Karag refused**
+- **Seren refused**
+- **Sevro began saying he would join** but Caldrien completely ignored him
+  - **New established trait**: Caldrien only interacts with "ugly" people if absolutely necessary; beautiful people don't interest him
 
+### Velisara's Deal with Di
+- **Velisara (Succubus owner)** entered security hallway
+- **Yanaba**: Rolled through door and hid behind bush (remained hidden)
+- Velisara approached Di with business proposition
+- **Di asked for information about Chopaign**
+- **Velisara offered trade**: Information for information
+  - **What she wants**: Chopaign's true eye color
+    - Truth is powerful in the Nine Hells
+    - Information valuable but wouldn't arouse too much ire if discovered
+  - **Terms**: Di must provide information within 2 months, or owe casino 100 starvens payable immediately
+- **Di signed the agreement**
+- **Velisara provided information about Chopaign**:
+  - Where he resides
+  - How powerful he is
+  - Details about his domain and operations
+- **CRITICAL OVERSIGHT**: Di never asked who Velisara and Caldrien's boss is
+  - **(Future plot point)**: If Di asks Chopaign about his eye color, Chopaign will scold Di for his failure and task him with getting their boss's name
+  - Chopaign may send his own investigator to find out—someone party could bump into
 
-##  Maurnu Appearance
+### Di Cleared and Enters
+- Security cleared Di after Velisara's approval
+- Di reunited with party on casino floor
+- Yanaba emerged from hiding and followed
+
+### Table Games
+- Party spent most of session playing various table games
+- Atmosphere: Devils in disguise dealing, imps serving drinks, enchanting music
+- Stakes: Ability score points converted to "starvens" (casino currency)
+
+### Buy-Ins
+- **Sevro**: 100 starvens
+- **Yanaba**: 0 starvens (started with nothing)
+- **Di**: 20 starvens
+- **Karag**: 0 starvens (started with nothing)
+- **Seren**: 0 starvens (started with nothing)
+
+### Meeting Tilly Tumbleweed
+- Party encountered **Tilly Tumbleweed** (Pixie, Witchlight staff) near end of session
+- She was playing at Devil's Dice table, clearly having "the best time"
+- Flying erratically, laughing loudly, giddy and flushed
+- **Tilly gave starvens to party members**:
+  - **Yanaba**: 10 starvens
+  - **Karag**: 10 starvens
+  - **Seren**: 5 starvens
+- Up significantly on her winnings (reportedly around 47 starvens total)
+- Has sacrificed 2 Charisma points (now 14, was 16) - party may not be aware
+- Party ended up playing blackjack with her
+
+### Blackjack Games
+- **Current Rules** (DM note: needs adjustment for balance):
+  - Initial: 2d6 for dealer
+  - If below 4: Dealer hits
+  - Hits: 1d6
+  - If dealer hits 7: Must stay
+  - **Issue**: Players can lose from onset—needs rebalancing with 2d6 initial roll
+- **Heavy losses** for most party members
+- Casino advantage clearly apparent
+- Party experiencing the reality of "house always wins"
+
+### Di Busts Out
+- **Di lost all 20 starvens** of his initial buy-in
+- Sitting at table, frustrated and empty-handed
+- Ability score points gone
+- **Caldrien noticed** and approached with interest
+
+### Caldrien's Second Deal
+- Caldrien offered Di **50 starvens** as a "loan"
+- **In exchange**: Di must sign the same contract Velisara offered
+  - Provide Chopaign's true eye color within 2 months
+  - Or owe 100 starvens immediately
+- **Di agreed and signed**
+- **CRITICAL COMPLICATION**: Di now has TWO contracts requiring same information
+  - One contract with Velisara
+  - One contract with Caldrien
+  - Both unaware of the other's deal
+  - **Potential future complication**: What happens when both try to collect?
+- Di now has 50 starvens to continue gambling
 
 ### Session End State
+- Party still inside Starved Goblin Casino
+- Di gambling with Caldrien's 50 starvens
+- Tilly still playing nearby (1 of 3 staff found, not yet rescued)
+- Two other Witchlight staff members (Grimble and Marlon) not yet located
+- Wisdom save tracker: Unknown how long party has been inside (track for next session)
+- Party has not yet learned about Never Leave Spa quest from owners
 
 ## Next Session Notes
 
 ### Outstanding Quests
-- Find remaining 4 Witchlight staff members (deadline: ___ days remaining)
+- Find remaining 6 Witchlight staff members (Tilly located but not rescued)
+  - **Tilly Tumbleweed**: At Devil's Dice table, up 47+ starvens, needs to be convinced to leave
+  - **Grimble "Grim" Swiftfoot**: Still missing (likely in bathroom per planning notes)
+  - **"Lucky" Marlon Duskwhisper**: Still missing (likely in high-roller room per planning notes)
+  - 4 more staff in other Thither locations
+  - Deadline: Approximately 6 days remaining (1 day passed)
 - Find Dirlagraun's kitten "Star"
-- Activate mushroom fast travel
-- [Casino quest?] Eliminate Never Leave Spa competition?
+- Activate mushroom fast travel (need Jabberwocky excrement)
+- **Di's contracts**: Provide Chopaign's true eye color within 2 months or owe 100 starvens
+  - Contract with Velisara
+  - Contract with Caldrien (both unaware of each other's deal)
 
 ### Plot Threads
-- Sevro's soul ownership consequences
-- Di's relationship with Chopagne
-- Casino debuff effects (track stacks per player)
-- Maurnu's connection to Hagspawn alliance
-- Witchlight staff: Why are they staying at dangerous locations?
-- Pin's report to King Thistle Dark
+- **Di's double-bind**: Two separate contracts for same information to two different casino owners
+  - If Di asks Chopaign about eye color, Chopaign will scold him for not learning casino owners' boss
+  - Chopaign may send his own investigator
+- Sevro's soul ownership consequences (Mr. Hat + Chopaign)
+- **Caldrien's established trait**: Only interacts with "ugly" people unless necessary (Sevro ignored)
+- Casino debuff effects - track Wisdom saves and time spent inside
+- Witchlight staff gambling addictions - why are they staying at dangerous locations?
+- Pin's report to King Thistle Dark about party's kindness
+- Never Leave Spa quest not yet offered by casino owners
+- Maurnu didn't appear this session - still expected
 
 ### NPC Status
-- Velisara: [Impression of party?]
-- Caldrien: [Interaction results?]
-- Maurnu: [What information was shared?]
-- Witchlight Staff: [Rescued? Still gambling? Indebted?]
-- Casino Security: [Any conflicts?]
+- **Velisara**: Made deal with Di, provided information about Chopaign, wants his eye color
+- **Caldrien**: Made separate deal with Di for same information, ignored Sevro's interest in orgy
+- **Gorthax (Security)**: Interrogated Di, cleared him after Velisara's approval
+- **Tilly Tumbleweed**: Gambling heavily, gave party starvens, appears intoxicated/giddy, not ready to leave
+- **Grimble**: Not yet found
+- **"Lucky" Marlon**: Not yet found
+- **Yanaba**: Witnessed Di's deal with Velisara while hidden
 
 ### Items/Resources
-- Starvens earned/spent per player
-- Ability scores sacrificed (track for recovery)
-- Casino prizes won
-- VIP vouchers used
+**Current Starvens:**
+- Sevro: Unknown (started 100, unclear how much lost)
+- Yanaba: 10 (gift from Tilly)
+- Di: 50 (from Caldrien's deal, after losing initial 20)
+- Karag: 10 (gift from Tilly)
+- Seren: 5 (gift from Tilly)
+
+**Ability Scores Lost:**
+- Di: 20 points lost (track which stats)
+- Others: Track any losses from continued gambling
+
+**Contracts Signed:**
+- Di: Two contracts for Chopaign's eye color (2-month deadline)
+- Yanaba: Weapon return agreement with security
+
+### Casino Status
+- Party still inside casino at session end
+- Weapons held by security (Yanaba has return agreement)
+- Time spent inside: Unknown exact duration (important for Wisdom save tracking)
+- No Wisdom save failures mentioned yet
+- Heavy losses at blackjack tables
+- Casino advantage/rigging apparent
 
 ### Locations Known
-- Starved Goblin Casino: Fully explored
-- Never Leave Spa: Mentioned as competition
-- [Other locations discovered during session]
+- Starved Goblin Casino: Interior partially explored (main floor, bar, some game tables)
+- High-roller room: Not yet accessed
+- Bathrooms: Not yet checked
+- Floating Isles: Visible nearby from casino exterior
+- Never Leave Spa: Not yet mentioned to party
 
 ### Mechanics Reminders
-- Casino debuff stacks to resolve
-- Ability score recovery method (if any discovered)
-- Party resources after gambling
-- Wisdom save track record (who is most/least susceptible)
+- **Wisdom saves DC 12** every hour in casino (track failures for debuff stacks)
+- Ability score recovery method: Unknown (need to discover)
+- Blackjack rules need balancing adjustment (per DM note)
+- "White bliss" drug still not offered to Sevro
+- VIP vouchers not yet used (5 free starvens each)
+- Party needs to locate other two staff members in casino
+- Random encounters: Still tracking every 3 movements outside casino

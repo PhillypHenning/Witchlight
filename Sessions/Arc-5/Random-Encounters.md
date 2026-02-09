@@ -13,7 +13,7 @@ Cackling fills the sky; you look up overhead and watch a large wood doll riding 
 Party runs into 2 Bearded Devils, employees of the Casino, disguised as humans in fine red clothing.
 The two will ask the party whether they know of the Starved Goblin Casino and when they plan to visit. They will become more and more pushy if the party doesn't seem interested, offering up to "VIP and the first 6 games free"
 
-## 6. Raining Cats and Dogs
+## 6. [DONE:SEREN] Raining Cats and Dogs
 It begins raining cats and dogs. As the party what they do as the creatures begin to rain from the sky down onto them. Anyone who doesn't take cover needs to make a DC 14 dex check or take 2d6/2 damage.
 
 ## 7. Gaberwhocky vs. Owlbear
@@ -43,14 +43,14 @@ on the status of the 5 Wings War immediately.
 - If treated kindly, the fairy offers to introduce them to their King
 - If mocked or threatened, they blow a tiny whistle and yells "arrest these deserters."
 
-## 13. The Orchard of Borrowed Smiles
+## 13. [DONE:YANABA] The Orchard of Borrowed Smiles
 
 A small orchard of pale fruit trees bears strange fruit shaped like smiling mouths. The smiles giggle when plucked.
 
 - Eating one grants advantage on the next Charisma check in the next hour, but the eater's face becomes expressionless for the same duration (disadvantage on Insight, or NPCs distrust them).
 - The ground beneath the trees is littered with old masks and broken makeup kits.
 
-## 14. The Quiet Where Sound Should Be (Spa Foreshadow)
+## 14. [DONE:KARAG] The Quiet Where Sound Should Be (Spa Foreshadow)
 
 The forest abruptly loses sound—no insects, no wind, no footsteps. Conversation comes out as a faint whisper no matter how loud you speak.
 
