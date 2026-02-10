@@ -195,26 +195,35 @@ At the center of the floor, elevated on a dais of red velvet, stands a woman who
 
 **How to Play**:
 1. Players bet starvens
-2. Dealer deals 2 cards to each player and self (1 dealer card face-up)
-3. Goal: Get closer to 21 than dealer without going over
+2. Dealer and each player roll 1d10
+3. **Goal**: Get as close to **10** as possible without going over
 4. Players can:
-   - **Hit**: Take another card
+   - **Hit**: Roll another d10 and add to total
    - **Stand**: Keep current total
-   - **Double Down**: Double bet, take exactly 1 more card
-   - **Split**: If 2 cards match, split into 2 hands (double bet)
-5. Dealer must hit on 16 or less, stand on 17 or more
-6. Blackjack (21 with 2 cards) pays 3:2
-7. **Hellfire Rule**: On dealer's turn, if they bust, all remaining players win + a random player takes 1d6 fire damage (dealer's spite)
+   - **Bust**: If total exceeds 10, player loses immediately
+5. After all players finish, dealer reveals their roll and plays
+6. **Dealer rules**: 
+   - Must hit on 5 or less
+   - Must stand on 6 or more
+7. **Winning**:
+   - Beat dealer's total without busting: Win 1:1
+   - Tie with dealer: Push (bet returned)
+   - Bust or dealer beats you: Lose bet
+8. **Natural 10**: Roll exactly 10 on first die = win 2:1 (unless dealer also has natural 10, then push)
 
-**Card Values**:
-- Number cards: Face value
-- Face cards (J, Q, K): 10
-- Ace: 1 or 11 (player's choice)
+**Why This Favors the House (~60% win rate)**:
+- Dealer stands on 6+, meaning they're safe and close to target 50% of the time
+- Players must decide to hit without knowing dealer's final total
+- Players bust first, losing immediately even if dealer would bust
+- Natural 10 only happens 10% of the time but pays 2:1 to feel rewarding
+- Ties happen ~8-10% of the time, creating drama without costing house much
 
-**DM Notes**:
-- Use real cards or describe drawn cards
-- Imp dealers mutter infernal curses when players win
-- "Hellfire Rule" makes winning slightly risky—adds tension
+**DM Notes**: 
+- Let players roll real d10s for immersion
+- Dealer should roleplay the "reveals" dramatically
+- Players often hit on 5 or less (risky—50% bust chance)
+- Standing on 6-7 is mathematically sound but feels conservative
+- Imps occasionally "miscount" totals in house's favor (Perception DC 15 to catch)
 
 ---
 
@@ -258,8 +267,6 @@ At the center of the floor, elevated on a dais of red velvet, stands a woman who
 Starvens can be exchanged for prizes at the redemption counter (staffed by an Imp named Glitter who is perpetually annoyed).
 
 **Prize Conversion Rate:**
-- 1 starven = 10 gp equivalent value
-- Minimum redemption: 5 starvens
 
 ### Standard Prizes (General Items)
 - Healing Potion (2d4+2) - 5 starvens
@@ -364,38 +371,44 @@ Starvens can be exchanged for prizes at the redemption counter (staffed by an Im
 
 **Timing**: After party has been in casino 30-60 minutes, or when dramatically appropriate
 
-**Entrance**: Side door from "employee area," accompanied by 2 Bearded Devils who treat her with respect. She's clearly a known and welcome guest.
+**Entrance**: Side door from "employee area," accompanied by **1 Bearded Devil** who treats her with professional respect. She's clearly a known and welcome guest.
 
 **Maurnu**: Works with Tempest (Bavlorna's hagspawn son), scarred and practical, no-nonsense. Knows the party well from previous encounters.
 
 **Interaction**:
-- Recognizes party immediately—greets them by name
-- Not surprised to see them here ("Figured you'd end up somewhere stupid eventually")
-- Pulls them aside to a "private" alcove (still watched, but quieter)
+- Recognizes party immediately—greets them by name with genuine warmth
+- A spark of amusement and happiness to see the group again
+- "Well, well. Figured you lot would turn up here eventually. Good to see you in one piece."
+- Willing to chat and catch up, but keeps conversation light and careful
+- **Aware the casino has eyes and ears**: Skabatha and the owners are watching/listening
+- Won't discuss sensitive topics openly in the casino
 
-**The Warning** (Players hear this, characters DO NOT realize what they're losing):
-- Leans in close, speaks quietly but urgently
-- "Listen carefully. This place is cursed. Not the fun Feywild kind—the insidious kind."
-- "Every hour you spend here, you lose something. Not starvens. Not gold. Something... internal. Wisdom. Judgment. Self-control."
-- "The characters don't notice. That's the trick. You think you're fine, but you're not. You need to get out before it's too late."
-- Shows them scars on her wrist—tally marks. "Six hours. That's how long I was here before Tempest pulled me out. Took two days to feel like myself again."
+**The Note**:
+- At some point during conversation, subtly passes a folded note to **Di or Yanaba**
+- Note reads: *"Meet me outside. Walk with me. —M"*
+- If asked, claims it's just "catching up properly, away from the noise"
 
-**Information**: 
-- "Tempest sent me to scout casino security and gather information for the alliance."
-- "The owners here—Velisara and Caldrien—they have agreements with all three hags. This place is neutral ground. Nobody touches it."
-- "That's why it's perfect for meetings. Hagspawn can't be tracked here."
+**The Walk Outside**:
+When they step outside (one party member, maybe two):
+- Walks a short distance from casino entrance, into the treeline
+- Uses **Message** cantrip (whispers directly into their ear, untraceable)
+- *"The Hagspawn Sons—Tempest, Creak, and 3—request a word with your group."*
+- *"You can find them to the east, at the edge of Thither. They want to discuss the alliance."*
+- *"They know you've been to the Twilight Court. They know you survived. That means something."*
+- *"Help them, they help you. Toyhouse location? They know it. Access to Yon? They can arrange it."*
+- Verbally (in case anyone's watching): "It's good seeing you again. Be careful in there. Places like this... they take more than coin."
 
-**The Offer**:
-- "Tempest, Creak, and 3 want to meet with you. Properly. To discuss the alliance."
-- "They know you've been to the Twilight Court. They know you survived. That means something."
-- "You help us kill the hags, we help you get whatever you need. Toyhouse location? We know it. Access to Yon? We can arrange it."
+**The Warning** (Spoken casually, like friendly advice):
+- "Don't stay too long in there. Feels fine at first, but trust me—it gets under your skin."
+- "Six hours I was here once, before Tempest dragged me out. Took days to feel right again."
+- Shows scars on her wrist—tally marks. "Kept track so I'd remember how bad it got."
+- "Just... watch yourselves, yeah?"
 
-**Hook**: 
-- Won't say more details in casino ("The walls listen. The floors remember. This place reports everything to the coven.")
-- Suggests meeting outside after they "collect those carnival idiots and get clear of this cursed place"
-- "Find me by the mushroom circle northwest of here. One hour after you leave. Don't be late—I don't wait around."
-
-**Note for DM**: Maurnu is genuinely trying to help. She's been working with the hagspawn long enough to know the casino's dangers. Her warning about the Wisdom saves is ONLY for the players—the characters remain unaware they're being affected.
+**Note for DM**: 
+- Maurnu is genuinely glad to see them and trying to help
+- She's cautious because she knows the casino reports to the Hourglass Coven
+- Her warning about time in the casino is real—the Sinner's Weight debuff affects everyone
+- The Message spell ensures the sensitive information (Hagspawn meeting) stays private
 
 ---
 

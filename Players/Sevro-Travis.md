@@ -84,7 +84,30 @@
 - Helped confront Bavlorna
 - Made deals that would come back to haunt him
 
-### Arc 3: [ATTENTION:DM - Details needed]
+### Arc 3: Downfall - The Accidental God-King
+- **Entered Downfall**: Frog people domain where titles are won by killing the previous holder
+- **Killed the King**: Inadvertently became King of Downfall
+- **The Rot Worm Pit Incident**: 
+  - Party climbed stairs and bunkered down in bathroom around the corner
+  - Friends left Sevro in a pit of rot worms
+  - Sevro climbed out broken and confused during the night
+  - Yanaba heard his sobbing but left him (she didn't like him much)
+  - Party found him in the morning
+  - This betrayal marked a turning point in Sevro's terrible luck
+- **Frog Army Attack**: After Sevro left, entire frog army pursued them
+  - Drove the group into "the space between spaces"
+- **Collective Belief Makes Reality**: In Downfall, what the frog people collectively believe becomes real
+- **Became a Minor God**: 
+  - The frogs began believing Sevro was a malevolent god who disrupted their "perfect harmony" (of killing each other)
+  - This collective belief made it reality
+  - Sevro is now effectively a minor god
+  - He is King of Downfall whether he wants to be or not
+- **Terrible Luck Curse**: 
+  - **The godhood itself marked Sevro with terrible luck**
+  - Since becoming a god, if something bad can happen to Sevro, it will
+  - Became a "punching bag for unluck"
+  - Everything that can go wrong does go wrong
+  - The rot worm pit incident was traumatic, but the unluck is tied to his divine status
 
 ### Arc 4: Twilight Court & Soul Crisis
 - **Soul Court Trial** - Barnabas held court to determine soul ownership
@@ -191,14 +214,31 @@
 ## DM Notes & Hooks
 
 ### Active Plot Threads
-1. **Soul Ownership**: Split between Mr. Hat (1000 years) and Chopaign (eternity)
-2. **Chopaign's Disappointment**: Patron wanted Sevro dead, may try again
-3. **Frog Knight Revenge**: Another knight coming with archers in 4-Way Ambush
-4. **Loss of Taste**: Cannot taste anything, desperately trying to fix it
-5. **Father's Lute**: Sold to pay debts, possible quest to reclaim
-6. **Madryck**: Old friend connection, what's owed?
-7. **Music**: When will he play again? What will move him?
-8. **Caldrien's Rejection**: "Beautiful people" don't interest the incubus owner
+1. **King of Downfall**: Frog knights seek to kill him and claim the crown
+2. **Minor Godhood**: Sevro is a god due to collective frog belief (source of terrible luck)
+3. **Bavlorna Unaware**: The hag doesn't know about Sevro's godhood status
+4. **Soul Ownership**: Split between Mr. Hat (1000 years) and Chopaign (eternity)
+5. **Chopaign's Cruel Plan**: Will send Di/party to fetch father's soul from rival, then force Sevro to choose who suffers (unknown to Sevro/Di)
+6. **Chopaign's Disappointment**: Patron wanted Sevro dead, may try again
+7. **Frog Knight Revenge**: Knights come to kill the "mad tyrant" and claim kingship
+8. **Terrible Luck Curse**: Godhood marked him with unluck - everything goes wrong
+9. **Loss of Taste**: Cannot taste anything, desperately trying to fix it
+10. **Father's Lute**: Sold to pay debts, possible quest to reclaim
+11. **Madryck**: Old friend connection, what's owed?
+12. **Music**: When will he play again? What will move him?
+13. **Caldrien's Rejection**: "Beautiful people" don't interest the incubus owner
+
+### Chopaign's Hidden Plan
+**Sevro and Di are unaware of this:**
+- Sevro's father's soul is held by a **rival archdevil** (identity unknown)
+- Chopaign plans to send **Di and the party** to retrieve the father's soul
+- Will give them **Scrolls of Return** to bring them back to his sitting room
+- Once Chopaign has the soul, he'll present Sevro with an impossible choice:
+  - Continue suffering his current fate (Mr. Hat then Chopaign)
+  - OR offer up his father's soul to suffer in his place
+- **The real goal**: The strife and grief this causes Sevro is what Chopaign truly wants
+- Either choice leads to Sevro's emotional torment
+- This is pure cruelty disguised as mercy
 
 ### Future Considerations
 - White bliss drug addiction potential (Constitution save DC 15)
@@ -207,11 +247,13 @@
 - Can his soul contracts be broken or renegotiated?
 - Will he reclaim his father's lute?
 - What truly moves him to play music now?
+- What will Sevro choose when he learns Chopaign's plan? Father vs. self?
 
 ### Travis's Play Style
 - [ATTENTION:DM - Player preferences and tendencies not noted]
 - Appears as "jink" in some session transcripts
 
 ### Baba Yaga's Title
-- Called him "the thief king" - significance unknown
-- [ATTENTION:DM - Why this title? What did he steal besides invitations?]
+- Called him "the thief king" - likely referring to stealing the Downfall crown
+- May also reference the invitations he constantly steals/hoards
+- Baba Yaga knows about his god-king status

@@ -99,7 +99,13 @@
 - Met Hans the Stork
 - Confronted Bavlorna (Slack Jaw Lorna)
 - **Lost thing stolen by Bavlorna** [ATTENTION:DM - What was stolen?]
-- **Cursed by Bavlorna** [ATTENTION:DM - Nature of curse? The "fury" in dream?]
+- **Cursed by Bavlorna with a tattoo from her bite**:
+  - The curse manifests as a mark on Karag's skin
+  - **Contains latent magic** that spirits can track
+  - **NOT directly related to his Heir of Twilight status** (separate issues)
+  - Causes intense pain (not bleeding) when Twilight spirits are near
+  - The latent magic in the tattoo is how the spirits tracked him down
+  - May amplify or interact with his Twilight connection, but didn't create it
 
 ### Arc 3: [ATTENTION:DM - Details needed]
 
@@ -146,10 +152,13 @@
   - Foreshadows 4-Way Ambush
   
 - **4-Way Ambush (Future)**:
-  - **Three shadowy spirits will attack Karag** (from his dream)
-  - Connected to "Heir of Twilight" status
+  - **Three twilight spirits will attack Karag** (use Thug stat block)
+  - Remnants of the Twilight Court, drawn to him by detecting the latent magic in his curse tattoo
+  - As they approach, the curse tattoo causes intense pain (tracking beacon)
   - **Seren may feel compelled to protect Karag** (unclear why)
-  - Spirits speak: "Heir..." "Return..." "Remember..."
+  - Spirits speak: "The blood of your ancestors beckons..." "Heir..." "What remains..." "Remember us..."
+  - Desperate, clawing attacks from fragments of what once was
+  - The curse tattoo and Heir status are separate, but the curse helped them find him
 
 - **Major Encounter #5**: "The Heir of Twilight"
   - A ghost attacks party
@@ -208,10 +217,14 @@
 
 ### Bavlorna's Curse
 - Karag has "lost thing stolen by Bavlorna"
-- Cursed by the hag
+- **Cursed by Bavlorna's bite** - manifested as a tattoo/mark on his skin
+- **Contains latent magic** that can be tracked/detected
+- **NOT the source of his Heir of Twilight status** (that's separate, likely bloodline)
+- **Causes intense pain** when Twilight spirits or remnants are near (not bleeding)
+- The latent magic acts as a tracking beacon for spirits
 - **Ep (Bavlorna's lackey) offered to remove curse** as show of good faith (Hagspawn Sons encounter)
 - Curse may relate to "Fury" path in upcoming dream
-- [ATTENTION:DM - Specific nature of curse? Effects? How does it manifest?]
+- Removing the curse won't remove his Heir status, but might make him harder to track
 
 ### Current Status
 - Inside Starved Goblin Casino

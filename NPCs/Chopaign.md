@@ -85,9 +85,36 @@ Chopaign may send his own investigator to learn about the casino owners and thei
 - Communication with contracted individuals
 - [More to be revealed]
 
+## The Soul Exchange Plan
+
+**Hidden from Sevro and Di:**
+Chopaign has a cruel plan centered on tormenting Sevro, but neither Sevro nor Di are aware of it yet.
+
+**The Plan:**
+1. **Sevro's father's soul** is held by a rival of Chopaign's (identity TBD)
+2. Send **Di and the party** to retrieve the father's soul from this rival
+3. Provide each party member with a **Scroll of Return** to bring them back to Chopaign's sitting room (where he usually converses with Di)
+4. Once Chopaign has the father's soul, **offer Sevro a choice**:
+   - Continue with his current fate (1000 years with Mr. Hat, eternity with Chopaign)
+   - OR replace himself with his father (father suffers the torment instead)
+5. **Either way, Chopaign wins**: The strife and grief he causes Sevro is what he's truly after
+
+**The Cruelty:**
+- Sevro must choose between his own suffering or damning his father
+- Even if Sevro sacrifices himself, Chopaign gets to watch him agonize over the choice
+- The emotional torment is the real prize for the archdevil
+- Di will have unknowingly helped orchestrate Sevro's torture
+
+**The Side Adventure:**
+- Full details in [Soul-Retrieval-Quest.md](Sessions/Arc-5/Soul-Retrieval-Quest.md)
+- Party will need to infiltrate rival archdevil's domain
+- Scrolls of Return are their escape route
+- This is a major side quest
+
 ## Current Goals
 - Monitor Di's progress and ensure he becomes stronger
-- Collect Sevro's soul (eventually)
+- Send Di and party to retrieve Sevro's father's soul from rival archdevil
+- Present Sevro with the impossible choice (torment Sevro emotionally)
 - Learn more about the casino owners' boss (potential rival or ally?)
 - Maintain his standing among archdevils
 
@@ -95,4 +122,6 @@ Chopaign may send his own investigator to learn about the casino owners and thei
 - Chopaign represents consequences for short-term thinking
 - His disappointment in Di is genuine—he wants competent servants
 - The eye color question turns into a lesson about infernal politics
+- The soul exchange plan should be revealed at a dramatically appropriate moment
+- Sevro's choice (self vs. father) will define his character arc
 - Consider what Chopaign gains from this situation beyond just testing Di

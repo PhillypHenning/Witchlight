@@ -44,6 +44,72 @@ When the DM asks questions:
    - Items: https://5e.tools/items.html
    - Adventure content: https://5e.tools/adventure.html
 
+## Maintaining Documentation
+
+**CRITICAL**: When the DM provides new lore, backstory, or plot details about characters, locations, or events:
+
+### Auto-Update Relevant Files
+1. **Identify all affected files**: Player files, NPC files, location files, encounter files
+2. **Update comprehensively**: Add the new information to ALL relevant files, not just the file being worked on
+3. **Create missing files**: If a topic (location, NPC, plot element) doesn't have its own file but should, create one
+4. **Cross-reference**: Ensure related information is linked across files
+5. **No permission needed**: Proactively maintain documentation without asking
+
+### File Organization Standards
+- **Player files** (Players/Character-Player.md): Character backstory, events, plot threads, relationships
+- **NPC files** (NPCs/Name.md): NPC description, motivations, relationships, plans
+- **Location files** (Sessions/Arc-X/Location.md): Origin, purpose, inhabitants, mechanics, hooks
+- **Encounter files** (Sessions/Arc-X/Encounter-Name.md): Setup, tactics, outcomes, lore
+- **Concept files** (Sessions/Arc-X/Concept-Name.md): Major plot threads, mysteries, character arcs
+
+### What to Document
+- **Backstory reveals**: Character histories, NPC origins, location creation stories
+- **Plot developments**: New alliances, plans, secrets, threats
+- **Mechanical details**: Stats, abilities, special rules, encounter tactics
+- **Relationships**: Who knows whom, who wants what, who opposes whom
+- **Continuity facts**: Timelines, cause-and-effect, consequences of actions
+
+### Documentation Workflow Example
+When DM says: "Sevro is actually a minor god because the frogs believe he is"
+
+You should:
+1. Update `Players/Sevro-Travis.md` with godhood backstory
+2. Update encounter files mentioning frog knights with this context
+3. Create/update any Downfall-related location files
+4. Update `NPCs/Chopaign.md` if this affects his plans
+5. Cross-reference all related plot threads
+
+**Do this automatically** - don't ask permission to maintain documentation.
+
+## Writing Cutscenes
+
+When creating cutscenes for the DM, take inspiration from film and television:
+
+### Camera Movement Style
+- **Describe how the camera moves** through the scene
+- Use cinematic language: "The camera starts...", "swoops down...", "circles...", "pushes through..."
+- Create dynamic movement that guides the viewer's eye
+- Transition smoothly between locations and focal points
+
+### Cutscene Guidelines
+- **Keep it brief**: 2-3 paragraphs maximum
+- **Make each location/camp/character distinct**: Highlight unique visual details
+- **Show, don't tell**: Describe what's seen, heard, felt
+- **Create atmosphere**: Use sensory details to set tone
+- **End with purpose**: Lead into the session or create anticipation
+
+### Example Structure
+1. **Opening shot**: Establish the scene (wide view, ground level, etc.)
+2. **Movement**: Camera travels through the space, revealing details
+3. **Focus**: Settle on key characters, objects, or moments
+4. **Closing**: End on dramatic image or transition to gameplay
+
+**When to use cutscenes:**
+- Session openings to set tone
+- Major plot reveals or transitions
+- Showing events happening elsewhere (villain scenes, parallel storylines)
+- Building anticipation for upcoming encounters
+
 ## Common Tasks
 
 - "What do we know about [NPC name]?"
@@ -80,33 +146,33 @@ When the DM asks questions:
 - **Chopaign**: Patron to both Sevro (who sold his soul) and Di (warlock selling his cleric soul under false pretense to save Sevro)
 
 ### Party Composition & Backgrounds
-- **Yanaba/Emily** (Harengon): Feylost background, was swapped at birth by cruel pixies, birth parents alive in Thither, has dreams of the Feywild
-- **Sevro/Travis** (Bard): Lost his father's lute to debt, helping old friend Madryck, emotionally intense (beacon in Feywild), sold his soul to Chopaign. *Note: Travis sometimes appears as "jink" in transcripts*
-- **Karag/Cas** (Half-Orc Paladin): Lost thing stolen by Bavlorna, Oath of Landwalking, Sardonyx Knight of Grumbar, "Heir of Twilight," treated differently/high-class in some areas
-- **Di/Dan** (Warlock): Lost thing stolen by Bavlorna, has patron Chopaign, selling his cleric soul under false pretense to save Sevro
-- **Seren/Sydney**: Joined the party at Zalbina's cottage
+- **Yanaba/Emily** (Harengon): Feylost background, was swapped at birth by cruel pixies, birth parents alive imprisoned in Cinder Hold (Sindrhald), has dreams of the Feywild
+- **Sevro/Travis** (Bard): Minor god and King of Downfall (frog people domain), lost his father's lute to debt, sold his soul to Chopaign, terrible luck curse since the rot worm pit incident, emotionally intense (storm beacon in Feywild). *Note: Travis sometimes appears as "jink" in transcripts*
+- **Karag/Cas** (Half-Orc Paladin): "Heir of Twilight" marked by Bavlorna's curse tattoo, Oath of Landwalking, Sardonyx Knight of Grumbar, treated differently/high-class in some areas, twilight spirits drawn to him
+- **Di/Dan** (Warlock): Lost thing stolen by Bavlorna, has patron Chopaign, selling his cleric soul under false pretense to save Sevro, unaware of Chopaign's plan to trade Sevro's father's soul
+- **Seren/Sydney**: Joined the party at Zalbina's cottage, feels compelled to protect Karag (unknown reason)
 
 **Former Party Members:**
 - **Nuff/Weston**: Witchlight Hand, orphan raised by carnival, incredibly strong goblin wrestler, has rage fits he doesn't remember - DEPARTED
 - **Mellow/Emil** (Warlock): Lost thing stolen by Endelyn, Djinn patron (Air) - DEPARTED
 
-### Key Campaign Events (Through Arc 5 Session 2)
+### Key Campaign Events (Through Arc 5 Session 4)
 - Party entered Feywild through Witchlight Carnival mirror
-- Arc 2 (Hither): Rescued baby harengon from Goose Mother, encountered brigands, met Hans the Stork
-- Confronted Slack Jaw Lorna (Bavlorna's identity in her toad form)
-- Arc 4: Navigated the Twilight Court, met Baba Yaga at Zalbina's cottage
+- Arc 2 (Hither): Rescued baby harengon from Goose Mother, encountered brigands, met Hans the Stork, confronted Slack Jaw Lorna (Bavlorna), Karag cursed with tattoo
+- Arc 3 (Downfall): Sevro killed the King of Downfall, became god-king through frog collective belief, rot worm pit incident where friends left him (Yanaba heard but ignored his sobbing), driven into space between spaces by frog army
+- Arc 4: Navigated the Twilight Court, met Baba Yaga at Zalbina's cottage (recognized Sevro as "thief king" and Karag as "Heir of Twilight")
 - Encountered Endelyn (appeared as spider-woman hybrid, then shapeshifted to human forms)
-- Arc 5: Now in Thither, ambushed by sugar goblins
-- Met the Hagspawn sons (Tempest, Creak, and 3) who want to strike an alliance against their mothers
+- Arc 5: Now in Thither, ambushed by sugar goblins, met the Hagspawn sons (Tempest, Creak, and 3) who want alliance against their mothers
 
 ### Thither (Current Arc 5) - Enchanted Forest Domain
 Key locations and encounters planned:
 - **Fablerise**: Massive hollow tree library run by Yarnspinner (giant spider), living books, party's names stolen
 - **Witchlight Carnival**: Returns in Thither for nostalgia/testing how far they've come
 - **Little Treats Orphanage**: Run by Night Hag (Er/Miss Able), only children allowed, children are terrified
-- **Starved Goblin Casino**: Run by Incubus (Mathew/Lust) & Succubus (Brittany/Greed) duo
+- **Starved Goblin Casino**: Run by Lesser Incubus (Caldrien/Mathew/Lust) & Lesser Succubus (Velisara/Brittany/Greed) duo, both enforce Skabatha's breeding program at Cinder Hold
 - **Never Leave Spa**: Run by False Hydra (3 heads), music-based memory effect, seriously injures visitors
 - **Floating Isles**: Aerial encounter area
+- **Cinder Hold (Sindrhald)**: Prison inside corrupted world tree (Yggmir the Ancient), split when Prismeer fractured, filled with witchfire and iron, Harengon forced breeding program, Yanaba's parents imprisoned here
 - **The Toyhouse**: Skabatha's lair, party needs to find it
 
 ### Themes & Mechanics
