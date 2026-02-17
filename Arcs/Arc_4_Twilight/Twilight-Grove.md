@@ -1,3 +1,5 @@
+> **Note:** Detailed documentation for the Twilight Grove has been extracted to [`Worlds/Prismeer/Twilight_Court/Locations/Twilight_Grove.md`](../../Worlds/Prismeer/Twilight_Court/Locations/Twilight_Grove.md). See also the [Twilight Court Overview](../../Worlds/Prismeer/Twilight_Court/README.md) for broader context and connections.
+
 # Creatures and Groups
 - Mud Hulk
     - Daaaaaa was put in time out by Mr. Hats a long long time ago and no one has let him out
@@ -26,7 +28,7 @@
         - The goals of the party and the group need to align
         - Every few turns they get into an argument losing them turns while they fight
 
-- The Druid
+- [The Druid (Daa'grin)](../../Worlds/Prismeer/Twilight_Court/NPCs/Daagrin.md)
     - A drow druid named Daa'grin
     - Daa'grin was once a wild magic sorcerer in a life long ago. After a short life of discomfort the man found his way into the Fey where his soul immediately felt at home. He's unsure when he picked up druidism but what he does remember is the stark difference between his initial inate magical abilities and having to fail and learn slow and painfully. Druidism was not easy but now a magically increased lifetime later he has become a fine druid.
     - Daa'grin found the Rot Wright Grove after returning to find his friend King Gloam. The grove was a place of cheer and kindness, he was horified to see its current state.
