@@ -109,8 +109,8 @@
 
 ### Arc 3: [ATTENTION:DM - Details needed]
 
-### Arc 4: Twilight Court & Heritage Revealed
-- Navigated the Twilight Court
+### Arc 4: [Twilight Court](Worlds/Prismeer/Twilight_Court/README.md) & Heritage Revealed
+- Navigated the [Twilight Court](Worlds/Prismeer/Twilight_Court/README.md)
 - **Treated differently/high-class in some areas** (recognized status)
 - Met Baba Yaga at Zalbina's cottage
 - **Baba Yaga addressed him as "Karag, the Heir of Twilight"**
