@@ -1,3 +1,9 @@
+# Arc 3 - Downfall Planning
+
+> **Note:** Location documentation has been extracted to [`Worlds/Prismeer/Hither/`](../../Worlds/Prismeer/Hither/). See individual location files for comprehensive NPC details and setting information.
+
+---
+
 - The party stumbles upon Shronk and Faeona's house in the swamp 
     - They two are hosting Tempest and Maraunu
         - The two orges know well not to mess with Tempest as he is an agent of Lorna
@@ -18,7 +24,7 @@
 
 
 
-- The Burrows
+- [The Burrows](../../Worlds/Prismeer/Hither/Locations/The_Burrows.md)
     - The Old Mayor, Nizzot
         - See's Aagron as a neutral force. He has certainly provided help and hope but at the cost of lives. Though in this swamp, can one ask for more?
         - "I may have joined him had I been a yonger rabbit. I likely would have wanted him forgotten about as a father. Today I understand his position is a complex one."

@@ -106,7 +106,6 @@ Chopaign has a cruel plan centered on tormenting Sevro, but neither Sevro nor Di
 - Di will have unknowingly helped orchestrate Sevro's torture
 
 **The Side Adventure:**
-- Full details in [Soul-Retrieval-Quest.md](Sessions/Arc-5/Soul-Retrieval-Quest.md)
 - Party will need to infiltrate rival archdevil's domain
 - Scrolls of Return are their escape route
 - This is a major side quest
