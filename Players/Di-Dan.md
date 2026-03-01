@@ -81,6 +81,16 @@
   - Martin agreed to pass Di's name to Mr. Witch for future repair work
   - Traded random unidentified key for vague casino directions from Shako
   - Di's scroll crafting advanced one day
+- **Session 4**:
+  - Stravens: started ~30, ended with 0 after cashing out → **+3 CON** (Constitution now has +2 modifier)
+  - Sold scroll of blindness/deafness for 12 stravens (worth 25 — got ripped off by prize goblins)
+  - Traded a 1st-level scroll for 2 stravens + a **wad of gum** (1 year of goblin gum collection, smells awful)
+  - Lost 2 stravens at Wheel of Want betting on even (landed odd)
+  - **Skabatha revealed to have a crush on Chopaign** — told privately by DM (Skabatha is Witch of Games who owns Thither; Chopaign from deeper Hells / "Memphis")
+  - **Party forgot Di's name** — woke up unable to remember it; Di temporarily named "Patunia" / "Pete"; Di felt oddly free about it; possible Yarnspinner/Fablerise curse (Forgotten Names)
+  - Left casino; party heading toward Never Leave Spa
+  - **CLIFFHANGER**: Camp surrounded — four cloaked figures heading toward Karag from the west; four figures from the south toward Sevro; two pairs of yellow eyes to the east
+
 - **Session 3**:
   - **Initial buy-in: 20 starvens** (20 ability score points)
   - **Flagged by casino security**: Enchanted detection stone identified Di as associated with another devil

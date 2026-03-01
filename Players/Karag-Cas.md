@@ -126,6 +126,17 @@
   - Karag speculated different king than Sevro (building reputation with Fey)
   - Found mushroom fairy ring fast travel points
   - **Can carry party members during Constitution checks** (high Strength)
+- **Session 4**:
+  - Stravens: started 17, cashed out → **+1 CHA** (6 stravens remaining)
+  - Sold items at prize wall: whispering fern (3 stravens), goggles of night vision (8 stravens), piece of cheese (2 stravens)
+  - **Persuaded Tilly Tumbleweed to leave** — "the house always wins, and work offers guaranteed income." Tilly left while up 40 stravens and bought a Bag of Holding. First staff rescued.
+  - **Maurnu approached Karag** outside the casino (not Di/Yanaba as expected)
+    - Revealed Tempest is "at the playhouse with his brother" — **the Toyhouse is inside the Little Treats Orphanage; it is Skabatha's home**
+    - Maurnu has a deal with the Hourglass Coven: serves until a friend is freed from Bavlorna
+    - Hopes party goals will align in future; won't influence their choices
+  - Left casino; party heading toward Never Leave Spa (west to river, then south)
+  - **CLIFFHANGER**: Four ethereal black-cloaked figures approaching Karag from the west at camp
+
 - **Session 3**:
   - Random encounter rolled by Karag: **The Quiet Where Sound Should Be** (spa foreshadow)
     - Forest lost all sound
@@ -151,8 +162,8 @@
   - Three shadowy spirits appear: "Heir..." "Not yet..."
   - Foreshadows 4-Way Ambush
   
-- **4-Way Ambush (Future)**:
-  - **Three twilight spirits will attack Karag** (use Thug stat block)
+- **3-Way Ambush (Session 4 Cliffhanger)**:
+  - **Four twilight spirits will attack Karag** (CR 1/2 — see [3-Way-Ambush.md](../Arcs/Arc_5_Thither/3-Way-Ambush.md))
   - Remnants of the Twilight Court, drawn to him by detecting the latent magic in his curse tattoo
   - As they approach, the curse tattoo causes intense pain (tracking beacon)
   - **Seren may feel compelled to protect Karag** (unclear why)

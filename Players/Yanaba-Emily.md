@@ -80,6 +80,14 @@
   - Emily committed to finding Star as new primary goal
   - Freed Pin the sprite from thistles (Karag healed, Pin grateful)
   - Discovered mushroom fairy rings for fast travel
+- **Session 4**:
+  - Stravens: started 12, cashed out → **+1 WIS** (1 starven remaining)
+  - Found Grimble in locked bathroom stall with Seren — gave him 1 starven (reducing debt to 22 stravens); Grimble left the stall; fate/rescue status unclear
+  - Cashed out and stopped gambling; didn't trust the situation
+  - Asked security guard for spa directions: go west to a river, then south following the river
+  - Party left casino and began traveling toward Never Leave Spa
+  - **CLIFFHANGER**: Camp surrounded — two pairs of yellow eyes spotted to the east while on watch
+
 - **Session 3**:
   - Fed pale fruit from Orchard of Borrowed Smiles to Sevro (no effect) and Karag (made him laugh)
   - Negotiated with casino security to sign agreement for weapon return

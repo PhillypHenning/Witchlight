@@ -46,22 +46,22 @@ The house always wins. The question is: what will it cost you to prove otherwise
 1. **Karag's Dream** ([Karags-Dream.md](../Karags-Dream.md)) — During long rest
    a. Three paths vision: Fury (curse/rage), Stillness (Grumbar/oaths), Throne (Heir of Twilight)
    b. Philosophical voice questions who decides his fate
-   c. Three shadowy spirits appear: "Heir..." "Not yet..." — foreshadows 4-Way Ambush
+   c. Three shadowy spirits appear: "Heir..." "Not yet..." — foreshadows 3-Way Ambush
 2. **Post-Casino Travel** — Random encounters, next destinations
    a. Constitution checks after 2 movement squares
    b. Random encounters every 3 movements
    c. Mushroom fairy ring fast travel (requires Jabberwocky excrement)
    d. Nearby locations: [Floating Isles](../../../Worlds/Prismeer/Thither/Locations/Floating-Isles.md), [Never Leave Spa](../../../Worlds/Prismeer/Thither/Locations/Never-Leave-Spa.md)
-3. **4-Way Ambush** ([4-Way-Ambush.md](../4-Way-Ambush.md)) — When party travels through Thither
-   a. Sevro: Frog knight + 3 archers (revenge for Kagg)
-   b. Yanaba: Skabatha's kidnappers → Cinder Hold Prison where her birth parents are held
-   c. Karag: Three shadowy Twilight spirits (tracking his curse tattoo)
-   d. Seren: May feel compelled to protect Karag
+3. **3-Way Ambush** ([3-Way-Ambush.md](../3-Way-Ambush.md)) — **SESSION 4 CLIFFHANGER** — Camp surrounded
+   a. Sevro: A Knight and Squire from Downfall (4 figures from the south) — claim the crown, revenge for Kagg
+   b. Yanaba: 2 Kidnappers (yellow eyes from the east) — all free Harengon sent to Cinder Hold Prison; her birth parents are already there
+   c. Karag: 4 Twilight spirits (ethereal cloaked figures from the west, CR 1/2) — drawn by curse tattoo beacon
+   d. Seren: May feel compelled to protect Karag (Wisdom save DC 13)
 
 ## Reminders
 1. **Casino Mechanics (CRITICAL)**
    a. Wisdom save DC 12 every hour inside — failure adds 1 Sinner's Weight stack (hidden)
-   b. Currency: ability score points only (1 pt = 10 starvens; scores must stay positive)
+   b. Currency: ability score points only (11 stravens per point — 10 base + 1 house fee; scores must stay positive)
    c. Time tracking: party entered during Session 3 — running total across sessions
 2. **Sinner's Weight Stacks** (cumulative effects)
    a. Stack 1: Disadvantage on Insight checks
@@ -133,14 +133,43 @@ The house always wins. The question is: what will it cost you to prove otherwise
 ---
 
 # Game Notes
-[To be filled during/after session]
-Yanaba: 12 Starvens = +1 ability score (1 Straven remaining)
-Karag: 17 Starvens = +1 ability score (6 Stravens remaining)
-Seren: 7 Starvens
-Sevro: 60 Starvens = -5 ability scores (5 Stravens remaining)
-Di: 55 Starvens = +3 ability scores (0 Starvens remaining)
 
+### Stravens & Ability Score Changes (Confirmed)
+| Character | Stravens In | Change | Stravens Out |
+|-----------|-------------|--------|--------------|
+| Yanaba | 12 | +1 WIS | 1 remaining |
+| Karag | 17 | +1 CHA | 6 remaining |
+| Seren | 7 | none | 7 remaining |
+| Sevro | 60 | -5 INT | 5 remaining |
+| Di | 55 | +3 CON | 0 remaining |
 
+### Key Events
+- **Tilly rescued**: Karag persuaded Tilly to leave while up 40 stravens. She bought a Bag of Holding from the prize wall before leaving. First confirmed staff rescue.
+- **Sevro upstairs**: Accepted an escort invite; escorts gave him a **Potion of Alter Self** to make him "bearable to be around" (he normally appears corpse-like). He drank it immediately — appeared whole/living, felt nothing physically. Dispute over payment (12 stravens); Gorthax intervened, punched Sevro (broke his nose), took 15 stravens (12 to escorts, 3 for himself). White Bliss was NOT offered — that hook is still pending.
+- **Grimble rescued**: Yanaba and Seren found Grimble in a locked bathroom stall. Yanaba gave him 1 starven. Grimble accepted the debt loss and is traveling back to the Witchlight. ✓ Rescued.
+- **Caldrien Spa offer**: Approached Seren; offered unspecified compensation to "disrupt" the Never Leave Spa. Party agreed.
+- **Maurnu appeared**: Approached Karag outside (not Di/Yanaba as planned). Revealed Tempest is "at the playhouse" — the Toyhouse, which is located within the Little Treats Orphanage (Skabatha's home). Has a deal with the Hourglass Coven — serves until a friend is freed from Bavlorna. Hopes goals align in future.
+- **Marlon failed rescue**: Party waited 2 days outside casino. Marlon emerged dejected and visibly older — lost everything including going into negatives, sold himself into 15-year servitude. Refused all help. Party left him behind. ✗ Failed — affects end reward.
+- **Di's name forgotten**: Party woke unable to remember Di's name. Temporarily named "Patunia" / "Pete." Di felt "free and unconstrained." **Confirmed start of the Forgotten Names hook** — DM will slowly have them lose track of more names over time.
+- **Casino exit**: Party cashed out, collected weapons, left. Yanaba asked security for spa directions: west to a river, then south following the river.
+- **Spider molt**: Found massive molted spider shell in the dark woods. Seren collected spider silk (4 sticks).
+- **CLIFFHANGER**: Camp surrounded by three groups:
+  - Two pairs of yellow eyes (east/right) — Skabatha's kidnappers targeting Yanaba
+  - Four figures approaching from the south toward Sevro
+  - Four ethereal black-cloaked figures from the west toward Karag
 
+### Rulings Made
+- Ability score cost: **11 stravens per point** (10 base + 1 house fee)
+- Players cannot pass chips to other players (posted house rule)
+- Gold to stravens conversion: possible but expensive and house-favored (deferred)
 
+### Notable Items Acquired
+- **Di**: Wad of gum (1 year of goblin gum collection) — traded for a 1st-level scroll
+- **Seren**: Spider silk x4 sticks
+- **Tilly**: Bag of Holding (bought with her own winnings)
 
+### Plot Reveals
+- Skabatha has a crush on Chopaign (revealed privately to Di)
+- Maurnu: Tempest is "at the playhouse" — the Toyhouse is INSIDE the Little Treats Orphanage; it is Skabatha's home
+- Maurnu serves the coven until a friend is freed from Bavlorna
+- Di's name forgotten by the entire party — ongoing curse

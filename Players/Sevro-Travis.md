@@ -136,6 +136,18 @@
   - Shopping at Martin's (bought items)
   - Charged at Shako the clown demanding information
   - Heading toward casino
+- **Session 4**:
+  - Stravens: started ~100, ended with 60 before cashing out → **-5 INT** (5 stravens remaining)
+  - Went upstairs with two escorts; was handed a **Potion of Alter Self** on the way up (escorts needed him "bearable to be around" — he normally looks like a corpse). Drank it immediately — appeared whole/living, felt nothing physically; internally frustrated it had no effect on him.
+  - Payment dispute with escorts over fee (12 stravens total); refused to pay; **Gorthax arrived, punched Sevro with brass knuckles, broke his nose, knocked him down, took 15 stravens** (12 to escorts, 3 for himself)
+  - **White Bliss drug was NOT offered** — that hook is still pending for a future session
+  - Left the casino furious; wants to "torch the whole place" / burn down the spa
+  - Offered his remaining 50 stravens to Di — refused by casino rule (no chip transfers between players)
+  - Attempted to make breakfast at camp: completely burned/charred; cotton candy caramelized black
+  - Tried to address Di by name; **could not remember Di's name** — called him "turtle guy" / "reptilian"
+  - Party gave Di the temporary name "Patunia" / "Pete"
+  - **CLIFFHANGER**: Four figures approaching from the south toward Sevro at camp (frog knight ambush?)
+
 - **Session 3**:
   - Fed pale fruit by Yanaba - nothing happened (face expressionless effect?)
   - **Did not take cover** during Raining Cats and Dogs encounter
@@ -148,7 +160,7 @@
   - Losses unknown by session end
 
 ### Upcoming Threats
-- **4-Way Ambush (Future)**: Frog knight + 3 archers will attack Sevro specifically for revenge (killed Kagg)
+- **3-Way Ambush (Session 4 Cliffhanger)**: A Knight + Squire from Downfall will attack Sevro (revenge for killing Kagg; claim his crown) — see [3-Way-Ambush.md](../Arcs/Arc_5_Thither/3-Way-Ambush.md)
 - **White Bliss** drug will be offered by casino escort (addiction risk)
 
 ---

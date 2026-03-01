@@ -61,6 +61,14 @@
   - [ATTENTION:DM - Specific Session 2 actions/moments not detailed]
   - Part of group heading toward casino
   
+- **Session 4**:
+  - Stravens: 7 (no ability score changes — did not gamble significantly)
+  - Helped find Grimble in the bathroom with Yanaba
+  - **Received the Never Leave Spa quest from Caldrien** — Caldrien approached her asking about the group's plans; offered compensation from Velisara to "disrupt" the competing spa (customers return with fewer body parts)
+  - Collected **spider silk (4 sticks)** from a massive molted spider shell found in the dark woods
+  - Could not remember Di's name when the party woke at camp
+  - **CLIFFHANGER**: Camp surrounded
+
 - **Session 3**:
   - Random encounter: Raining Cats and Dogs
     - **Seren rolled the encounter**
