@@ -116,7 +116,7 @@ The house always wins. The question is: what will it cost you to prove otherwise
 - **Shenax** (Bearded Devil, High-Roller Security) — Guards high-roller room door; "high rollers only"
 - **Maurnu** — Works with Tempest (Bavlorna's hagspawn son); expected this session; will approach Di or Yanaba
 - **Tilly Tumbleweed** (Pixie, Witchlight Staff) — Found; up 47+ starvens; giddy and not ready to leave; Persuasion DC 15 or show her the house is cheating
-- **Grimble "Grim" Swiftfoot** (Goblin, Witchlight Staff) — Locked in bathroom stall; owes 23 starvens; sacrificed 3 INT + 2 WIS; terrified of Kravik
+- **Grimble "Grim" Swiftfoot** (Goblin, Witchlight Staff) — Locked in bathroom stall; owes 23 starvens; sacrificed 3 dex; terrified of Kravik
 - **"Lucky" Marlon Duskwhisper** (Half-Elf, Witchlight Staff) — High-roller room; down 89 starvens; sacrificed 4 WIS + 2 CHA + 1 INT; Charmed by Caldrien
 
 ## Outstanding Quests
@@ -134,3 +134,13 @@ The house always wins. The question is: what will it cost you to prove otherwise
 
 # Game Notes
 [To be filled during/after session]
+Yanaba: 12 Starvens = +1 ability score (1 Straven remaining)
+Karag: 17 Starvens = +1 ability score (6 Stravens remaining)
+Seren: 7 Starvens
+Sevro: 60 Starvens = -5 ability scores (5 Stravens remaining)
+Di: 55 Starvens = +3 ability scores (0 Starvens remaining)
+
+
+
+
+

@@ -277,8 +277,8 @@ Starvens can be exchanged for prizes at the redemption counter (staffed by an Im
 - Philter of Love - 10 starvens
 - Potion of Animal Friendship - 10 starvens
 - Spell Scroll (1st level) - 5 starvens
-- Spell Scroll (2nd level) - 15 starvens
-- Spell Scroll (3rd level) - 30 starvens
+- Spell Scroll (2nd level) - 25 starvens
+- Spell Scroll (3rd level) - 50 starvens
 - Bag of Holding - 50 starvens
 - Rope of Climbing - 20 starvens
 - Driftglobe - 15 starvens
