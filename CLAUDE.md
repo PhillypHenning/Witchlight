@@ -129,6 +129,8 @@ When creating a new session file, use this format:
 - [Starved-Goblin-Casino.md](Worlds/Prismeer/Thither/Locations/Starved-Goblin-Casino.md)
 - [Casino-Owners.md](Worlds/Prismeer/Thither/NPCs/Casino-Owners.md)
 - [Cinder-Hold-Prison.md](Worlds/Prismeer/Thither/Locations/Cinder-Hold-Prison.md)
+- [Yanaba-in-Cinderhold.md](Arcs/Arc_5_Thither/Sessions/Cinderhold/Yanaba-in-Cinderhold.md)
+- [Cinderhold-Dungeon.md](Arcs/Arc_5_Thither/Sessions/Cinderhold/Cinderhold-Dungeon.md)
 - [Never-Leave-Spa.md](Worlds/Prismeer/Thither/Locations/Never-Leave-Spa.md)
 - [4-Way-Ambush.md](Arcs/Arc_5_Thither/4-Way-Ambush.md)
 - [Karags-Dream.md](Arcs/Arc_5_Thither/Karags-Dream.md)

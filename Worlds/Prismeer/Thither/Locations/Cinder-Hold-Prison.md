@@ -1,7 +1,7 @@
 # Cinder Hold Prison (Sindrhald)
 
 ## Overview
-A prison complex where Skabatha Nightshade keeps prisoners, particularly Harengon. The prison is the corrupted remains of Prismeer's world tree, transformed into a burning, iron-filled hell that roams the northeastern countryside of Thither.
+A prison complex where Skabatha Nightshade keeps prisoners, particularly Harengon. The prison is the corrupted remains of Prismeer's world tree, transformed into a burning, iron-filled hell that roams the northern countryside of Thither.
 
 ## Origin & Transformation
 
@@ -38,7 +38,7 @@ A prison complex where Skabatha Nightshade keeps prisoners, particularly Harengo
 - Completely autonomous - Skabatha need not be present
 
 ## Location & Movement
-**Roams the northeastern countryside of Thither**
+**Roams the northern countryside of Thither**
 - Not stationary - the massive burning treant walks
 - Trails of scorched earth and broken forest mark its passage
 - Visible from great distances at night (witchfire glow)
@@ -290,7 +290,7 @@ A prison complex where Skabatha Nightshade keeps prisoners, particularly Harengo
 - **Approaching is deadly**: Cinder Hold crushes anyone who gets near without permission
 - **Leaving is deadly**: Prisoners who try to escape are crushed immediately
 - **Magical wards**: Prevent simple teleportation solutions
-- **Mobile prison**: Roams northeast Thither, hard to track or plan around
+- **Mobile prison**: Roams northern Thither, hard to track or plan around
 - **Requires Skabatha's permission or extremely powerful magic**: No conventional rescue possible
 - **Stealth is nearly impossible**: The tree senses movement within and around it
 
@@ -361,7 +361,7 @@ A prison complex where Skabatha Nightshade keeps prisoners, particularly Harengo
 - Dark fairy tale horror: the "rabbit people" are livestock
 - This revelation should hit players hard
 - **No conventional guards or wardens** - the prison itself is the threat
-- **Cinder Hold roams northeast Thither** - tracking it is part of the challenge
+- **Cinder Hold roams northern Thither** - tracking it is part of the challenge
 
 ## Future Development
 - Map of prison complex

@@ -1,219 +1,115 @@
-# Karag's Dream - Three Paths
+# Karag's Dream — Session 6
 
-## When This Occurs
-- During a long rest after significant events
-- When Karag's identity and purpose are being questioned
-- Before or after major choice points in his character arc
-- Possibly before the 4-Way Ambush (foreshadowing the spirits)
+## Read-Aloud
 
-## The Dream Sequence
+The earth is familiar. Stone presses close on all sides — deep and solid, the kind of weight that doesn't threaten. It holds. You have dreamed underground before. This is Grumbar's language: the dark that doesn't need light, the silence that doesn't need sound. Somewhere far above, the world moves. Down here, nothing does. You stand in a passage — old stone, rough-hewn, lit by nothing and yet visible. The floor is packed earth and rock. Two corridors stretch ahead, as they have since you became cursed. One pulses at its edges with sickly green light, swamp-heat bleeding through the walls. The other is grey and worn smooth and certain.
 
-### The Chamber
-Karag stands in a vast circular chamber of dark stone. Three paths stretch before him, each emanating a different energy. The air is thick with significance—this is a choice that matters, though he doesn't yet understand why.
-
-Above, the ceiling is lost in shadow. Below, the floor is polished obsidian that reflects not his current self, but three different versions of him.
-
-### Path One: Fury (The Curse)
-
-**Visual**:
-- Path glows with sickly green-yellow light
-- Swamp gas and decay smell fills the air
-- Bavlorna's curse manifests visibly
-- The path writhes like a living thing
-
-**Karag's Reflection**:
-- Eyes filled with rage
-- Body twisted by curse
-- Powerful but uncontrolled
-- Feral, barely recognizable
-
-**Voice of Fury**:
-"Embrace what she made you. Use the rage. Let it consume them before it consumes you."
-
-**Symbolism**:
-- The curse as a source of power
-- Giving in to corruption
-- Strength through suffering
-- Becoming the monster others fear
+But there is a wall where there was none before. You can feel it more than see it — a vibration in the stone, something old pressing from the other side. Not threatening. Not waiting. Patient, the way buried things are patient. Something in your blood recognizes it before your mind does.
 
 ---
 
-### Path Two: Stillness (Grumbar/Paladin Oaths)
+## Beats
 
-**Visual**:
-- Path is solid stone, unmoving
-- Earth element surrounds it
-- Holy symbols of Grumbar carved into floor
-- Absolute stability and order
+### 1. The Two Paths
+The familiar figures are there.
 
-**Karag's Reflection**:
-- Resolute, unmoving
-- Paladin armor gleaming
-- Hand on holy symbol
-- Expression of calm determination
+- **The Raging Orc** paces the green-lit corridor, restless, barely contained — eyes lit with something older than rage
+- **The Stoic Orc** stands at the mouth of the grey path, hands at his sides, unmoved, watching Karag without expression
 
-**Voice of Stillness**:
-"Stand firm. Be the mountain. Your oaths are your foundation. Let nothing move you from righteousness."
-
-**Symbolism**:
-- Oath of Landwalking
-- Sardonyx Knight of Grumbar
-- Lawful good alignment
-- Duty and honor above all
-- The weight of expectations
+Neither speaks. They never have to. Karag knows these shapes the way he knows his own hands.
 
 ---
 
-### Path Three: The Throne (Fighter/New Way)
+### 2. The Wall — The Search (DC 12)
+The vibration from the new wall is real. Something is on the other side.
 
-**Visual**:
-- Path leads to a throne carved from twilight itself
-- Neither dark nor light, but the space between
-- Crown of shadows and starlight floats above it
-- The path shifts and changes as he watches
+**To find the path, Karag must look for it.**
 
-**Karag's Reflection**:
-- Regal, powerful
-- No holy symbols or curse marks
-- Wearing armor of his own making
-- Expression of authority and choice
+> **Option A — Roll**: Perception DC 12
+> **Option B — Narrate**: If Cas describes how Karag searches (pressing his palms to the stone, following the feeling in his blood, tracing the cracks with his fingers), treat this as a success regardless of the roll.
 
-**Voice of the Throne**:
-"Heir of Twilight. These are not your only choices. You can forge your own path. Take what is yours."
+**On a Success:**
+A crack opens — thin at first, then wide enough. The light that spills through is not daylight and not witchfire. Twilight. Amber and shadow shifting together, the color of the sky between sunset and dark. A third corridor exists. No Orc stands at its mouth. Something else does — a figure barely resolved, shadow and old light, features that might be orcish or might be something older. Fey-blooded. It doesn't speak. It watches you.
 
-**Symbolism**:
-- Fighter multiclass option
-- Reclaiming Twilight Court heritage
-- Making his own destiny
-- Leadership and sovereignty
-- Breaking from both curse and oath
+**On a Failure:**
+Your hands find the wall. You can feel it — the vibration, the presence, the fact of it. But the stone doesn't give. The path is there. You simply cannot reach it tonight. The voice speaks regardless.
 
 ---
 
-## The Philosophical Voice
+### 3. The Voice
+*"Why must you always choose?"*
 
-### The Questions
-As Karag stands between the three paths, a fourth voice emerges. It comes from everywhere and nowhere, neither male nor female, neither kind nor cruel. Simply... present.
+Not from the paths. Not from the entities. From the stone — or from Karag.
 
-**The Voice asks**:
+The Raging Orc stops pacing. Looks up.
+The Stoic Orc doesn't move.
+*(If the third corridor opened: the figure tilts its head.)*
 
-1. "Why are these your choices?"
-   - Who decided fury, stillness, and ambition were your only options?
-   - Are these truly paths, or cages with open doors?
-
-2. "Why must you follow these?"
-   - What happens if you walk between the paths?
-   - What if you carve a fourth way?
-
-3. "Who decides what you become?"
-   - The hag who cursed you?
-   - The god who called you?
-   - The court that claims you?
-   - Or you?
-
-4. "What do you want, Karag?"
-   - Not what duty demands
-   - Not what the curse drives you toward
-   - Not what your heritage expects
-   - What do *you* want?
-
-5. "Are you the paladin? The cursed? The heir?"
-   - Or are these masks you wear?
-   - Can you be all three?
-   - Can you be none?
-
-### The Voice's Nature
-- Not an entity, but Karag's own deep consciousness
-- Possibly influenced by his connection to the Twilight Court
-- Could be the dream itself questioning its own structure
-- Represents the player's agency vs. narrative/mechanical constraints
+The question hangs in the dark like smoke. No answer is expected.
 
 ---
 
-## The Dream's Interruption
+### 4. The Fall
+The floor cracks.
 
-### Before Karag Can Choose
-The dream shifts. The chamber cracks. The three paths begin to splinter.
+Then drops.
 
-**Shadows emerge** (foreshadowing the spirits in 4-Way Ambush):
-- Three shadowy figures materialize
-- They reach for Karag
-- Whisper: "Heir..." "Return..." "Not yet..."
-- The dream ends abruptly
+Not far — not forever — just enough. The passage is gone. You are in open dark, weightless, looking up at where you were standing. The paths are above you now, edges lit, and from each one something reaches down.
 
-### Karag Wakes
-- No clear answer
-- The philosophical questions linger
-- Memory of the three paths remains vivid
-- Sense that this choice is coming, whether he's ready or not
-- If before the ambush: Déjà vu when the spirits appear
+**The Raging Orc** leans over the edge, hand extended, burned and scarred. His voice, for the first time:
+*"Take it. You're already falling."*
 
----
+**The Stoic Orc** kneels at the edge, arm steady, unmoving. Says nothing. Doesn't need to.
 
-## Mechanical Implications
+***(If the third corridor was found):*** The Twilight figure crouches at the edge of its own opening. Its hand is an open palm — not grabbing, not pulling. Just waiting. The light around it shifts between amber and deep shadow, neither one winning.
 
-### This Dream Is About:
-1. **Multiclass choice**: Fighter multiclass option presented narratively
-2. **Character identity**: Who is Karag beyond his class labels?
-3. **Player agency**: Questioning the "rails" of destiny/prophecy
-4. **Future direction**: Opening possibilities beyond binary choices
+**Ask Cas**: *Which hand does Karag reach for?*
 
-### DM Guidance:
-- **Don't force a choice**: This is exploration, not decision time
-- **Honor player's interpretation**: Cas's take on the dream matters most
-- **Use for foreshadowing**: The spirits in the dream appear in 4-Way Ambush
-- **Revisit later**: This dream can recur with new details
-- **No wrong answer**: Fury, stillness, throne, or fourth way—all valid
-
-### If Cas Engages with the Questions:
-- Reward philosophical thinking with inspiration
-- Allow the dream to influence future choices
-- Consider mechanical benefits for embracing uncertainty
-- Let Karag's path emerge from play, not predestination
+- This is not a mechanical commitment — it's exploration, not a declaration
+- Honor whatever he says, including reaching for none of them
+- No wrong answer; the dream ends before he arrives
 
 ---
 
-## Symbolism Key
+### 5. Waking
+The dream ends before anything is resolved.
 
-| Path | Class | Temptation | Cost |
-|------|-------|-----------|------|
-| Fury | Barbarian? | Power through rage | Loss of control |
-| Stillness | Paladin | Righteousness | Rigidity |
-| Throne | Fighter | Sovereignty | Unknown burden |
-| Question | None | Freedom | Uncertainty |
+You wake to camp. The dead spider against your back. The twilightof Thither breaking through the canopy above. The questions linger the way stone lingers — heavy, patient, not going anywhere.
 
----
-
-## Follow-Up Scenes
-
-### After the Dream:
-- Karag can discuss with party members
-- Seren might have religious insight
-- Di might relate to patron/external control issues
-- Yanaba might understand identity questions (swapped at birth)
-- Sevro might joke but understand choosing your own path
-
-### During the Ambush:
-- When spirits attack, Karag recognizes them from the dream
-- "You were in my dream..."
-- Spirits respond: "And you were in ours, heir."
-
-### Long-term:
-- The three paths remain as options throughout campaign
-- The philosophical voice returns at key moments
-- Eventually, Karag may need to actually choose
-- Or find the fourth way that wasn't offered
+If he connects the dream to the ambush spirits: *"You were in my dream."*
+Their answer: *"And you were in ours, heir."*
 
 ---
 
 ## DM Notes
-- This dream is Cas's spotlight moment
-- Don't rush through it
-- Let silence be powerful
-- The questions matter more than answers
-- Use this to deepen Karag's arc
-- Connect to "Heir of Twilight" mystery
-- Foreshadow the ambush
-- Respect player choice—these are options, not mandates
-- The philosophical voice challenges destiny tropes
-- Consider: Is the voice helping or tempting?
+
+### On the Blood of Twilight
+- The new entity is not an Orc — that's the point. The two Orcs are his inner life as he's always understood it: the curse and the oath, rage and stillness
+- The Twilight figure is something older. His time in the Twilight Court awoke a heritage the Orcs never had language for
+- If Karag found the path: this is the first time three things have reached for him. The dream is no longer binary
+- If he didn't: the wall was real. The path exists. He'll dream again
+
+### On the Voice
+- "Why must you always choose?" is not a rebuke — it's a genuine question
+- The dream has always been two options. The voice is noticing that too
+- This lands differently than prior philosophical questions because it names the *structure*, not just the content
+
+### On Player Engagement
+- Reward narration over rolls — if Cas describes Karag pressing his blood to the stone, finding the crack with something deeper than sight, that's a success
+- Don't rush the fall beat; let the hands hang there a moment before asking
+- If Cas asks what the Twilight figure looks like: *shadow and amber, features that might be orcish or might be fey, older than either — it doesn't have a face yet*
+
+### Mechanical Implications
+- This dream does not force a multiclass decision — it opens the door
+- The path Karag reaches for (if any) is flavor now, weight later
+- The third entity will become clearer in future dreams if he's moving toward that heritage
+
+---
+
+## Path Reference
+
+| Inner Figure | Origin | Offers | Voice |
+|---|---|---|---|
+| Raging Orc | Bavlorna's curse | Power, release | "Take it. You're already falling." |
+| Stoic Orc | Grumbar / Paladin oath | Steadiness, duty | *(silence)* |
+| Twilight Figure | Fey heritage / Heir of Twilight | Something unnamed | *(open hand)* |
