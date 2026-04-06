@@ -34,6 +34,7 @@ Witchlight/
 │   ├── General/
 │   │   ├── Factions/
 │   │   ├── Locations/
+│   │   ├── Magic-Items/        ← World-persistent magic items
 │   │   └── NPCs/
 │   └── Prismeer/
 │       ├── Hither/

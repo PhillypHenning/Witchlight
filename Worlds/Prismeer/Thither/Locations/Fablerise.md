@@ -1,279 +1,393 @@
-## Molt
-Thither’s path narrows into a corridor of leaning trees and soft fungus-light. The air tastes like paper left too long in a damp cellar. Threads of webbing catch on your clothes, not sticky, more like impatient fingers tugging you forward.
+# Fablerise
 
-Then the forest opens onto something that makes your stomach drop.
+*Western Thither — Location*
 
-A **molt** lies half-buried in ferns and rotting leaves: a shed skin the size of a cottage, shaped like a spider but too large to comfortably fit in your mind. Its legs arc like collapsed rafters. The hollow “skull” is split open where something far bigger climbed out of itself.
+A sprawling nest of living silk and twisted trees, the lair of Yarnspinner the ancient story-weaver. The trees here form natural architecture, woven together by centuries of silk work. The space feels less like a forest and more like a cathedral dedicated to narrative.
 
-Inside the husk, **small insects feast**—beetles and pale centipedes swarming over the inner seams like priests at an altar. Every so often, the husk flexes in the breeze and the sound is not leaf-rustle; it’s the whisper of turning pages.
-
-And beneath it, tied to the underside with careful knots of silk, hangs a small **satchel**.
-
-## Fablerise — Intro Description (read-aloud)
-Far ahead, through the trees, you can see a silhouette: a **massive hollow tree**, its trunk carved into balconies and windows like a vertical city. Lanterns glow in its bark. Webbing spans from branch to branch like bridges. A sign swings over a natural archway in the wood:
-
-**FABLERISE**
+At the center: a massive wooden stage, worn smooth by time and performance. Above it, hanging in great loops from the canopy, is the **Forever Story Scroll** — a magically inscribed record of stories Yarnspinner has documented, visible to thousands of readers across the planes.
 
 ---
 
-# Adventure Summary (Fablerise in 5 acts)
-**Tone:** storybook wonder + editorial cruelty. Social and combat both matter; violence draws attention fast.
+## Approach Scene — The Feast
 
-### Act I — The Molt (Warning + Optional Fight + Bargaining Chip)
-- The molt telegraphs: *Yarnspinner is not a fight right now.*
-- Optional combat: the scavenging insects (low-risk, resource-tax fight).
-- Reward: the **satchel-book**, useful as admission or leverage later.
+The forest transitions gradually as the party moves west. Canopy lowers, gaps between trunks narrow, silk appears between everything — not chaotic, but deliberate architecture. Light filters through amber and slow.
 
-### Act II — Arrival at Fablerise (The Theater Outside)
-- The outer “front door” is an **open-air theater** built into roots and platforms.
-- One of Yarnspinner’s daughters cheerfully advertises a show “later today,” and casually confirms that **stories are harvested here**.
+> The trees here are older, and closer together. What light comes through arrives orange and slow, like late afternoon even if it isn't. The path ahead is not a path — it's a gap, threaded with silk running between trunks at knee height and above. And further in, maybe sixty feet, something pale is stretched out on the ground. Two dark shapes crouch over it. One of them shifts, and you catch the arc of a white limb, a long neck, something slender rising from near its head.
 
-### Act III — Entry Toll (Bring a Book)
-- The main entrance requires the party to “pay” with **a good book** (or equivalent value).
-- Clever alternatives are possible (performance, trade a memory, offer an unfinished story, etc.), but each has consequences.
+**Perception DC 14 (at distance):** It's a horse, not a unicorn — the horn-like shape is a splintered branch caught in the mane. The animal has been dead for some time.
 
-### Act IV — Descent Through the Trunk (Web-Walls + Editors)
-- Inside, Fablerise drops downward like a well.
-- Webbing walls are made for spiders, not humanoids.
-- “Editors” (daughters) confront the party: they try to web them up and eject them before escalating to a larger response.
+**On a failed check (or if Emily asks):** It looks like a unicorn from here.
 
-### Act V — The Library + Silksong’s Bargain (3 stories to finish)
-- Deep library: living catalogues, whispering shelves, and names stored as narrative components.
-- Silksong (major daughter) recognizes the party’s problem and offers a deal: **finish 3 stuck stories**, get names back.
-- Stories: **Little Red Riding Hood**, **Hansel & Gretel**, and **Skin Granny** (a “final draft” boss encounter).
+The two spiders are caught completely unaware — they are feeding and can be treated as surprised in the first round of combat if the party attacks. They are not hungry for the party; they are startled and cornered.
+
+- **If the party attacks:** Normal combat; two font spiders of your choice
+- **If the party holds and attempts to calm them** (Animal Handling DC 13 or Persuasion DC 15 with some kind of communication): The spiders flatten their bodies low, hold for a moment — then grab the horse carcass and drag it rapidly back into the lair
+   - The party can follow the drag marks directly to the nest, bypassing further approach encounters if they move quickly
+- **If the party does nothing and waits:** The spiders finish feeding, notice the party, and retreat into the lair on their own within a few minutes
 
 ---
 
-# Act I — The Molt
+## The Path to the Nest — Optional Scenes
 
-## Optional combat: scavengers in the husk
-**What it looks like:** dozens of small bodies moving in coordinated hunger, crawling in and out of seams like punctuation marks.
-
-**Combat suggestions (pick one):**
-- 2–3 **Swarms of Insects** (MM) + 1 **Giant Centipede** “overseer”
-- or 1 **Swarm of Rot Grubs**-style hazard (if you like body-horror, use carefully)
-
-**Twist:** If combat turns loud, the webbing in nearby trees subtly tightens—Fablerise “notices.”
-
-## The satchel-book reward (bargaining chip)
-Under the molt is a silk-knotted satchel containing a thin hardback:
-
-**“MARGIN NOTES FROM A MOTHER”** (or any title you like).  
-Inside are corrections written in a spidery hand, brutal, brilliant, and personal.
-
-**Mechanical use (choose one):**
-- **Admission:** counts as a “good book” for entry.
-- **Leverage:** advantage on the first Persuasion/Deception check with any Editor or with Silksong.
-- **Secret:** contains a true detail about Yarnspinner’s weakness/goal (not combat weakness—social leverage, e.g., “she hates unfinished endings”).
+Three encounters that can be dropped in along the silk roads between the approach and the stage. Use any, all, or none depending on pacing.
 
 ---
 
-# Act II — Fablerise Exterior + Theater
+### Scene A — Evelyn's Eye
 
-## Theater scene (read-aloud)
-Built into the roots is a small amphitheater: benches carved from fungus-bloated logs, a stage of woven silk stretched tight like a drum. Above it hangs a curtain that looks like lace until you realize it’s webbing layered in hundreds of overlapping patterns.
+> You hear it before you see it. A melody, slow and in a minor key, drifting down through the silk above you. A song about adventurers — brave ones, well-loved ones, the kind stories get told about — and the song traces how they fall. One by one. Each verse ends the same way. The tune is beautiful. The song is not.
 
-A spider tenatively steps onto the stage and bows as if you’re already applauding.
+> Hanging from a junction of silk ahead is a marionette. It resembles a woman — slender, dark-haired, with eyes of pale hollow glass. Its strings move on their own, though nothing above it is visible. When you come into view it stops singing. Its head rotates toward you with a soft creak. It looks at you. It does not speak. After a long moment, its strings go slack.
 
-> “Visitors! Readers! Would-be characters!”  
-> “A show tonight, tragedy, comedy, a moral lesson you will definitely ignore!”
+**What is happening:** This is one of Evelyn's eyes — a construct infused with her dark power, used to observe and relay information. The moment it spotted the party, Evelyn was alerted. The marionette will not engage in combat unless attacked.
 
-If asked what the show is: she answers lightly, “A tale about *people who tried to leave a story before it was done*.”
+**If attacked:** It defends itself. See stat block below.
 
-### Theater daughter NPC (quick)
-**Playbill** (Yarnspinner daughter, hype-person)  
-- Friendly, enthusiastic, completely unbothered by fear.
-- If the party seems interesting, she hints: “If you go inside without paying, the Editors will *restructure you*.”
+**Timeline:**
+- Evelyn is alerted immediately upon sighting
+- Evelyn will relay the party's location and description to Skabatha within approximately one session's time
 
----
+**Evelyn's Eye — Stat Block**
+*Medium Construct, Neutral Evil*
 
-# Act III — Entry Toll (Give a Book)
+**Armor Class** 13
+**Hit Points** 45 (7d8 + 14)
+**Speed** 30 ft., fly 30 ft. (strings)
 
-## The rule
-At the main opening in the tree, webbing forms an archway with a sign:
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 8 (−1) | 16 (+3) | 14 (+2) | 10 (+0) | 12 (+1) | 16 (+3) |
 
-**“ONE GOOD BOOK PER VISIT.”**
+**Resistances** Bludgeoning, Piercing, and Slashing from nonmagical attacks
+**Immunities** Poison, Psychic; Charmed, Exhausted, Frightened, Paralyzed, Poisoned
+**Senses** Darkvision 60 ft., Passive Perception 11
+**Challenge** 3 (700 XP)
 
-A living “book cradle” (web hammock) waits to receive it.
+**Dark Strings (Passive).** While the marionette can see a creature, Evelyn sees what it sees. This connection functions across any distance on the same plane.
 
-### What counts as “good”
-- A real book with a complete narrative (best).
-- A personal journal is “acceptable but tacky.”
-- The satchel-book from the molt is *excellent*.
+**Actions**
 
-## If they don’t want to give up a book (clever solutions)
-Give them 3–4 options so it feels fair:
+**Puppet Strike.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) bludgeoning damage plus 5 (2d4) psychic damage.
 
-1) **Tell a story at the theater** (bard spotlight)  
-   - Performance DC 13. Success: they’re granted entry as “featured talent.”  
-   - Failure: they may still enter, but an Editor follows to “revise” them later.
+**Dark Bolt.** *Ranged Spell Attack:* +5 to hit, range 60 ft., one target. *Hit:* 7 (2d6) necrotic damage.
 
-2) **Trade a secret / a memory** (warlock bargain energy)  
-   - The web “drinks” one memory: the PC forgets a minor detail (your choice with consent).  
-   - This is thematically perfect if you’re building toward name loss.
-
-3) **Sneak in backstage** (ranger spotlight)  
-   - Stealth DC 14. On success: entry, but now they’re trespassers.  
-   - On failure: Editors arrive immediately (Act IV starts hot).
-
-4) **Force** (paladin/barb option)  
-   - Works, but it escalates the whole place. Fablerise becomes hostile quickly.
+**Haunting Melody (Recharge 5–6).** The marionette sings. All creatures within 30 ft. must make a DC 13 Wisdom saving throw or be frightened of the marionette until the end of their next turn.
 
 ---
 
-# Act IV — The Descent + Editors (low-combat engagement)
+### Scene B — The Woman in the Breastplate
 
-## The trunk interior (read-aloud)
-Inside is not a room; it’s a vertical throat. The hollow trunk descends into darkness, and the walls are layered in web—thick enough to walk on if you were made for it. Threads hum faintly like harp strings.
+> Ahead on the path, a woman is pacing. She moves in a slow circle, speaking quietly under her breath. She wears a breastplate that does not match the rest of her — it is sleek and reinforced, etched with the kind of sigils that take years to earn, kept in better condition than anything else on her person. She doesn't notice you until she nearly walks into Karag, at which point she stops, stares, and says: *"You — do you know me? I feel like someone should know me."*
 
-There are no stairs. Only silk.
+She does not know her name. She does not know where she came from, how she got here, or what she has done with her life. She knows she was someone. She can feel it. But the details are gone, and they are not coming back.
 
-Somewhere below, you hear pages turning by themselves.
+**What happened:** Yarnspinner wrote her story years ago. She has been wandering Fablerise since, unable to leave. She does not know this.
 
-## Getting down (let them be clever)
-Offer obvious methods and reward creativity:
-- **Climb down webbing:** Athletics DC 13 (with gloves/gear advantage). Fail = slip, lose progress, minor fall damage (or catch a strand).
-- **Make a silk “elevator”:** Tools/Survival/Arcana DC 13 to rig a descent line.
-- **Magic:** feather fall, spider climb, misty step, etc. trivializes parts (that’s okay).
+**If the party takes her with them:** She will follow willingly, relieved to have a direction. She is a capable fighter — her body remembers what her mind does not. Treat her as a seasoned adventurer with the instincts to match.
 
-## The Editors approach
-Two or three spider-fey drop onto the web-wall around them without making a sound—like punctuation appearing mid-sentence.
+**Item:** Her breastplate is a *+1 Breastplate* (AC 15 + DEX mod, max 2). She will not part with it — it is the one thing she is certain belongs to her.
 
-They carry quills made of bone and thread, and speak like irritated librarians.
+**DM Note:** She has no name. If she becomes a recurring NPC, the party can name her, or she can choose one herself. She will never recover her original identity, but she can build a new one.
 
-> “Unauthorized characters.”  
-> “This chapter is closed.”  
-> “Return to the margins.”
+**Stat Block**
+*Medium humanoid (elf), neutral good*
 
-### Their goal
-They don’t want a fair fight. They want to:
-- **restrain** the party to the web-wall,
-- tag them with silk “corrections,”
-- and push them back toward the exit.
+**Armor Class** 16 (+1 Breastplate)
+**Hit Points** 32 (5d8 + 10)
+**Speed** 30 ft.
 
-### Running it (low-combat, high tension)
-Treat it as a 3–round engagement:
-- Editors use webbing attacks to restrain (nonlethal).
-- PCs can talk them down:
-  - Persuasion/Deception DC 14 if offering a valuable book or the molt-book.
-  - Performance DC 13 if the bard frames themselves as “scheduled entertainment.”
-- If PCs start killing Editors, the Editors **retreat** after 1–2 rounds to fetch “Reviewers” (a bigger, nastier encounter you can drop later).
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 16 (+3) | 14 (+2) | 14 (+2) | 11 (+0) | 12 (+1) | 10 (+0) |
 
----
+**Saving Throws** STR +5, CON +4
+**Skills** Athletics +5, Perception +3
+**Senses** Darkvision 60 ft., Passive Perception 13
+**Languages** Common, Elvish (speaks fluently; does not know how she knows)
+**Challenge** 2 (450 XP)
 
-# Act V — The Library + Silksong’s Deal
+**Muscle Memory.** She does not know her name or history, but her body does. She has proficiency with all martial weapons and medium armor.
 
-## Library reveal (read-aloud)
-The descent opens into a vast hollow chamber where the tree’s heart should be. Shelves spiral around the inside like ribs, stacked with books that breathe and whisper. Web-bridges span impossible gaps. Lanterns made from trapped dew-light float between aisles, illuminating titles that rearrange themselves when you aren’t looking.
+**Actions**
 
-You realize with a cold certainty that some books are not written in ink.
+**Multiattack.** She makes two Longsword attacks.
 
-Some are written in **people**.
+**Longsword.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) if used two-handed.
 
-A figure waits on a central dais: taller, composed, draped in layered silk like formal robes. Their movements are calm, precise, and disappointed the way a professional critic is disappointed.
+**Reactions**
 
-The large blue, white spider sits at a desk, a collection of books spread infront of it. Its two front legs seem to be leafing through the books and you can hear a quiet chittering coming from it that ocelates between calm and agiatated.
-
-If the players make themselves known:
-> “Oh you're Yarnspinner's newest characters! Welcome welcome. My name is Silksong, I am responsible for ... the stories Yarnspinner loses track of.”
-
-The hook:
-> "Perhaps we can help each other. I have a few stories that need an end and I can't figure out how best to end them. If you help me find these few stories endings, I will return your names and stories! Don't worry Yarnspinner has already put your stories aside for others, he'll never notice."
-
-### Silksong (major daughter)
-- Polite, predatory, bureaucratic.
-- Views reality as editable text.
-- Wants three stories “ended properly” because incomplete stories tangle the library and create dangerous narrative knots.
-
-## The bargain
-Silksong offers:
-- Restore the party’s names (or lead them to where the names are stored), **if** the party resolves 3 stuck stories:
-  1) **Little Red Riding Hood**
-  2) **Hansel & Gretel**
-  3) **Skin Granny** (Minor Hag) — “the draft that bites back”
-
-If they refuse:
-- Silksong doesn’t attack immediately; instead they threaten to “revise” the party’s roles in Thither (a curse like disadvantage on identity/social checks, or names slipping faster).
+**Instinct.** When a creature she can see hits an adjacent ally with a melee attack, she can use her reaction to impose disadvantage on that attack roll.
 
 ---
 
-# The Three Stories (structure you can reuse)
-Each story is a **book-portal**. When pulled in:
-- The PCs gain “roles” (optional but fun): Hunter, Child, Stranger, Wolf, Witch, etc.
-- The world enforces story logic: shortcuts, repeated phrases, and “scene transitions.”
-- **Win condition:** end the story decisively (not necessarily “the classic ending,” but a coherent ending).
-- **Failure condition:** story loops or “rewrites” a PC (temporary debuff, memory tax, or lost gear until they escape).
+### Scene C — Vellum
 
-## 1) Little Red Riding Hood (social + paranoia + ambush)
-**Core drama:** trust, deception, predator wearing a face.
+> Off the main path, in a hollow formed by three silk-wrapped trees, a spider sits behind a flat stretch of web hung between two trunks like a market stall. Scrolls are pinned to it in neat rows. A piece of bark is lashed to the web at eye level, text scratched into it in Sylvan: *SCROLLS — ANY INTELLIGENT CREATURE BESIDES HARENGON.*
 
-**Scenes:**
-- The path and the basket (temptation to stray).
-- The cottage conversation (social checks, sussing out the lie).
-- The reveal and rescue (combat or clever trap).
+**Note for DM:** Harengon is the name for rabbitfolk. The party will recognize this immediately — Yanaba is Harengon.
 
-**Spotlights:**
-- Bard: Performance/Insight to control the “tone” of the scene.
-- Ranger: tracking and noticing inconsistencies.
-- Warlock: social manipulation or warding charm.
-- Paladin/barb: final confrontation / protection.
+The spider's name is **Vellum**. It is cooperative, even cheerful, in the way of a creature that has decided commerce is the most effective form of protest. It will not explain who Harengon are. It will not negotiate on the exclusion. *"Policy,"* it says, if asked, and will not elaborate.
 
-**Ending options (all valid):**
-- Expose the “wolf” with proof (Insight-based).
-- Negotiate a nonviolent ending (fey bargain).
-- Kill/drive off the predator.
+**Inventory — 3rd Level Spell Scrolls:**
 
-## 2) Hansel & Gretel (resource + navigation + trap-house)
-**Core drama:** abandonment, hunger, baited comfort.
+| Scroll | School |
+|--------|--------|
+| *Animate Dead* | Necromancy |
+| *Bestow Curse* | Necromancy |
+| *Fear* | Illusion |
+| *Hypnotic Pattern* | Illusion |
+| *Vampiric Touch* | Necromancy |
+| *Counterspell* | Abjuration |
 
-**Scenes:**
-- Running out of supplies (forced choice).
-- Breadcrumb logic failing (story “eats” the trail).
-- The candy house (trap, temptation).
-- Oven climax (classic or subverted).
+**Currency:** A live intelligent creature, given over. The creature must be present or clearly available — not a stranger, not a concept. Vellum is not particular about species or allegiance, only that the subject is alive and capable of thought. It will accept the offer immediately, write the name down, and pin it to the inside of the web without ceremony.
 
-**Spotlights:**
-- Ranger: navigation / survival / noticing false trails.
-- Bard: distracting the witch, rallying frightened “children.”
-- Warlock: seeing through charm magic.
-- Paladin/barb: brute forcing the “house” defenses.
+The trade can be made again in the future. Vellum is always open for business.
 
-**Ending options:**
-- Destroy the house’s enchantment.
-- Trick the witch into her own trap.
-- Rescue captives and escape with proof.
+**DM Note:** The party has just spent several minutes with a confused, vulnerable elven woman who does not know her own name. She is not a threat. She does not have allies. She is very easy to nominate. This is the point. Vellum did not place her there, but it is not surprised when customers arrive with someone already in mind.
 
-## 3) Skin Granny (Minor Hag boss fight — “the story that fights back”)
-**Core drama:** the editor’s nightmare made flesh; a “final draft” that refuses deletion.
-
-**Setup:** Silksong admits this one isn’t a normal fairy tale. It’s a knot: something Yarnspinner tried to write, and it started writing itself.
-
-**Arena:** a nursery-meets-printshop: pages nailed to walls, skin-thin parchment curtains, rocking chair that rocks on its own, ink that looks too dark.
-
-**Boss identity:** “Skin Granny” appears kindly at first—offering a moral lesson—then sheds it like paper.
-
-**Boss mechanics ideas (easy to run at level 4):**
-- **Illusion/Disguise** to appear as a helpful grandmother.
-- **Charm/Fear** pulses when she “reads” them aloud.
-- **Minions:** paper-dolls / stitched toys / crawling manuscripts.
-- **Weakness:** if the PCs speak/write a “true ending line” (a declaration like *“This story is over.”*) the room’s magic weakens for 1 round (advantage on attacks / saves).
-
-**Ending:** defeating her creates a tangible “ending seal” Silksong needs.
+**On Harengon:** Vellum will only say *"You'll understand when you get to the hold."* If pressed with a high Persuasion check (DC 18): *"Herrigan runs the ink trade inside. The guards let him. Don't buy anything he's written — the terms change after you've signed."*
 
 ---
 
-## Rewards & Outcomes (recommended)
-If the party completes all three:
-- Silksong returns their **names** (or gives the location/access to retrieve them).
-- Silksong grants a **Library Favor**: once, they can ask Fablerise for a true answer about a person/place in Thither (limited, but powerful).
-- They keep the bargaining book (if they didn’t spend it) or trade it for another boon (scroll, charm, etc.).
+## The Nest Proper
 
-If they cause a massacre / burn shelves / attack staff:
-- Fablerise becomes an ongoing antagonist: Editors and Reviewers appear more often in your random encounters, and “name loss” accelerates.
+> The silk parts like curtains pulled back on both sides. The trees here form a circle around an open space, and the space has been given over entirely to a stage — wide, wooden, the boards worn smooth by something other than weather. There are no seats, but there are shapes in the shadows at the edges that might have been an audience once. Above the stage, hanging in great loops from the canopy, is a scroll. It is enormous. The text across it moves, slowly, in a hand too fine and too fast to follow from here.
+>
+> And above the stage, behind it, settled into the silk and timber of the canopy with the patience of something very old, is a spider. Enormous. Tarantula-wide and still, with two large eyes facing directly forward and pedipalps that move with a slow, almost conversational rhythm. It has been watching you since before you arrived. It speaks, in a voice like several people reading aloud at slightly different speeds: *"I was wondering when you would arrive. I am in the middle of a very good part."*
 
 ---
 
-If you want, I can next write:
-1) Silksong’s exact dialogue beats (short, usable at the table),  
-2) a compact “Editor” stat template appropriate for level 4 (nonlethal web focus), and  
-3) one-page outlines for each story with 3–4 encounters each (including DCs and what counts as a “coherent ending”).
+## Negotiation with Yarnspinner
+
+See [Yarnspinner.md](../NPCs/Yarnspinner.md) for full stat block and personality notes.
+
+**Opening:** Curious, not hostile. May ask the party what their story is before they speak.
+
+**Key beats:**
+- He will acknowledge what he's done without shame
+- He knows Di's name (because he is writing it)
+- He will not be threatened; he will not be hurried
+- He may offer to read what he's written so far
+
+**If party tries to destroy the scroll:** The scroll cannot be destroyed while Yarnspinner lives. If Yarnspinner is defeated, it unravels — but written names and stories are permanently lost.
+
+---
+
+## Di's Choice
+
+**Allow Yarnspinner to finish:**
+- Di's story is consumed; player continues with a new character (new name, no connection to Di)
+- Di and Sevro become permanent in the Forever Story Scroll — read across thousands of planes, known forever
+- Yarnspinner: *"A good ending. The best kind — the kind where someone chooses it."*
+- As a parting gift he speaks both names aloud — Di's and Sevro's — returning them to the world; the party can say them again
+- If the right questions are asked, Yarnspinner may share information freely; he is in a generous mood and a finished story puts him in good spirits
+
+**Take it back:**
+- Di demands Yarnspinner stop; Yarnspinner slowly pulls the half-written thread back
+- Both Di's and Sevro's names return to the world; the party can say them again
+- Yarnspinner: *"A different kind of ending. Still interesting."*
+- He may ask the party to perform on his stage as consolation
+
+**If hostilities begin:** Yarnspinner does not fight. He calls in Helvetica first, Futura second, then summons a third of the same type if both fall. When the last called spider goes down and the party presses forward, he simply relents — settles back with a low chuckle like a page turning. *"Well. That was unexpected."* He concedes whatever was demanded.
+
+---
+
+## Yarnspinner as Information Broker
+
+Yarnspinner is ancient — he was present when Prismeer itself was young. He knows the region, its factions, its history. He is not inherently hostile to the party; if they approach diplomatically or win his interest through clever negotiation, he can become a valuable source of information.
+
+**What he knows:**
+- The movements and activities of Skabatha (they have met; he finds her interesting but ultimately predictable)
+- The layout and structure of Thither — its dangers, hidden routes, important locations
+- The history of Bavlorna and her domain (Hither)
+- The nature of names and disappearances in Prismeer — he is the cause of some of them, and knows what others are caused by
+- Where various fey are likely to congregate or hide
+- Safe paths through the forest; predators and their habits; old roads
+- **The Kidnappers** — Skabatha's collection agents; he has watched them for years; knows their patterns, their routes, and roughly how many are active at a given time; knows they answer to Cinderhold and wear identifying marks
+- **Cinderhold** — He has never entered it, but he has watched it long enough to know its rhythms; knows the gate responds to the kidnappers' cloaks; knows it moves on a rough patrol circuit; knows Harengon go in and do not come out
+- **Evelyn** — He knows her by reputation and by her marionettes, which he tolerates in his lair because they do not bother his spiders; he finds her industrious; he will not say if he has spoken with her directly; he will say she is *"writing her own story, in her own way"*
+
+**How to use him:**
+- If party befriends him, he may answer lore questions for free
+- If party negotiates, he may trade information for stories, performances, or promises to be interesting
+- He does not care about gold or conventional wealth
+- He is honest — his stories are true — but he may omit details he finds boring
+- Information given is always accompanied by the implicit warning: *"This is becoming part of a very good story."*
+
+---
+
+## NPCs
+
+- **Yarnspinner** — See [Yarnspinner.md](../NPCs/Yarnspinner.md)
+- **Helvetica** — Elite spider; directs squad; +2 to allied attacks
+- **Futura** — Elite spider; entirely reactive; 3 reactions per round; sharp and calculated
+- **Font Squad** — Arial, Impact, Comic Sans, Courier, Garamond, Wingdings, Papyrus — see [Yarnspinner-Spiders.md](../../../../creatures/Yarnspinner-Spiders.md)
+- **Evelyn's Eye** — Marionette construct; CR 3; spy for Evelyn; non-combat unless provoked
+- **The Woman in the Breastplate** — Amnesiac elven adventurer; wandering Fablerise; potential ally; carries +1 Breastplate
+- **Vellum** — Defiant spider scroll merchant; sells 3rd-level scrolls for intelligent creatures given over; will not serve Harengon; hints at Herrigan and Cinderhold's ink trade
+
+---
+
+## Web Road Encounters
+
+### Random Spider Table
+
+Roll a d8 to determine which font spider type appears when a random encounter is triggered on the web road.
+
+| d8 | Spider | Notable Behavior |
+|----|--------|-----------------|
+| 1 | Arial | Bites and immediately retreats to create a copy |
+| 2 | Impact | Charges the nearest creature, leads with its shoulder |
+| 3 | Comic Sans | Roll its d4 behavior immediately upon placing it |
+| 4 | Courier | Marks the highest-HP target and does not change |
+| 5 | Garamond | Hangs back; targets whoever is most isolated |
+| 6 | Wingdings | Rushes the nearest spellcaster |
+| 7 | Papyrus | Grand Entrance triggers immediately on arrival |
+| 8 | Roll twice | Two different types arrive together |
+
+---
+
+### Encounter Starters
+
+Three pre-built group compositions for the web road. Drop in any as the party moves between scenes.
+
+---
+
+**Encounter 1 — The Ambush**
+*Courier has already marked someone before initiative rolls. The party doesn't know.*
+
+- 1× Courier (has marked the party member who spoke most recently — it was listening)
+- 1× Garamond (positioned 30 ft. up in the silk, above and behind the party's direction of travel)
+- 1× Wingdings (hanging directly overhead; drops at initiative)
+
+**Opening:** No warning. Garamond's first strike comes from above before anyone has moved. Courier is already closing on its mark. Wingdings lands in the middle of the group.
+
+---
+
+**Encounter 2 — The Performance**
+*Papyrus has an audience.*
+
+- 1× Papyrus (center of the path, waiting)
+- 2× Arial (flanking in the treeline, 20 ft. back)
+- 1× Impact (behind the party, cutting off retreat)
+
+**Opening:** Papyrus is simply standing there when the party rounds a corner. Grand Entrance fires immediately. While the party is frightened or distracted, the Arials close from the sides and Impact blocks the rear. Read Papyrus as theatrical — it is performing.
+
+---
+
+**Encounter 3 — The Coordinator**
+*Helvetica is here. Everything else is more dangerous because of it.*
+
+- 1× Helvetica (back, elevated, directing)
+- 1× Courier (marks highest-threat party member)
+- 1× Comic Sans (roll its behavior openly each turn)
+- 1× Impact (front line)
+
+**Opening:** Helvetica is visible but not immediately engaged — it is watching. The +2 bonus is active from round one. Comic Sans's chaos makes the whole encounter unpredictable. This is the hardest of the three starters; use it if the party is moving quickly and confidently, or as a warning before the nest.
+
+---
+
+## Tactics Notes
+
+- Font squad is individually manageable but collectively exhausting — stack types for compound effects
+- Helvetica staying back and directing is the real threat; killing it breaks the +2 bonus
+- Futura doesn't initiate — position it to punish aggression; careful, spread-out play finds it less threatening
+- Comic Sans rolls openly for comedic effect
+- Arial's copies should use the target's name when announced
+
+---
+
+## Combat Map
+
+Theater of the mind is fine, or prepare a battlemap: circular treeline (soft walls), stage at center, silk-hung rafters above. Yarnspinner sits elevated above/behind stage. Font squad emerges from the web architecture in waves.
+
+---
+
+## Midjourney Scene References
+
+Three style options provided per scene. Pick a style and note it — future scenes will be generated in that style only.
+
+**Model notes:**
+- Style A uses `--niji 7` — anime/manga, Soul Eater aesthetic (note: `--style` is not compatible with `--niji 7`; style is driven by prompt descriptors instead)
+- Style B uses `--v 7` — dark fantasy painterly/concept art
+- Style C uses `--niji 7` — cleaner anime, slightly less extreme contrast than A
+
+No creatures included except Scene 4 (Theater — Yarnspinner), which includes his silhouette as an environmental element by design.
+
+---
+
+### Scene 1 — Forest Entrance (The Web Road)
+
+**Style A — Soul Eater anime**
+```
+dark gothic anime forest path, ancient trees pressed close together, thick silk threads strung between trunks at knee height and above, amber light filtering through heavy canopy, dramatic chiaroscuro shadows, deep blacks, heavy ink linework, soul eater manga aesthetic, ominous atmosphere, no people, --niji 7 --ar 16:9
+```
+
+**Style B — Dark fantasy painterly**
+```
+dark fantasy forest corridor, ancient twisted trees forming a natural tunnel, silk webbing architecture between trunks, slow amber filtered light, mist at ground level, ominous and deliberate, concept art, no figures, --v 7 --ar 16:9
+```
+
+**Style C — Clean anime**
+```
+anime forest path, old-growth trees with silk threads woven between them like architecture, warm amber canopy light, shadows pooling between roots, eerie stillness, no characters, --niji 7 --ar 16:9
+```
+
+---
+
+### Scene 2 — Inside the Nest (Path Scenes A / B / C)
+
+**Style A — Soul Eater anime**
+```
+dark gothic anime forest interior, branching silk roads between massive trees, web-architecture overhead, amber and shadow light, hollow carved from ancient wood, heavy ink contrast, soul eater manga aesthetic, one area shows flat web stretched between trunks like a market stall with scrolls pinned to it, no figures, --niji 7 --ar 16:9
+```
+
+**Style B — Dark fantasy painterly**
+```
+deep dark fantasy forest hollow, silk paths diverging in multiple directions between ancient trees, web canopy above, warm orange torchlight from no visible source, atmosphere of a place that has been inhabited for a very long time, no figures, concept art, --v 7 --ar 16:9
+```
+
+**Style C — Clean anime**
+```
+anime forest interior, multiple silk-lined paths branching into darkness, warm amber light overhead, cobwebs forming deliberate shapes between trees, quiet and unsettling, no characters, --niji 7 --ar 16:9
+```
+
+---
+
+### Scene 3 — The Theater (Empty)
+
+**Style A — Soul Eater anime**
+```
+dark gothic anime theater carved from living trees, wide wooden stage worn smooth, enormous scroll hanging in loops from the canopy above glowing with moving text, no audience, empty silk-wrapped seats at the edges in shadow, dramatic spotlight on stage, heavy ink contrast, soul eater manga aesthetic, no figures, --niji 7 --ar 16:9
+```
+
+**Style B — Dark fantasy painterly**
+```
+dark fantasy open-air theater in an ancient forest, massive wooden stage at center, gigantic scroll suspended from the canopy covered in glowing script, circular treeline forming natural walls, dramatic downward lighting, no people, concept art, --v 7 --ar 16:9
+```
+
+**Style C — Clean anime**
+```
+anime forest theater, wide worn wooden stage, enormous glowing scroll hanging above it from the canopy, trees forming a ring around the space, amber and gold light, quiet grandeur, no characters, --niji 7 --ar 16:9
+```
+
+---
+
+### Scene 4 — The Theater (With Yarnspinner)
+
+*Yarnspinner's silhouette included as an environmental element. No detailed creature rendering — shape and scale only.*
+
+**Style A — Soul Eater anime**
+```
+dark gothic anime forest theater, wide wooden stage, enormous glowing scroll hanging from canopy, and above it all a massive spider silhouette filling the upper canopy — enormous, still, two faint forward-facing eyes visible in the dark, heavy ink contrast, dramatic backlighting, soul eater manga aesthetic, ominous scale, no other figures, --niji 7 --ar 16:9
+```
+
+**Style B — Dark fantasy painterly**
+```
+dark fantasy open-air forest theater, ancient wooden stage, gigantic scroll suspended glowing above, and looming beyond it an enormous spider shape in the canopy — size of a house, motionless, two pale eyes catching the light, atmosphere of something very old and very patient, no people, concept art, --v 7 --ar 16:9
+```
+
+**Style C — Clean anime**
+```
+anime forest theater, worn wooden stage, massive scroll overhead with flowing text, and sitting still in the silk above a vast spider silhouette — huge, calm, two large forward-facing eyes faintly lit, scale dwarfing the stage below, no other characters, --niji 7 --ar 16:9
+```
