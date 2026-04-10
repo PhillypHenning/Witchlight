@@ -34,7 +34,7 @@ The trail led north until the trees stopped and the world turned to ash. On the 
    d. Jinx will claim this is perfectly normal or deny it is happening at all; Lindsay will be quietly alarmed
 
 4. **Path A — Fablerise** ([Fablerise.md](../../../Worlds/Prismeer/Thither/Locations/Fablerise.md))
-   a. *Take this path if the party investigates the name loss or follows an eastward pull*
+   a. *Take this path if the party investigates the name loss or follows an westward pull*
    b. Something edges them west — a sound like paper turning, a silk thread at ankle height covered in tiny moving text (Perception DC 12 to notice text)
    c. Approach encounter: font squad deploys as the party enters the web road — see [Fablerise.md](../../../Worlds/Prismeer/Thither/Locations/Fablerise.md) and [Yarnspinner-Spiders.md](../../../creatures/Yarnspinner-Spiders.md)
    d. The nest: an enormous theatre carved from trees; stage at center; the Forever Story Scroll hanging in loops above it; Yarnspinner watching
@@ -43,8 +43,48 @@ The trail led north until the trees stopped and the world turned to ash. On the 
 
 5. **Path B — Following the Kidnapper**
    a. *Take this path if the party pursues the cloaked figure seen leaving Cinderhold*
-   b. Kidnapper moves west into Thither; full planning deferred — see [Wardens-Pass.md](../../../Worlds/General/Magic-Items/Wardens-Pass.md) for entry mechanics
+   b. The figure moves northwest — destination is [Little Treats Orphanage](../../../Worlds/Prismeer/Thither/Locations/Little-Treats-Orphanage.md), northwest-most point on the map; Skabatha's seat of power
    c. Hold Yarnspinner for a future session — his encounter is not time-sensitive
+
+   **Three Consecutive Checks — the Chase**
+
+   d. **Check 1 — Perception DC 14** *(following the trail)*
+      - The kidnapper moves through open cinder dunes then into the dark treeline; ash obscures footprints within minutes; shadowy figure blends into trunks
+      - *Success*: party keeps pace; the kidnapper has not noticed them
+      - *Fail*: they fall behind; gap widens; kidnapper has a head start by the time the treeline opens onto orphanage grounds (intercept window closes)
+
+   e. **Check 2 — Constitution Save DC 13** *(cinder gust)*
+      - Between dunes and treeline: a massive gust tears across the open ground, driving hot ash and ember fragments horizontally
+      - Narrate: *"The gust hits before you hear it — grey-white ash and red-hot cinders driven at eye level, tasting of iron and burnt wood."*
+      - *Success*: push through; eyes stinging, no mechanical effect
+      - *Fail*: Cinders driven into eyes and lungs — Disadvantage on all attack rolls and ability checks until the end of their next combat
+
+   f. **Check 3 — Nature DC 13** *(dangerous plantlife)*
+      - Inside the Thither treeline; undergrowth is dense and visually hostile near Skabatha's domain
+      - *Success*: spot the hazard; navigate around without triggering it or losing ground
+      - *Fail*: trigger the effect (see recommended options below)
+      - **Plantlife options — pick one or two:**
+         - **Ash Vine** *(recommended)*: grey-white trailing vines blending into cinder-dusted ground; trigger = Restrained (STR DC 12 to escape as a bonus action); stepping into a patch also releases a white dust cloud visible 60 ft. in any direction — if the kidnapper glances back, they notice (Perception DC 10 vs. lowest party Stealth)
+         - **Witchfire Fern** *(recommended)*: bioluminescent orange-veined fronds that flare when touched; 10-ft. radius bright light for 1 minute; triggers a Perception DC 12 check from the kidnapper vs. the party's lowest Stealth — if spotted, the figure breaks into a run
+         - **Snap Root** *(simple fallback)*: woody root loops arcing just above dead undergrowth like wire snares; fail = Prone + 1d4 piercing + snap audible within 30 ft.; straightforward, no stealth complication
+
+   **Outcomes by Check Results**
+
+   g. *3 successes*: party closes within 30 ft. of the kidnapper as they reach the orphanage fence line — intercept possible before entry; figure has not spotted them
+   h. *2 successes / 1 fail*: party arrives at the orphanage grounds as the figure slips inside — no intercept; orphanage visible, kidnapper gone in; surveillance opportunity only
+   i. *1 or fewer successes*: party arrives disoriented at the treeline edge; orphanage visible in the distance; trail cold; if the Witchfire Fern triggered and the kidnapper spotted them, a second figure has already come out to watch the tree line
+
+   **If Intercept Happens (3 successes)**
+
+   j. The Dolgaunt does not stop or speak — it fights only to reach the fence; use Dolgaunt stat block (CR 3)
+   k. If killed: dissolves into grey ash; the cloak crumples empty; searching it finds the skull-die emblem and a folded parchment inside — a list of children's names with dates beside each (a delivery record; not immediately interpretable)
+   l. Whether intercepted or not, the party continues to the orphanage — see arrival beat below
+
+   **Arrival at the Orphanage (Path B Session Endpoint)**
+
+   m. Read-aloud and full location detail — see [Little-Treats-Orphanage.md](../../../Worlds/Prismeer/Thither/Locations/Little-Treats-Orphanage.md)
+   n. The fence is magically warded — adults cannot pass regardless of disguise; the ward reads form, not appearance; illusion magic does nothing; Miss Able knows when someone is at the fence and may appear at an upper window to observe
+   o. Entry requires genuinely appearing to be a child — Polymorph (Never Leave Spa reward) is the intended route; party can explore the exterior freely
 
 ## Future Events
 
@@ -54,11 +94,16 @@ The trail led north until the trees stopped and the world turned to ash. On the 
 2. **Never Leave Spa** ([Never-Leave-Spa.md](../../../Worlds/Prismeer/Thither/Locations/Never-Leave-Spa.md)) — southwest along the river; Caldrien's job
    a. Polymorph potion reward still owed
    b. False Hydra still active
-3. **Kidnapper Logistics** — Kidnappers retreat to orphanage when off-duty; 6–8 hidden as toys on site, 4–6 roaming in pairs (night/pre-dawn); intel delivered by Ghost Children encounter ([Ghost-Children.md](../Ghost-Children.md))
+3. **Kidnapper Logistics** — Dolgaunts return to the orphanage as their base; 6–8 stationed inside disguised as toys; 4–6 deployed in roaming pairs (night/pre-dawn); full intel delivered by Ghost Children encounter ([Ghost-Children.md](../Ghost-Children.md))
 4. **Ghost Children** ([Ghost-Children.md](../Ghost-Children.md)) — Jenny and Howard; drop anywhere en route; confirms Star's location and Kidnapper timing
-5. **Di's Contracts** — ~2 months remaining; Velisara + Caldrien coordinated
-6. **Witchlight Staff Tally** — Tilly ✓, Grimble ✓, Marlon ✗; 4 remaining
-7. **White Bliss Drug** — not yet offered to Sevro's replacement; still pending
+5. **The Three Wind-Up Keys** ([Little-Treats-Orphanage.md](../../../Worlds/Prismeer/Thither/Locations/Little-Treats-Orphanage.md)) — unlock the real Toyhouse wardrobe inside the orphanage
+   a. First key: Cinderhold Prison
+   b. Second key: Starved Goblin Casino
+   c. Third key: Never Leave Spa
+6. **The Children of the Orphanage** — 16 children inside including 3 taken from the Witchlight Carnival ~2 weeks ago; faces visible in windows this session; rescue is not yet a named quest but the party has now seen them
+7. **Di's Contracts** — ~2 months remaining; Velisara + Caldrien coordinated
+8. **Witchlight Staff Tally** — Tilly ✓, Grimble ✓, Marlon ✗; 4 remaining
+9. **White Bliss Drug** — not yet offered to Sevro's replacement; still pending
 
 ## Cut-Scene — Yanaba in Cinderhold
 
@@ -104,6 +149,7 @@ Run the **Entry Beat** from [Yanaba-in-Cinderhold.md](../Sessions/Cinderhold/Yan
 - **Helvetica** (Elite Spider) — Directs font squad; +2 to all nearby allied spider attacks. See [Yarnspinner-Spiders.md](../../../creatures/Yarnspinner-Spiders.md)
 - **Futura** (Elite Spider) — Entirely reactive; 3 reactions per round; sharp and calculated. See [Yarnspinner-Spiders.md](../../../creatures/Yarnspinner-Spiders.md)
 - **Font Squad** — Arial, Impact, Comic Sans, Courier, Garamond, Wingdings, Papyrus. See [Yarnspinner-Spiders.md](../../../creatures/Yarnspinner-Spiders.md)
+- **Miss Able / Er Able** (Night Hag) — Runs the orphanage for Skabatha; grandmotherly, patient, impossible to rattle; will not come to the fence but may appear at a window; use Night Hag stat block. See [Little-Treats-Orphanage.md](../../../Worlds/Prismeer/Thither/Locations/Little-Treats-Orphanage.md)
 - **Jinx** (Travis) — Human old man; Artificer (Armorer); looking for Jezebel
 - **Lindsay** (Emily) — Fairy cleric; Jinx's caretaker; flustered; genuinely trying
 
