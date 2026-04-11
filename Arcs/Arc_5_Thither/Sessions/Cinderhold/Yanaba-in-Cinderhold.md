@@ -3,6 +3,7 @@
 **Format**: Emily plays Yanaba. Other players each take a pre-gen character already inside the prison. Each player gets 1–2 paragraphs of character context and a personal goal.
 
 **Reference**: [Cinder-Hold-Prison.md](../../../../Worlds/Prismeer/Thither/Locations/Cinder-Hold-Prison.md) | [Cinderhold-Dungeon.md](./Cinderhold-Dungeon.md)
+**Cut-Scenes**: [Cut-Scene-1 — Yanaba's Arrival](./Cut-Scene-1.md)
 
 ---
 
@@ -11,7 +12,9 @@
 ### Mira — Yanaba's Mother (Sydney)
 Mira has been inside Cinder Hold for years — long enough that she no longer counts the days. She was a healer in the old community, known for a steady hand and a refusal to panic. The prison has not broken her, but it has changed her. She speaks slowly now, measures everything, trusts almost no one. She is aware of the Harengon politics and has kept her head down through both regimes, which has made her enemies on both sides.
 
-She knows Yanaba was born outside the prison. She does not know if her daughter is alive. When Yanaba arrives, Mira's composure will crack — briefly — before she pulls herself back together, because falling apart is a luxury she cannot afford.
+**The Stork:** In Prismeer, storks carry newborns between families. Mira's stork was sent for Yanaba before the imprisonment — and never came back. The family knows only that the stork went missing; they have no information about what happened to the child it was carrying. Mira does not know if her daughter is alive or dead.
+
+**The Recognition (CS-1):** Mira will recognize Yanaba while treating her wound in Cut-Scene 1 — the shape of her face, the notch in her ear. This moment is delivered to Sydney in private (whispered aside or direct message). Sydney then decides what Mira does with that knowledge. See [Cut-Scene-1.md](./Cut-Scene-1.md) for the full private prompt.
 
 **Goal**: Keep Yanaba alive and find a way out, even if it means making deals she'll regret.
 
@@ -20,9 +23,11 @@ She knows Yanaba was born outside the prison. She does not know if her daughter 
 ### Pip — Yanaba's Little Brother (Travis)
 Pip was born inside Cinder Hold. He has never seen a sky that wasn't filtered through iron and witchfire. He's scrappy, loud when he thinks he can get away with it, and deeply loyal to the few people he trusts. He idolizes Mira and is terrified of the Separatists, though he'd never admit either.
 
-He has heard about an older sister his whole life — a name Mira says quietly sometimes when she thinks he's asleep. He doesn't know what to do with the fact that she's actually here. He might be annoying about it. He might be quietly overwhelmed. He might try to prove he's useful so she doesn't leave without him.
+**What Pip knows:** He does not know about Yanaba. He has heard Mira say a girl's name quietly, sometimes, when she thinks he's asleep — but he has no context for it and has never asked directly.
 
-**Goal**: Stick close to the new arrival (Yanaba) and figure out if she's really who Mira says she is.
+**Perception Check (DC 13):** When Yanaba wakes in CS-1, Pip can make a Perception check to notice the family resemblance — the shape of her face, the cut of her jaw — before being told anything. On a success, he notices but doesn't know what to do with it. On a failure, she's just a new arrival until something else triggers it.
+
+**Goal**: Stick close to the new arrival and figure out who she is.
 
 ---
 
